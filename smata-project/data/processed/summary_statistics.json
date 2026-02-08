@@ -1,0 +1,96 @@
+{
+  "Monkey": {
+    "coverage": {
+      "mean": 41.2,
+      "std": 10.4
+    },
+    "detection": {
+      "mean": 35.4,
+      "std": 6.0
+    },
+    "reproducibility": {
+      "mean": 23.8,
+      "std": 9.3
+    },
+    "debug_time": {
+      "mean": 78.4,
+      "std": 25.6
+    },
+    "setup_time": {
+      "mean": 1.1,
+      "std": 0.3
+    }
+  },
+  "Dynodroid": {
+    "coverage": {
+      "mean": 47.6,
+      "std": 8.1
+    },
+    "detection": {
+      "mean": 47.7,
+      "std": 5.8
+    },
+    "reproducibility": {
+      "mean": 37.3,
+      "std": 6.8
+    },
+    "debug_time": {
+      "mean": 66.8,
+      "std": 19.3
+    },
+    "setup_time": {
+      "mean": 4.4,
+      "std": 1.5
+    }
+  },
+  "Ad-hoc": {
+    "coverage": {
+      "mean": 50.3,
+      "std": 7.2
+    },
+    "detection": {
+      "mean": 52.6,
+      "std": 4.4
+    },
+    "reproducibility": {
+      "mean": 57.1,
+      "std": 11.2
+    },
+    "debug_time": {
+      "mean": 47.0,
+      "std": 17.6
+    },
+    "setup_time": {
+      "mean": 18.6,
+      "std": 5.4
+    }
+  },
+  "SMATA": {
+    "coverage": {
+      "mean": 70.4,
+      "std": 6.5
+    },
+    "detection": {
+      "mean": 67.9,
+      "std": 5.8
+    },
+    "reproducibility": {
+      "mean": 90.7,
+      "std": 4.5
+    },
+    "debug_time": {
+      "mean": 27.4,
+      "std": 7.3
+    },
+    "setup_time": {
+      "mean": 5.2,
+      "std": 1.7
+    }
+  },
+  "SMATA-Reuse": {
+    "setup_time": {
+      "mean": 2.1,
+      "std": 0.6
+    }
+  }
+}

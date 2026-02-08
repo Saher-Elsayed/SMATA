@@ -1,0 +1,145 @@
+{
+  "apps": {
+    "AnyMemo": {
+      "package": "org.liberty.android.fantastischmemo",
+      "version": "10.11.6",
+      "loc": 12000,
+      "domain": "flashcards",
+      "fdroid_url": "https://f-droid.org/packages/org.liberty.android.fantastischmemo/",
+      "has_authentication": false,
+      "complexity": "medium",
+      "init_sequence": [
+        {"type": "wait", "timeout_ms": 3000, "description": "Wait for splash screen"},
+        {"type": "click", "target": "btn_skip_intro", "description": "Skip introduction wizard", "optional": true}
+      ]
+    },
+    "K9Mail": {
+      "package": "com.fsck.k9",
+      "version": "6.600",
+      "loc": 45000,
+      "domain": "email",
+      "fdroid_url": "https://f-droid.org/packages/com.fsck.k9/",
+      "has_authentication": true,
+      "complexity": "high",
+      "init_sequence": [
+        {"type": "wait", "timeout_ms": 3000, "description": "Wait for launch"},
+        {"type": "click", "target": "btn_next", "description": "Tap Next on welcome"},
+        {"type": "text_input", "target": "input_email", "value": "test@example.com", "description": "Enter email"},
+        {"type": "text_input", "target": "input_password", "value": "testpass123", "description": "Enter password"},
+        {"type": "click", "target": "btn_manual_setup", "description": "Manual setup"},
+        {"type": "text_input", "target": "input_imap_server", "value": "imap.example.com", "description": "IMAP server"},
+        {"type": "text_input", "target": "input_smtp_server", "value": "smtp.example.com", "description": "SMTP server"},
+        {"type": "click", "target": "btn_done", "description": "Complete setup"},
+        {"type": "wait", "timeout_ms": 5000, "description": "Wait for sync"}
+      ]
+    },
+    "WordPress": {
+      "package": "org.wordpress.android",
+      "version": "20.0",
+      "loc": 38000,
+      "domain": "blogging",
+      "fdroid_url": "https://f-droid.org/packages/org.wordpress.android/",
+      "has_authentication": true,
+      "complexity": "high",
+      "init_sequence": [
+        {"type": "wait", "timeout_ms": 3000, "description": "Wait for launch"},
+        {"type": "click", "target": "btn_login", "description": "Tap Log In"},
+        {"type": "text_input", "target": "input_site_url", "value": "test.wordpress.com", "description": "Enter site URL"},
+        {"type": "click", "target": "btn_continue", "description": "Continue"},
+        {"type": "text_input", "target": "input_email_or_username", "value": "testuser", "description": "Enter username"},
+        {"type": "text_input", "target": "input_password", "value": "testpass123", "description": "Enter password"},
+        {"type": "click", "target": "btn_continue", "description": "Log in"},
+        {"type": "wait", "timeout_ms": 5000, "description": "Wait for dashboard"}
+      ]
+    },
+    "AardDictionary": {
+      "package": "aarddict.android",
+      "version": "1.6.12",
+      "loc": 5000,
+      "domain": "reference",
+      "fdroid_url": "https://f-droid.org/packages/aarddict.android/",
+      "has_authentication": false,
+      "complexity": "low",
+      "init_sequence": [
+        {"type": "wait", "timeout_ms": 2000, "description": "Wait for launch"},
+        {"type": "permission_grant", "target": "aarddict.android", "value": "android.permission.READ_EXTERNAL_STORAGE", "description": "Grant storage permission", "optional": true}
+      ]
+    },
+    "ConnectBot": {
+      "package": "org.connectbot",
+      "version": "1.9.9",
+      "loc": 18000,
+      "domain": "ssh_client",
+      "fdroid_url": "https://f-droid.org/packages/org.connectbot/",
+      "has_authentication": true,
+      "complexity": "medium",
+      "init_sequence": [
+        {"type": "wait", "timeout_ms": 2000, "description": "Wait for launch"},
+        {"type": "click", "target": "btn_add_host", "description": "Add new host"},
+        {"type": "text_input", "target": "input_hostname", "value": "localhost", "description": "Enter hostname"},
+        {"type": "click", "target": "btn_connect", "description": "Connect", "optional": true}
+      ]
+    },
+    "Tomdroid": {
+      "package": "org.tomdroid",
+      "version": "0.7.5",
+      "loc": 8000,
+      "domain": "notes",
+      "fdroid_url": "https://f-droid.org/packages/org.tomdroid/",
+      "has_authentication": false,
+      "complexity": "low",
+      "init_sequence": [
+        {"type": "wait", "timeout_ms": 2000, "description": "Wait for launch"}
+      ]
+    },
+    "OINotepad": {
+      "package": "org.openintents.notepad",
+      "version": "1.5.4",
+      "loc": 6000,
+      "domain": "text_editor",
+      "fdroid_url": "https://f-droid.org/packages/org.openintents.notepad/",
+      "has_authentication": false,
+      "complexity": "low",
+      "init_sequence": [
+        {"type": "wait", "timeout_ms": 2000, "description": "Wait for launch"}
+      ]
+    },
+    "TippyTipper": {
+      "package": "net.mandaria.tippytipper",
+      "version": "1.2",
+      "loc": 2000,
+      "domain": "calculator",
+      "fdroid_url": "https://f-droid.org/packages/net.mandaria.tippytipper/",
+      "has_authentication": false,
+      "complexity": "low",
+      "init_sequence": [
+        {"type": "wait", "timeout_ms": 1000, "description": "Wait for launch"}
+      ]
+    },
+    "BookCatalogue": {
+      "package": "com.eleybourn.bookcatalogue",
+      "version": "5.2.2",
+      "loc": 15000,
+      "domain": "tracker",
+      "fdroid_url": "https://f-droid.org/packages/com.eleybourn.bookcatalogue/",
+      "has_authentication": false,
+      "complexity": "medium",
+      "init_sequence": [
+        {"type": "wait", "timeout_ms": 2000, "description": "Wait for launch"},
+        {"type": "permission_grant", "target": "com.eleybourn.bookcatalogue", "value": "android.permission.INTERNET", "description": "Grant internet permission", "optional": true}
+      ]
+    },
+    "OpenSudoku": {
+      "package": "org.moire.opensudoku",
+      "version": "3.6.0",
+      "loc": 7000,
+      "domain": "puzzle",
+      "fdroid_url": "https://f-droid.org/packages/org.moire.opensudoku/",
+      "has_authentication": false,
+      "complexity": "low",
+      "init_sequence": [
+        {"type": "wait", "timeout_ms": 2000, "description": "Wait for launch"}
+      ]
+    }
+  }
+}

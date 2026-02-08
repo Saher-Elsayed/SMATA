@@ -1,0 +1,401 @@
+app,approach,run,reproducibility_pct,bugs_total,bugs_reproduced
+AnyMemo,Monkey,1,35.57,17,6
+AnyMemo,Monkey,2,35.11,17,6
+AnyMemo,Monkey,3,31.51,17,5
+AnyMemo,Monkey,4,4.99,17,1
+AnyMemo,Monkey,5,32.57,17,6
+AnyMemo,Monkey,6,22.84,17,4
+AnyMemo,Monkey,7,0.28,17,0
+AnyMemo,Monkey,8,35.11,17,6
+AnyMemo,Monkey,9,36.44,17,6
+AnyMemo,Monkey,10,5.97,17,1
+AnyMemo,Dynodroid,1,37.32,17,6
+AnyMemo,Dynodroid,2,44.35,17,8
+AnyMemo,Dynodroid,3,43.43,17,7
+AnyMemo,Dynodroid,4,41.15,17,7
+AnyMemo,Dynodroid,5,20.95,17,4
+AnyMemo,Dynodroid,6,40.53,17,7
+AnyMemo,Dynodroid,7,35.03,17,6
+AnyMemo,Dynodroid,8,42.08,17,7
+AnyMemo,Dynodroid,9,37.79,17,6
+AnyMemo,Dynodroid,10,36.18,17,6
+AnyMemo,Ad-hoc,1,64.15,17,11
+AnyMemo,Ad-hoc,2,55.21,17,9
+AnyMemo,Ad-hoc,3,56.83,17,10
+AnyMemo,Ad-hoc,4,50.99,17,9
+AnyMemo,Ad-hoc,5,39.44,17,7
+AnyMemo,Ad-hoc,6,63.35,17,11
+AnyMemo,Ad-hoc,7,48.23,17,8
+AnyMemo,Ad-hoc,8,54.89,17,9
+AnyMemo,Ad-hoc,9,60.26,17,10
+AnyMemo,Ad-hoc,10,34.16,17,6
+AnyMemo,SMATA,1,81.72,17,14
+AnyMemo,SMATA,2,88.75,17,15
+AnyMemo,SMATA,3,92.15,17,16
+AnyMemo,SMATA,4,93.45,17,16
+AnyMemo,SMATA,5,82.94,17,14
+AnyMemo,SMATA,6,92.96,17,16
+AnyMemo,SMATA,7,89.0,17,15
+AnyMemo,SMATA,8,86.13,17,15
+AnyMemo,SMATA,9,87.18,17,15
+AnyMemo,SMATA,10,93.71,17,16
+K-9 Mail,Monkey,1,30.87,13,4
+K-9 Mail,Monkey,2,25.19,13,3
+K-9 Mail,Monkey,3,21.94,13,3
+K-9 Mail,Monkey,4,17.3,13,2
+K-9 Mail,Monkey,5,18.96,13,2
+K-9 Mail,Monkey,6,28.74,13,4
+K-9 Mail,Monkey,7,22.13,13,3
+K-9 Mail,Monkey,8,18.74,13,2
+K-9 Mail,Monkey,9,27.56,13,4
+K-9 Mail,Monkey,10,27.92,13,4
+K-9 Mail,Dynodroid,1,29.05,13,4
+K-9 Mail,Dynodroid,2,39.61,13,5
+K-9 Mail,Dynodroid,3,50.81,13,7
+K-9 Mail,Dynodroid,4,39.02,13,5
+K-9 Mail,Dynodroid,5,26.45,13,3
+K-9 Mail,Dynodroid,6,37.33,13,5
+K-9 Mail,Dynodroid,7,25.68,13,3
+K-9 Mail,Dynodroid,8,54.67,13,7
+K-9 Mail,Dynodroid,9,49.27,13,6
+K-9 Mail,Dynodroid,10,32.44,13,4
+K-9 Mail,Ad-hoc,1,32.4,13,4
+K-9 Mail,Ad-hoc,2,47.44,13,6
+K-9 Mail,Ad-hoc,3,55.11,13,7
+K-9 Mail,Ad-hoc,4,37.72,13,5
+K-9 Mail,Ad-hoc,5,56.34,13,7
+K-9 Mail,Ad-hoc,6,55.04,13,7
+K-9 Mail,Ad-hoc,7,58.48,13,8
+K-9 Mail,Ad-hoc,8,59.63,13,8
+K-9 Mail,Ad-hoc,9,46.48,13,6
+K-9 Mail,Ad-hoc,10,47.71,13,6
+K-9 Mail,SMATA,1,90.31,13,12
+K-9 Mail,SMATA,2,87.26,13,11
+K-9 Mail,SMATA,3,94.18,13,12
+K-9 Mail,SMATA,4,90.26,13,12
+K-9 Mail,SMATA,5,98.49,13,13
+K-9 Mail,SMATA,6,93.79,13,12
+K-9 Mail,SMATA,7,95.07,13,12
+K-9 Mail,SMATA,8,90.7,13,12
+K-9 Mail,SMATA,9,90.81,13,12
+K-9 Mail,SMATA,10,97.89,13,13
+WordPress,Monkey,1,31.79,23,7
+WordPress,Monkey,2,27.14,23,6
+WordPress,Monkey,3,26.99,23,6
+WordPress,Monkey,4,29.81,23,7
+WordPress,Monkey,5,27.87,23,6
+WordPress,Monkey,6,31.1,23,7
+WordPress,Monkey,7,32.48,23,7
+WordPress,Monkey,8,37.24,23,9
+WordPress,Monkey,9,17.39,23,4
+WordPress,Monkey,10,27.67,23,6
+WordPress,Dynodroid,1,34.15,23,8
+WordPress,Dynodroid,2,31.47,23,7
+WordPress,Dynodroid,3,32.3,23,7
+WordPress,Dynodroid,4,39.17,23,9
+WordPress,Dynodroid,5,38.73,23,9
+WordPress,Dynodroid,6,38.62,23,9
+WordPress,Dynodroid,7,34.99,23,8
+WordPress,Dynodroid,8,36.32,23,8
+WordPress,Dynodroid,9,41.04,23,9
+WordPress,Dynodroid,10,27.66,23,6
+WordPress,Ad-hoc,1,57.37,23,13
+WordPress,Ad-hoc,2,58.09,23,13
+WordPress,Ad-hoc,3,65.39,23,15
+WordPress,Ad-hoc,4,42.25,23,10
+WordPress,Ad-hoc,5,73.55,23,17
+WordPress,Ad-hoc,6,59.45,23,14
+WordPress,Ad-hoc,7,60.03,23,14
+WordPress,Ad-hoc,8,52.68,23,12
+WordPress,Ad-hoc,9,63.02,23,14
+WordPress,Ad-hoc,10,57.63,23,13
+WordPress,SMATA,1,95.54,23,22
+WordPress,SMATA,2,83.61,23,19
+WordPress,SMATA,3,90.89,23,21
+WordPress,SMATA,4,91.94,23,21
+WordPress,SMATA,5,89.26,23,21
+WordPress,SMATA,6,88.28,23,20
+WordPress,SMATA,7,88.47,23,20
+WordPress,SMATA,8,90.89,23,21
+WordPress,SMATA,9,81.96,23,19
+WordPress,SMATA,10,94.44,23,22
+Aard Dictionary,Monkey,1,18.21,21,4
+Aard Dictionary,Monkey,2,26.73,21,6
+Aard Dictionary,Monkey,3,37.55,21,8
+Aard Dictionary,Monkey,4,22.7,21,5
+Aard Dictionary,Monkey,5,18.25,21,4
+Aard Dictionary,Monkey,6,40.42,21,8
+Aard Dictionary,Monkey,7,10.12,21,2
+Aard Dictionary,Monkey,8,3.29,21,1
+Aard Dictionary,Monkey,9,27.3,21,6
+Aard Dictionary,Monkey,10,18.73,21,4
+Aard Dictionary,Dynodroid,1,30.38,21,6
+Aard Dictionary,Dynodroid,2,40.41,21,8
+Aard Dictionary,Dynodroid,3,37.71,21,8
+Aard Dictionary,Dynodroid,4,33.03,21,7
+Aard Dictionary,Dynodroid,5,28.87,21,6
+Aard Dictionary,Dynodroid,6,41.36,21,9
+Aard Dictionary,Dynodroid,7,40.07,21,8
+Aard Dictionary,Dynodroid,8,35.72,21,8
+Aard Dictionary,Dynodroid,9,47.01,21,10
+Aard Dictionary,Dynodroid,10,30.09,21,6
+Aard Dictionary,Ad-hoc,1,40.32,21,8
+Aard Dictionary,Ad-hoc,2,49.49,21,10
+Aard Dictionary,Ad-hoc,3,56.6,21,12
+Aard Dictionary,Ad-hoc,4,59.78,21,13
+Aard Dictionary,Ad-hoc,5,54.45,21,11
+Aard Dictionary,Ad-hoc,6,60.97,21,13
+Aard Dictionary,Ad-hoc,7,43.33,21,9
+Aard Dictionary,Ad-hoc,8,72.98,21,15
+Aard Dictionary,Ad-hoc,9,56.2,21,12
+Aard Dictionary,Ad-hoc,10,69.39,21,15
+Aard Dictionary,SMATA,1,91.64,21,19
+Aard Dictionary,SMATA,2,92.16,21,19
+Aard Dictionary,SMATA,3,92.66,21,19
+Aard Dictionary,SMATA,4,92.11,21,19
+Aard Dictionary,SMATA,5,92.99,21,20
+Aard Dictionary,SMATA,6,96.08,21,20
+Aard Dictionary,SMATA,7,90.98,21,19
+Aard Dictionary,SMATA,8,93.29,21,20
+Aard Dictionary,SMATA,9,89.7,21,19
+Aard Dictionary,SMATA,10,96.58,21,20
+ConnectBot,Monkey,1,38.21,21,8
+ConnectBot,Monkey,2,36.96,21,8
+ConnectBot,Monkey,3,26.63,21,6
+ConnectBot,Monkey,4,8.92,21,2
+ConnectBot,Monkey,5,18.08,21,4
+ConnectBot,Monkey,6,19.07,21,4
+ConnectBot,Monkey,7,11.23,21,2
+ConnectBot,Monkey,8,33.81,21,7
+ConnectBot,Monkey,9,10.07,21,2
+ConnectBot,Monkey,10,41.18,21,9
+ConnectBot,Dynodroid,1,47.68,21,10
+ConnectBot,Dynodroid,2,34.07,21,7
+ConnectBot,Dynodroid,3,38.21,21,8
+ConnectBot,Dynodroid,4,35.88,21,8
+ConnectBot,Dynodroid,5,41.53,21,9
+ConnectBot,Dynodroid,6,43.69,21,9
+ConnectBot,Dynodroid,7,37.8,21,8
+ConnectBot,Dynodroid,8,39.02,21,8
+ConnectBot,Dynodroid,9,32.7,21,7
+ConnectBot,Dynodroid,10,38.83,21,8
+ConnectBot,Ad-hoc,1,58.89,21,12
+ConnectBot,Ad-hoc,2,47.07,21,10
+ConnectBot,Ad-hoc,3,56.95,21,12
+ConnectBot,Ad-hoc,4,52.88,21,11
+ConnectBot,Ad-hoc,5,50.4,21,11
+ConnectBot,Ad-hoc,6,44.49,21,9
+ConnectBot,Ad-hoc,7,57.79,21,12
+ConnectBot,Ad-hoc,8,48.51,21,10
+ConnectBot,Ad-hoc,9,51.92,21,11
+ConnectBot,Ad-hoc,10,68.93,21,14
+ConnectBot,SMATA,1,92.94,21,20
+ConnectBot,SMATA,2,85.7,21,18
+ConnectBot,SMATA,3,91.68,21,19
+ConnectBot,SMATA,4,90.7,21,19
+ConnectBot,SMATA,5,97.76,21,21
+ConnectBot,SMATA,6,96.32,21,20
+ConnectBot,SMATA,7,83.2,21,17
+ConnectBot,SMATA,8,93.98,21,20
+ConnectBot,SMATA,9,95.79,21,20
+ConnectBot,SMATA,10,92.62,21,19
+Tomdroid,Monkey,1,24.34,22,5
+Tomdroid,Monkey,2,31.95,22,7
+Tomdroid,Monkey,3,21.5,22,5
+Tomdroid,Monkey,4,35.29,22,8
+Tomdroid,Monkey,5,26.95,22,6
+Tomdroid,Monkey,6,43.16,22,9
+Tomdroid,Monkey,7,19.94,22,4
+Tomdroid,Monkey,8,25.16,22,6
+Tomdroid,Monkey,9,13.91,22,3
+Tomdroid,Monkey,10,18.48,22,4
+Tomdroid,Dynodroid,1,39.89,22,9
+Tomdroid,Dynodroid,2,42.85,22,9
+Tomdroid,Dynodroid,3,53.5,22,12
+Tomdroid,Dynodroid,4,35.74,22,8
+Tomdroid,Dynodroid,5,30.89,22,7
+Tomdroid,Dynodroid,6,40.67,22,9
+Tomdroid,Dynodroid,7,29.76,22,7
+Tomdroid,Dynodroid,8,39.57,22,9
+Tomdroid,Dynodroid,9,33.39,22,7
+Tomdroid,Dynodroid,10,37.53,22,8
+Tomdroid,Ad-hoc,1,69.1,22,15
+Tomdroid,Ad-hoc,2,55.88,22,12
+Tomdroid,Ad-hoc,3,67.36,22,15
+Tomdroid,Ad-hoc,4,66.7,22,15
+Tomdroid,Ad-hoc,5,36.59,22,8
+Tomdroid,Ad-hoc,6,47.18,22,10
+Tomdroid,Ad-hoc,7,39.92,22,9
+Tomdroid,Ad-hoc,8,79.12,22,17
+Tomdroid,Ad-hoc,9,55.94,22,12
+Tomdroid,Ad-hoc,10,76.69,22,17
+Tomdroid,SMATA,1,82.75,22,18
+Tomdroid,SMATA,2,87.52,22,19
+Tomdroid,SMATA,3,93.7,22,21
+Tomdroid,SMATA,4,90.91,22,20
+Tomdroid,SMATA,5,92.5,22,20
+Tomdroid,SMATA,6,84.46,22,19
+Tomdroid,SMATA,7,96.3,22,21
+Tomdroid,SMATA,8,93.6,22,21
+Tomdroid,SMATA,9,91.91,22,20
+Tomdroid,SMATA,10,87.01,22,19
+OI Notepad,Monkey,1,38.41,23,9
+OI Notepad,Monkey,2,34.91,23,8
+OI Notepad,Monkey,3,25.4,23,6
+OI Notepad,Monkey,4,2.15,23,0
+OI Notepad,Monkey,5,16.9,23,4
+OI Notepad,Monkey,6,22.01,23,5
+OI Notepad,Monkey,7,15.17,23,3
+OI Notepad,Monkey,8,22.03,23,5
+OI Notepad,Monkey,9,37.95,23,9
+OI Notepad,Monkey,10,8.32,23,2
+OI Notepad,Dynodroid,1,46.81,23,11
+OI Notepad,Dynodroid,2,41.43,23,10
+OI Notepad,Dynodroid,3,37.86,23,9
+OI Notepad,Dynodroid,4,32.16,23,7
+OI Notepad,Dynodroid,5,31.23,23,7
+OI Notepad,Dynodroid,6,26.87,23,6
+OI Notepad,Dynodroid,7,46.26,23,11
+OI Notepad,Dynodroid,8,45.22,23,10
+OI Notepad,Dynodroid,9,28.14,23,6
+OI Notepad,Dynodroid,10,33.09,23,8
+OI Notepad,Ad-hoc,1,61.86,23,14
+OI Notepad,Ad-hoc,2,53.81,23,12
+OI Notepad,Ad-hoc,3,35.99,23,8
+OI Notepad,Ad-hoc,4,49.86,23,11
+OI Notepad,Ad-hoc,5,78.56,23,18
+OI Notepad,Ad-hoc,6,50.61,23,12
+OI Notepad,Ad-hoc,7,55.3,23,13
+OI Notepad,Ad-hoc,8,44.5,23,10
+OI Notepad,Ad-hoc,9,63.57,23,15
+OI Notepad,Ad-hoc,10,58.37,23,13
+OI Notepad,SMATA,1,86.76,23,20
+OI Notepad,SMATA,2,84.23,23,19
+OI Notepad,SMATA,3,96.42,23,22
+OI Notepad,SMATA,4,82.88,23,19
+OI Notepad,SMATA,5,92.37,23,21
+OI Notepad,SMATA,6,80.41,23,18
+OI Notepad,SMATA,7,93.28,23,21
+OI Notepad,SMATA,8,94.47,23,22
+OI Notepad,SMATA,9,95.03,23,22
+OI Notepad,SMATA,10,89.37,23,21
+Tippy Tipper,Monkey,1,20.94,13,3
+Tippy Tipper,Monkey,2,21.51,13,3
+Tippy Tipper,Monkey,3,22.65,13,3
+Tippy Tipper,Monkey,4,22.96,13,3
+Tippy Tipper,Monkey,5,29.92,13,4
+Tippy Tipper,Monkey,6,23.77,13,3
+Tippy Tipper,Monkey,7,29.97,13,4
+Tippy Tipper,Monkey,8,22.57,13,3
+Tippy Tipper,Monkey,9,24.02,13,3
+Tippy Tipper,Monkey,10,5.12,13,1
+Tippy Tipper,Dynodroid,1,41.61,13,5
+Tippy Tipper,Dynodroid,2,38.31,13,5
+Tippy Tipper,Dynodroid,3,42.09,13,5
+Tippy Tipper,Dynodroid,4,19.5,13,3
+Tippy Tipper,Dynodroid,5,48.41,13,6
+Tippy Tipper,Dynodroid,6,35.49,13,5
+Tippy Tipper,Dynodroid,7,42.73,13,6
+Tippy Tipper,Dynodroid,8,30.27,13,4
+Tippy Tipper,Dynodroid,9,39.85,13,5
+Tippy Tipper,Dynodroid,10,30.19,13,4
+Tippy Tipper,Ad-hoc,1,50.24,13,7
+Tippy Tipper,Ad-hoc,2,78.15,13,10
+Tippy Tipper,Ad-hoc,3,55.0,13,7
+Tippy Tipper,Ad-hoc,4,59.49,13,8
+Tippy Tipper,Ad-hoc,5,66.67,13,9
+Tippy Tipper,Ad-hoc,6,62.55,13,8
+Tippy Tipper,Ad-hoc,7,58.75,13,8
+Tippy Tipper,Ad-hoc,8,61.11,13,8
+Tippy Tipper,Ad-hoc,9,83.54,13,11
+Tippy Tipper,Ad-hoc,10,56.47,13,7
+Tippy Tipper,SMATA,1,91.0,13,12
+Tippy Tipper,SMATA,2,94.83,13,12
+Tippy Tipper,SMATA,3,95.07,13,12
+Tippy Tipper,SMATA,4,95.44,13,12
+Tippy Tipper,SMATA,5,92.97,13,12
+Tippy Tipper,SMATA,6,84.96,13,11
+Tippy Tipper,SMATA,7,97.45,13,13
+Tippy Tipper,SMATA,8,84.94,13,11
+Tippy Tipper,SMATA,9,91.46,13,12
+Tippy Tipper,SMATA,10,86.71,13,11
+Book Catalogue,Monkey,1,30.6,13,4
+Book Catalogue,Monkey,2,19.68,13,3
+Book Catalogue,Monkey,3,20.92,13,3
+Book Catalogue,Monkey,4,18.68,13,2
+Book Catalogue,Monkey,5,26.05,13,3
+Book Catalogue,Monkey,6,16.15,13,2
+Book Catalogue,Monkey,7,31.5,13,4
+Book Catalogue,Monkey,8,22.04,13,3
+Book Catalogue,Monkey,9,19.99,13,3
+Book Catalogue,Monkey,10,30.15,13,4
+Book Catalogue,Dynodroid,1,34.45,13,4
+Book Catalogue,Dynodroid,2,41.8,13,5
+Book Catalogue,Dynodroid,3,41.98,13,5
+Book Catalogue,Dynodroid,4,28.56,13,4
+Book Catalogue,Dynodroid,5,42.73,13,6
+Book Catalogue,Dynodroid,6,27.82,13,4
+Book Catalogue,Dynodroid,7,43.1,13,6
+Book Catalogue,Dynodroid,8,48.06,13,6
+Book Catalogue,Dynodroid,9,41.37,13,5
+Book Catalogue,Dynodroid,10,23.79,13,3
+Book Catalogue,Ad-hoc,1,68.8,13,9
+Book Catalogue,Ad-hoc,2,81.81,13,11
+Book Catalogue,Ad-hoc,3,53.77,13,7
+Book Catalogue,Ad-hoc,4,56.72,13,7
+Book Catalogue,Ad-hoc,5,44.03,13,6
+Book Catalogue,Ad-hoc,6,60.53,13,8
+Book Catalogue,Ad-hoc,7,71.06,13,9
+Book Catalogue,Ad-hoc,8,64.78,13,8
+Book Catalogue,Ad-hoc,9,91.66,13,12
+Book Catalogue,Ad-hoc,10,57.46,13,7
+Book Catalogue,SMATA,1,82.76,13,11
+Book Catalogue,SMATA,2,90.87,13,12
+Book Catalogue,SMATA,3,79.23,13,10
+Book Catalogue,SMATA,4,87.7,13,11
+Book Catalogue,SMATA,5,97.41,13,13
+Book Catalogue,SMATA,6,91.56,13,12
+Book Catalogue,SMATA,7,90.91,13,12
+Book Catalogue,SMATA,8,98.29,13,13
+Book Catalogue,SMATA,9,88.88,13,12
+Book Catalogue,SMATA,10,95.78,13,12
+OpenSudoku,Monkey,1,30.21,23,7
+OpenSudoku,Monkey,2,25.86,23,6
+OpenSudoku,Monkey,3,24.25,23,6
+OpenSudoku,Monkey,4,22.73,23,5
+OpenSudoku,Monkey,5,16.44,23,4
+OpenSudoku,Monkey,6,20.75,23,5
+OpenSudoku,Monkey,7,7.89,23,2
+OpenSudoku,Monkey,8,22.41,23,5
+OpenSudoku,Monkey,9,14.3,23,3
+OpenSudoku,Monkey,10,13.26,23,3
+OpenSudoku,Dynodroid,1,37.34,23,9
+OpenSudoku,Dynodroid,2,44.37,23,10
+OpenSudoku,Dynodroid,3,41.63,23,10
+OpenSudoku,Dynodroid,4,27.19,23,6
+OpenSudoku,Dynodroid,5,30.56,23,7
+OpenSudoku,Dynodroid,6,41.76,23,10
+OpenSudoku,Dynodroid,7,30.6,23,7
+OpenSudoku,Dynodroid,8,35.0,23,8
+OpenSudoku,Dynodroid,9,39.49,23,9
+OpenSudoku,Dynodroid,10,30.68,23,7
+OpenSudoku,Ad-hoc,1,58.26,23,13
+OpenSudoku,Ad-hoc,2,42.43,23,10
+OpenSudoku,Ad-hoc,3,50.48,23,12
+OpenSudoku,Ad-hoc,4,60.62,23,14
+OpenSudoku,Ad-hoc,5,39.58,23,9
+OpenSudoku,Ad-hoc,6,61.95,23,14
+OpenSudoku,Ad-hoc,7,56.88,23,13
+OpenSudoku,Ad-hoc,8,63.18,23,15
+OpenSudoku,Ad-hoc,9,59.56,23,14
+OpenSudoku,Ad-hoc,10,72.11,23,17
+OpenSudoku,SMATA,1,90.66,23,21
+OpenSudoku,SMATA,2,88.17,23,20
+OpenSudoku,SMATA,3,90.65,23,21
+OpenSudoku,SMATA,4,92.54,23,21
+OpenSudoku,SMATA,5,90.32,23,21
+OpenSudoku,SMATA,6,90.28,23,21
+OpenSudoku,SMATA,7,86.94,23,20
+OpenSudoku,SMATA,8,87.12,23,20
+OpenSudoku,SMATA,9,83.79,23,19
+OpenSudoku,SMATA,10,97.97,23,23

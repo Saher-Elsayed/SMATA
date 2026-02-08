@@ -1,0 +1,5201 @@
+app,approach,run,time_min,coverage_pct
+AnyMemo,Monkey,1,0,0.0
+AnyMemo,Monkey,1,5,20.56
+AnyMemo,Monkey,1,10,32.28
+AnyMemo,Monkey,1,15,36.98
+AnyMemo,Monkey,1,20,43.04
+AnyMemo,Monkey,1,25,43.04
+AnyMemo,Monkey,1,30,44.51
+AnyMemo,Monkey,1,35,43.93
+AnyMemo,Monkey,1,40,41.89
+AnyMemo,Monkey,1,45,45.62
+AnyMemo,Monkey,1,50,49.61
+AnyMemo,Monkey,1,55,47.22
+AnyMemo,Monkey,1,60,46.05
+AnyMemo,Monkey,2,0,0.0
+AnyMemo,Monkey,2,5,17.77
+AnyMemo,Monkey,2,10,28.3
+AnyMemo,Monkey,2,15,31.05
+AnyMemo,Monkey,2,20,37.42
+AnyMemo,Monkey,2,25,38.44
+AnyMemo,Monkey,2,30,39.32
+AnyMemo,Monkey,2,35,39.39
+AnyMemo,Monkey,2,40,39.03
+AnyMemo,Monkey,2,45,40.15
+AnyMemo,Monkey,2,50,40.11
+AnyMemo,Monkey,2,55,38.74
+AnyMemo,Monkey,2,60,38.43
+AnyMemo,Monkey,3,0,0.15
+AnyMemo,Monkey,3,5,23.86
+AnyMemo,Monkey,3,10,31.5
+AnyMemo,Monkey,3,15,37.64
+AnyMemo,Monkey,3,20,43.65
+AnyMemo,Monkey,3,25,45.43
+AnyMemo,Monkey,3,30,46.69
+AnyMemo,Monkey,3,35,47.38
+AnyMemo,Monkey,3,40,47.0
+AnyMemo,Monkey,3,45,49.75
+AnyMemo,Monkey,3,50,45.21
+AnyMemo,Monkey,3,55,46.42
+AnyMemo,Monkey,3,60,47.54
+AnyMemo,Monkey,4,0,0.0
+AnyMemo,Monkey,4,5,25.5
+AnyMemo,Monkey,4,10,42.39
+AnyMemo,Monkey,4,15,47.69
+AnyMemo,Monkey,4,20,52.27
+AnyMemo,Monkey,4,25,52.37
+AnyMemo,Monkey,4,30,54.62
+AnyMemo,Monkey,4,35,55.68
+AnyMemo,Monkey,4,40,56.15
+AnyMemo,Monkey,4,45,58.76
+AnyMemo,Monkey,4,50,57.79
+AnyMemo,Monkey,4,55,55.36
+AnyMemo,Monkey,4,60,57.43
+AnyMemo,Monkey,5,0,0.75
+AnyMemo,Monkey,5,5,18.99
+AnyMemo,Monkey,5,10,29.13
+AnyMemo,Monkey,5,15,30.44
+AnyMemo,Monkey,5,20,33.6
+AnyMemo,Monkey,5,25,34.5
+AnyMemo,Monkey,5,30,36.89
+AnyMemo,Monkey,5,35,38.42
+AnyMemo,Monkey,5,40,39.46
+AnyMemo,Monkey,5,45,38.0
+AnyMemo,Monkey,5,50,37.72
+AnyMemo,Monkey,5,55,38.47
+AnyMemo,Monkey,5,60,37.01
+AnyMemo,Monkey,6,0,3.13
+AnyMemo,Monkey,6,5,14.86
+AnyMemo,Monkey,6,10,27.03
+AnyMemo,Monkey,6,15,35.0
+AnyMemo,Monkey,6,20,34.83
+AnyMemo,Monkey,6,25,36.1
+AnyMemo,Monkey,6,30,36.71
+AnyMemo,Monkey,6,35,37.45
+AnyMemo,Monkey,6,40,40.03
+AnyMemo,Monkey,6,45,34.8
+AnyMemo,Monkey,6,50,40.5
+AnyMemo,Monkey,6,55,36.1
+AnyMemo,Monkey,6,60,37.86
+AnyMemo,Monkey,7,0,0.0
+AnyMemo,Monkey,7,5,26.92
+AnyMemo,Monkey,7,10,37.92
+AnyMemo,Monkey,7,15,48.86
+AnyMemo,Monkey,7,20,55.5
+AnyMemo,Monkey,7,25,52.78
+AnyMemo,Monkey,7,30,56.41
+AnyMemo,Monkey,7,35,55.84
+AnyMemo,Monkey,7,40,57.86
+AnyMemo,Monkey,7,45,57.47
+AnyMemo,Monkey,7,50,56.59
+AnyMemo,Monkey,7,55,58.35
+AnyMemo,Monkey,7,60,60.36
+AnyMemo,Monkey,8,0,0.0
+AnyMemo,Monkey,8,5,23.19
+AnyMemo,Monkey,8,10,32.31
+AnyMemo,Monkey,8,15,39.47
+AnyMemo,Monkey,8,20,45.27
+AnyMemo,Monkey,8,25,48.8
+AnyMemo,Monkey,8,30,48.2
+AnyMemo,Monkey,8,35,47.81
+AnyMemo,Monkey,8,40,48.61
+AnyMemo,Monkey,8,45,46.91
+AnyMemo,Monkey,8,50,49.8
+AnyMemo,Monkey,8,55,50.27
+AnyMemo,Monkey,8,60,48.3
+AnyMemo,Monkey,9,0,0.0
+AnyMemo,Monkey,9,5,16.54
+AnyMemo,Monkey,9,10,24.35
+AnyMemo,Monkey,9,15,29.77
+AnyMemo,Monkey,9,20,35.68
+AnyMemo,Monkey,9,25,33.63
+AnyMemo,Monkey,9,30,34.26
+AnyMemo,Monkey,9,35,34.27
+AnyMemo,Monkey,9,40,36.6
+AnyMemo,Monkey,9,45,35.35
+AnyMemo,Monkey,9,50,34.72
+AnyMemo,Monkey,9,55,37.71
+AnyMemo,Monkey,9,60,37.88
+AnyMemo,Monkey,10,0,0.0
+AnyMemo,Monkey,10,5,18.23
+AnyMemo,Monkey,10,10,34.08
+AnyMemo,Monkey,10,15,37.88
+AnyMemo,Monkey,10,20,43.57
+AnyMemo,Monkey,10,25,41.33
+AnyMemo,Monkey,10,30,46.68
+AnyMemo,Monkey,10,35,44.09
+AnyMemo,Monkey,10,40,47.32
+AnyMemo,Monkey,10,45,46.42
+AnyMemo,Monkey,10,50,45.06
+AnyMemo,Monkey,10,55,45.94
+AnyMemo,Monkey,10,60,47.6
+AnyMemo,Dynodroid,1,0,0.16
+AnyMemo,Dynodroid,1,5,15.33
+AnyMemo,Dynodroid,1,10,27.11
+AnyMemo,Dynodroid,1,15,28.29
+AnyMemo,Dynodroid,1,20,37.41
+AnyMemo,Dynodroid,1,25,38.06
+AnyMemo,Dynodroid,1,30,38.51
+AnyMemo,Dynodroid,1,35,39.18
+AnyMemo,Dynodroid,1,40,41.77
+AnyMemo,Dynodroid,1,45,44.02
+AnyMemo,Dynodroid,1,50,42.85
+AnyMemo,Dynodroid,1,55,45.57
+AnyMemo,Dynodroid,1,60,41.3
+AnyMemo,Dynodroid,2,0,0.0
+AnyMemo,Dynodroid,2,5,12.57
+AnyMemo,Dynodroid,2,10,24.68
+AnyMemo,Dynodroid,2,15,31.95
+AnyMemo,Dynodroid,2,20,34.34
+AnyMemo,Dynodroid,2,25,33.98
+AnyMemo,Dynodroid,2,30,40.14
+AnyMemo,Dynodroid,2,35,41.81
+AnyMemo,Dynodroid,2,40,42.64
+AnyMemo,Dynodroid,2,45,44.48
+AnyMemo,Dynodroid,2,50,41.41
+AnyMemo,Dynodroid,2,55,44.3
+AnyMemo,Dynodroid,2,60,45.25
+AnyMemo,Dynodroid,3,0,0.0
+AnyMemo,Dynodroid,3,5,17.12
+AnyMemo,Dynodroid,3,10,27.04
+AnyMemo,Dynodroid,3,15,35.15
+AnyMemo,Dynodroid,3,20,40.8
+AnyMemo,Dynodroid,3,25,42.91
+AnyMemo,Dynodroid,3,30,44.88
+AnyMemo,Dynodroid,3,35,47.45
+AnyMemo,Dynodroid,3,40,46.78
+AnyMemo,Dynodroid,3,45,47.46
+AnyMemo,Dynodroid,3,50,50.56
+AnyMemo,Dynodroid,3,55,48.13
+AnyMemo,Dynodroid,3,60,51.05
+AnyMemo,Dynodroid,4,0,0.69
+AnyMemo,Dynodroid,4,5,7.37
+AnyMemo,Dynodroid,4,10,15.62
+AnyMemo,Dynodroid,4,15,22.91
+AnyMemo,Dynodroid,4,20,22.65
+AnyMemo,Dynodroid,4,25,25.43
+AnyMemo,Dynodroid,4,30,28.17
+AnyMemo,Dynodroid,4,35,29.56
+AnyMemo,Dynodroid,4,40,28.61
+AnyMemo,Dynodroid,4,45,28.5
+AnyMemo,Dynodroid,4,50,31.8
+AnyMemo,Dynodroid,4,55,32.46
+AnyMemo,Dynodroid,4,60,31.44
+AnyMemo,Dynodroid,5,0,0.13
+AnyMemo,Dynodroid,5,5,9.33
+AnyMemo,Dynodroid,5,10,16.37
+AnyMemo,Dynodroid,5,15,23.14
+AnyMemo,Dynodroid,5,20,26.16
+AnyMemo,Dynodroid,5,25,29.76
+AnyMemo,Dynodroid,5,30,30.06
+AnyMemo,Dynodroid,5,35,27.79
+AnyMemo,Dynodroid,5,40,32.26
+AnyMemo,Dynodroid,5,45,29.62
+AnyMemo,Dynodroid,5,50,30.83
+AnyMemo,Dynodroid,5,55,31.97
+AnyMemo,Dynodroid,5,60,34.72
+AnyMemo,Dynodroid,6,0,4.66
+AnyMemo,Dynodroid,6,5,15.06
+AnyMemo,Dynodroid,6,10,23.35
+AnyMemo,Dynodroid,6,15,30.79
+AnyMemo,Dynodroid,6,20,35.58
+AnyMemo,Dynodroid,6,25,36.62
+AnyMemo,Dynodroid,6,30,41.71
+AnyMemo,Dynodroid,6,35,40.65
+AnyMemo,Dynodroid,6,40,41.91
+AnyMemo,Dynodroid,6,45,42.74
+AnyMemo,Dynodroid,6,50,42.76
+AnyMemo,Dynodroid,6,55,43.64
+AnyMemo,Dynodroid,6,60,41.63
+AnyMemo,Dynodroid,7,0,0.0
+AnyMemo,Dynodroid,7,5,11.1
+AnyMemo,Dynodroid,7,10,21.96
+AnyMemo,Dynodroid,7,15,28.2
+AnyMemo,Dynodroid,7,20,31.56
+AnyMemo,Dynodroid,7,25,35.96
+AnyMemo,Dynodroid,7,30,35.16
+AnyMemo,Dynodroid,7,35,37.33
+AnyMemo,Dynodroid,7,40,35.47
+AnyMemo,Dynodroid,7,45,37.04
+AnyMemo,Dynodroid,7,50,39.01
+AnyMemo,Dynodroid,7,55,39.48
+AnyMemo,Dynodroid,7,60,37.92
+AnyMemo,Dynodroid,8,0,0.0
+AnyMemo,Dynodroid,8,5,14.59
+AnyMemo,Dynodroid,8,10,27.63
+AnyMemo,Dynodroid,8,15,37.08
+AnyMemo,Dynodroid,8,20,41.69
+AnyMemo,Dynodroid,8,25,44.98
+AnyMemo,Dynodroid,8,30,46.58
+AnyMemo,Dynodroid,8,35,48.05
+AnyMemo,Dynodroid,8,40,48.07
+AnyMemo,Dynodroid,8,45,50.8
+AnyMemo,Dynodroid,8,50,50.84
+AnyMemo,Dynodroid,8,55,51.26
+AnyMemo,Dynodroid,8,60,49.94
+AnyMemo,Dynodroid,9,0,0.0
+AnyMemo,Dynodroid,9,5,14.72
+AnyMemo,Dynodroid,9,10,21.12
+AnyMemo,Dynodroid,9,15,26.42
+AnyMemo,Dynodroid,9,20,32.69
+AnyMemo,Dynodroid,9,25,33.7
+AnyMemo,Dynodroid,9,30,37.65
+AnyMemo,Dynodroid,9,35,38.17
+AnyMemo,Dynodroid,9,40,39.07
+AnyMemo,Dynodroid,9,45,36.53
+AnyMemo,Dynodroid,9,50,40.75
+AnyMemo,Dynodroid,9,55,39.56
+AnyMemo,Dynodroid,9,60,38.78
+AnyMemo,Dynodroid,10,0,0.22
+AnyMemo,Dynodroid,10,5,8.85
+AnyMemo,Dynodroid,10,10,19.84
+AnyMemo,Dynodroid,10,15,22.86
+AnyMemo,Dynodroid,10,20,25.84
+AnyMemo,Dynodroid,10,25,27.91
+AnyMemo,Dynodroid,10,30,33.42
+AnyMemo,Dynodroid,10,35,31.85
+AnyMemo,Dynodroid,10,40,35.8
+AnyMemo,Dynodroid,10,45,33.16
+AnyMemo,Dynodroid,10,50,31.72
+AnyMemo,Dynodroid,10,55,32.82
+AnyMemo,Dynodroid,10,60,36.49
+AnyMemo,Ad-hoc,1,0,0.0
+AnyMemo,Ad-hoc,1,5,13.39
+AnyMemo,Ad-hoc,1,10,25.53
+AnyMemo,Ad-hoc,1,15,34.66
+AnyMemo,Ad-hoc,1,20,42.3
+AnyMemo,Ad-hoc,1,25,48.03
+AnyMemo,Ad-hoc,1,30,49.39
+AnyMemo,Ad-hoc,1,35,51.11
+AnyMemo,Ad-hoc,1,40,54.95
+AnyMemo,Ad-hoc,1,45,57.89
+AnyMemo,Ad-hoc,1,50,57.55
+AnyMemo,Ad-hoc,1,55,58.73
+AnyMemo,Ad-hoc,1,60,61.59
+AnyMemo,Ad-hoc,2,0,0.0
+AnyMemo,Ad-hoc,2,5,11.24
+AnyMemo,Ad-hoc,2,10,18.76
+AnyMemo,Ad-hoc,2,15,26.34
+AnyMemo,Ad-hoc,2,20,30.58
+AnyMemo,Ad-hoc,2,25,37.42
+AnyMemo,Ad-hoc,2,30,40.84
+AnyMemo,Ad-hoc,2,35,39.01
+AnyMemo,Ad-hoc,2,40,42.33
+AnyMemo,Ad-hoc,2,45,43.0
+AnyMemo,Ad-hoc,2,50,45.44
+AnyMemo,Ad-hoc,2,55,47.21
+AnyMemo,Ad-hoc,2,60,45.88
+AnyMemo,Ad-hoc,3,0,0.0
+AnyMemo,Ad-hoc,3,5,10.21
+AnyMemo,Ad-hoc,3,10,21.15
+AnyMemo,Ad-hoc,3,15,28.04
+AnyMemo,Ad-hoc,3,20,32.39
+AnyMemo,Ad-hoc,3,25,38.04
+AnyMemo,Ad-hoc,3,30,40.32
+AnyMemo,Ad-hoc,3,35,43.34
+AnyMemo,Ad-hoc,3,40,48.29
+AnyMemo,Ad-hoc,3,45,49.38
+AnyMemo,Ad-hoc,3,50,46.65
+AnyMemo,Ad-hoc,3,55,50.81
+AnyMemo,Ad-hoc,3,60,51.53
+AnyMemo,Ad-hoc,4,0,0.0
+AnyMemo,Ad-hoc,4,5,10.27
+AnyMemo,Ad-hoc,4,10,18.38
+AnyMemo,Ad-hoc,4,15,19.88
+AnyMemo,Ad-hoc,4,20,24.45
+AnyMemo,Ad-hoc,4,25,30.68
+AnyMemo,Ad-hoc,4,30,32.15
+AnyMemo,Ad-hoc,4,35,34.59
+AnyMemo,Ad-hoc,4,40,35.84
+AnyMemo,Ad-hoc,4,45,37.14
+AnyMemo,Ad-hoc,4,50,35.52
+AnyMemo,Ad-hoc,4,55,39.82
+AnyMemo,Ad-hoc,4,60,40.58
+AnyMemo,Ad-hoc,5,0,0.0
+AnyMemo,Ad-hoc,5,5,10.55
+AnyMemo,Ad-hoc,5,10,16.59
+AnyMemo,Ad-hoc,5,15,26.09
+AnyMemo,Ad-hoc,5,20,31.19
+AnyMemo,Ad-hoc,5,25,34.15
+AnyMemo,Ad-hoc,5,30,38.97
+AnyMemo,Ad-hoc,5,35,39.15
+AnyMemo,Ad-hoc,5,40,42.34
+AnyMemo,Ad-hoc,5,45,41.4
+AnyMemo,Ad-hoc,5,50,44.02
+AnyMemo,Ad-hoc,5,55,44.66
+AnyMemo,Ad-hoc,5,60,45.94
+AnyMemo,Ad-hoc,6,0,0.0
+AnyMemo,Ad-hoc,6,5,11.59
+AnyMemo,Ad-hoc,6,10,22.21
+AnyMemo,Ad-hoc,6,15,27.47
+AnyMemo,Ad-hoc,6,20,31.28
+AnyMemo,Ad-hoc,6,25,40.65
+AnyMemo,Ad-hoc,6,30,43.48
+AnyMemo,Ad-hoc,6,35,42.1
+AnyMemo,Ad-hoc,6,40,47.12
+AnyMemo,Ad-hoc,6,45,46.93
+AnyMemo,Ad-hoc,6,50,49.32
+AnyMemo,Ad-hoc,6,55,50.33
+AnyMemo,Ad-hoc,6,60,50.29
+AnyMemo,Ad-hoc,7,0,0.0
+AnyMemo,Ad-hoc,7,5,8.49
+AnyMemo,Ad-hoc,7,10,15.58
+AnyMemo,Ad-hoc,7,15,21.48
+AnyMemo,Ad-hoc,7,20,27.13
+AnyMemo,Ad-hoc,7,25,29.66
+AnyMemo,Ad-hoc,7,30,34.49
+AnyMemo,Ad-hoc,7,35,37.82
+AnyMemo,Ad-hoc,7,40,36.38
+AnyMemo,Ad-hoc,7,45,38.9
+AnyMemo,Ad-hoc,7,50,40.29
+AnyMemo,Ad-hoc,7,55,41.03
+AnyMemo,Ad-hoc,7,60,41.05
+AnyMemo,Ad-hoc,8,0,1.11
+AnyMemo,Ad-hoc,8,5,12.99
+AnyMemo,Ad-hoc,8,10,19.96
+AnyMemo,Ad-hoc,8,15,30.56
+AnyMemo,Ad-hoc,8,20,36.38
+AnyMemo,Ad-hoc,8,25,38.41
+AnyMemo,Ad-hoc,8,30,43.13
+AnyMemo,Ad-hoc,8,35,46.83
+AnyMemo,Ad-hoc,8,40,47.62
+AnyMemo,Ad-hoc,8,45,51.21
+AnyMemo,Ad-hoc,8,50,54.44
+AnyMemo,Ad-hoc,8,55,50.72
+AnyMemo,Ad-hoc,8,60,50.61
+AnyMemo,Ad-hoc,9,0,0.46
+AnyMemo,Ad-hoc,9,5,11.6
+AnyMemo,Ad-hoc,9,10,18.36
+AnyMemo,Ad-hoc,9,15,27.26
+AnyMemo,Ad-hoc,9,20,28.04
+AnyMemo,Ad-hoc,9,25,34.95
+AnyMemo,Ad-hoc,9,30,36.02
+AnyMemo,Ad-hoc,9,35,41.85
+AnyMemo,Ad-hoc,9,40,44.09
+AnyMemo,Ad-hoc,9,45,41.37
+AnyMemo,Ad-hoc,9,50,42.8
+AnyMemo,Ad-hoc,9,55,45.78
+AnyMemo,Ad-hoc,9,60,44.58
+AnyMemo,Ad-hoc,10,0,0.0
+AnyMemo,Ad-hoc,10,5,11.11
+AnyMemo,Ad-hoc,10,10,16.81
+AnyMemo,Ad-hoc,10,15,26.38
+AnyMemo,Ad-hoc,10,20,30.6
+AnyMemo,Ad-hoc,10,25,34.96
+AnyMemo,Ad-hoc,10,30,41.04
+AnyMemo,Ad-hoc,10,35,39.46
+AnyMemo,Ad-hoc,10,40,44.49
+AnyMemo,Ad-hoc,10,45,44.35
+AnyMemo,Ad-hoc,10,50,45.51
+AnyMemo,Ad-hoc,10,55,48.03
+AnyMemo,Ad-hoc,10,60,48.06
+AnyMemo,SMATA,1,0,0.86
+AnyMemo,SMATA,1,5,18.29
+AnyMemo,SMATA,1,10,28.82
+AnyMemo,SMATA,1,15,37.64
+AnyMemo,SMATA,1,20,43.77
+AnyMemo,SMATA,1,25,49.24
+AnyMemo,SMATA,1,30,58.65
+AnyMemo,SMATA,1,35,58.88
+AnyMemo,SMATA,1,40,57.05
+AnyMemo,SMATA,1,45,58.62
+AnyMemo,SMATA,1,50,62.46
+AnyMemo,SMATA,1,55,63.39
+AnyMemo,SMATA,1,60,64.02
+AnyMemo,SMATA,2,0,0.0
+AnyMemo,SMATA,2,5,20.59
+AnyMemo,SMATA,2,10,36.67
+AnyMemo,SMATA,2,15,47.71
+AnyMemo,SMATA,2,20,52.7
+AnyMemo,SMATA,2,25,61.94
+AnyMemo,SMATA,2,30,65.65
+AnyMemo,SMATA,2,35,70.62
+AnyMemo,SMATA,2,40,77.38
+AnyMemo,SMATA,2,45,75.34
+AnyMemo,SMATA,2,50,75.72
+AnyMemo,SMATA,2,55,78.61
+AnyMemo,SMATA,2,60,78.71
+AnyMemo,SMATA,3,0,0.63
+AnyMemo,SMATA,3,5,18.7
+AnyMemo,SMATA,3,10,34.05
+AnyMemo,SMATA,3,15,39.02
+AnyMemo,SMATA,3,20,48.66
+AnyMemo,SMATA,3,25,51.92
+AnyMemo,SMATA,3,30,58.11
+AnyMemo,SMATA,3,35,58.84
+AnyMemo,SMATA,3,40,61.77
+AnyMemo,SMATA,3,45,63.57
+AnyMemo,SMATA,3,50,66.67
+AnyMemo,SMATA,3,55,67.47
+AnyMemo,SMATA,3,60,64.88
+AnyMemo,SMATA,4,0,0.08
+AnyMemo,SMATA,4,5,15.04
+AnyMemo,SMATA,4,10,26.15
+AnyMemo,SMATA,4,15,36.55
+AnyMemo,SMATA,4,20,42.96
+AnyMemo,SMATA,4,25,51.91
+AnyMemo,SMATA,4,30,52.52
+AnyMemo,SMATA,4,35,52.46
+AnyMemo,SMATA,4,40,55.66
+AnyMemo,SMATA,4,45,59.5
+AnyMemo,SMATA,4,50,62.18
+AnyMemo,SMATA,4,55,57.47
+AnyMemo,SMATA,4,60,57.62
+AnyMemo,SMATA,5,0,2.81
+AnyMemo,SMATA,5,5,19.71
+AnyMemo,SMATA,5,10,32.0
+AnyMemo,SMATA,5,15,44.6
+AnyMemo,SMATA,5,20,47.62
+AnyMemo,SMATA,5,25,57.34
+AnyMemo,SMATA,5,30,62.09
+AnyMemo,SMATA,5,35,66.15
+AnyMemo,SMATA,5,40,65.58
+AnyMemo,SMATA,5,45,68.97
+AnyMemo,SMATA,5,50,68.74
+AnyMemo,SMATA,5,55,71.46
+AnyMemo,SMATA,5,60,70.44
+AnyMemo,SMATA,6,0,0.0
+AnyMemo,SMATA,6,5,14.35
+AnyMemo,SMATA,6,10,28.56
+AnyMemo,SMATA,6,15,37.56
+AnyMemo,SMATA,6,20,42.37
+AnyMemo,SMATA,6,25,47.55
+AnyMemo,SMATA,6,30,48.85
+AnyMemo,SMATA,6,35,53.19
+AnyMemo,SMATA,6,40,55.51
+AnyMemo,SMATA,6,45,60.95
+AnyMemo,SMATA,6,50,56.42
+AnyMemo,SMATA,6,55,61.07
+AnyMemo,SMATA,6,60,60.95
+AnyMemo,SMATA,7,0,0.42
+AnyMemo,SMATA,7,5,20.78
+AnyMemo,SMATA,7,10,32.14
+AnyMemo,SMATA,7,15,42.12
+AnyMemo,SMATA,7,20,48.83
+AnyMemo,SMATA,7,25,56.21
+AnyMemo,SMATA,7,30,60.07
+AnyMemo,SMATA,7,35,60.48
+AnyMemo,SMATA,7,40,61.66
+AnyMemo,SMATA,7,45,64.98
+AnyMemo,SMATA,7,50,65.31
+AnyMemo,SMATA,7,55,67.31
+AnyMemo,SMATA,7,60,69.93
+AnyMemo,SMATA,8,0,0.0
+AnyMemo,SMATA,8,5,14.59
+AnyMemo,SMATA,8,10,25.6
+AnyMemo,SMATA,8,15,34.83
+AnyMemo,SMATA,8,20,36.15
+AnyMemo,SMATA,8,25,43.02
+AnyMemo,SMATA,8,30,47.52
+AnyMemo,SMATA,8,35,51.43
+AnyMemo,SMATA,8,40,50.68
+AnyMemo,SMATA,8,45,49.93
+AnyMemo,SMATA,8,50,54.66
+AnyMemo,SMATA,8,55,53.51
+AnyMemo,SMATA,8,60,53.22
+AnyMemo,SMATA,9,0,0.0
+AnyMemo,SMATA,9,5,15.4
+AnyMemo,SMATA,9,10,26.38
+AnyMemo,SMATA,9,15,32.58
+AnyMemo,SMATA,9,20,43.6
+AnyMemo,SMATA,9,25,48.89
+AnyMemo,SMATA,9,30,51.45
+AnyMemo,SMATA,9,35,51.36
+AnyMemo,SMATA,9,40,54.68
+AnyMemo,SMATA,9,45,56.4
+AnyMemo,SMATA,9,50,58.36
+AnyMemo,SMATA,9,55,59.24
+AnyMemo,SMATA,9,60,57.72
+AnyMemo,SMATA,10,0,0.12
+AnyMemo,SMATA,10,5,18.81
+AnyMemo,SMATA,10,10,33.73
+AnyMemo,SMATA,10,15,42.55
+AnyMemo,SMATA,10,20,50.04
+AnyMemo,SMATA,10,25,54.44
+AnyMemo,SMATA,10,30,60.48
+AnyMemo,SMATA,10,35,61.97
+AnyMemo,SMATA,10,40,62.29
+AnyMemo,SMATA,10,45,67.33
+AnyMemo,SMATA,10,50,67.49
+AnyMemo,SMATA,10,55,66.68
+AnyMemo,SMATA,10,60,67.29
+K-9 Mail,Monkey,1,0,0.44
+K-9 Mail,Monkey,1,5,21.12
+K-9 Mail,Monkey,1,10,31.94
+K-9 Mail,Monkey,1,15,38.26
+K-9 Mail,Monkey,1,20,43.72
+K-9 Mail,Monkey,1,25,44.63
+K-9 Mail,Monkey,1,30,44.33
+K-9 Mail,Monkey,1,35,46.01
+K-9 Mail,Monkey,1,40,43.36
+K-9 Mail,Monkey,1,45,45.67
+K-9 Mail,Monkey,1,50,47.88
+K-9 Mail,Monkey,1,55,44.89
+K-9 Mail,Monkey,1,60,43.97
+K-9 Mail,Monkey,2,0,0.0
+K-9 Mail,Monkey,2,5,15.51
+K-9 Mail,Monkey,2,10,25.38
+K-9 Mail,Monkey,2,15,31.16
+K-9 Mail,Monkey,2,20,32.44
+K-9 Mail,Monkey,2,25,36.13
+K-9 Mail,Monkey,2,30,38.32
+K-9 Mail,Monkey,2,35,36.07
+K-9 Mail,Monkey,2,40,39.97
+K-9 Mail,Monkey,2,45,38.59
+K-9 Mail,Monkey,2,50,39.45
+K-9 Mail,Monkey,2,55,36.96
+K-9 Mail,Monkey,2,60,39.25
+K-9 Mail,Monkey,3,0,0.0
+K-9 Mail,Monkey,3,5,16.82
+K-9 Mail,Monkey,3,10,24.24
+K-9 Mail,Monkey,3,15,29.48
+K-9 Mail,Monkey,3,20,29.44
+K-9 Mail,Monkey,3,25,31.27
+K-9 Mail,Monkey,3,30,34.28
+K-9 Mail,Monkey,3,35,32.38
+K-9 Mail,Monkey,3,40,34.73
+K-9 Mail,Monkey,3,45,32.11
+K-9 Mail,Monkey,3,50,35.51
+K-9 Mail,Monkey,3,55,32.42
+K-9 Mail,Monkey,3,60,35.12
+K-9 Mail,Monkey,4,0,0.94
+K-9 Mail,Monkey,4,5,13.36
+K-9 Mail,Monkey,4,10,23.19
+K-9 Mail,Monkey,4,15,27.04
+K-9 Mail,Monkey,4,20,28.23
+K-9 Mail,Monkey,4,25,28.83
+K-9 Mail,Monkey,4,30,28.11
+K-9 Mail,Monkey,4,35,31.98
+K-9 Mail,Monkey,4,40,29.32
+K-9 Mail,Monkey,4,45,31.93
+K-9 Mail,Monkey,4,50,31.46
+K-9 Mail,Monkey,4,55,32.91
+K-9 Mail,Monkey,4,60,31.45
+K-9 Mail,Monkey,5,0,0.0
+K-9 Mail,Monkey,5,5,8.69
+K-9 Mail,Monkey,5,10,12.26
+K-9 Mail,Monkey,5,15,14.51
+K-9 Mail,Monkey,5,20,16.0
+K-9 Mail,Monkey,5,25,13.68
+K-9 Mail,Monkey,5,30,17.5
+K-9 Mail,Monkey,5,35,17.49
+K-9 Mail,Monkey,5,40,15.16
+K-9 Mail,Monkey,5,45,16.38
+K-9 Mail,Monkey,5,50,16.72
+K-9 Mail,Monkey,5,55,16.6
+K-9 Mail,Monkey,5,60,17.31
+K-9 Mail,Monkey,6,0,2.15
+K-9 Mail,Monkey,6,5,13.61
+K-9 Mail,Monkey,6,10,16.59
+K-9 Mail,Monkey,6,15,23.1
+K-9 Mail,Monkey,6,20,26.14
+K-9 Mail,Monkey,6,25,25.82
+K-9 Mail,Monkey,6,30,27.47
+K-9 Mail,Monkey,6,35,29.18
+K-9 Mail,Monkey,6,40,27.88
+K-9 Mail,Monkey,6,45,26.81
+K-9 Mail,Monkey,6,50,28.06
+K-9 Mail,Monkey,6,55,26.74
+K-9 Mail,Monkey,6,60,26.58
+K-9 Mail,Monkey,7,0,0.0
+K-9 Mail,Monkey,7,5,15.83
+K-9 Mail,Monkey,7,10,19.66
+K-9 Mail,Monkey,7,15,27.25
+K-9 Mail,Monkey,7,20,27.93
+K-9 Mail,Monkey,7,25,26.3
+K-9 Mail,Monkey,7,30,29.62
+K-9 Mail,Monkey,7,35,26.29
+K-9 Mail,Monkey,7,40,30.58
+K-9 Mail,Monkey,7,45,31.08
+K-9 Mail,Monkey,7,50,28.93
+K-9 Mail,Monkey,7,55,30.03
+K-9 Mail,Monkey,7,60,32.8
+K-9 Mail,Monkey,8,0,0.0
+K-9 Mail,Monkey,8,5,20.69
+K-9 Mail,Monkey,8,10,36.72
+K-9 Mail,Monkey,8,15,44.15
+K-9 Mail,Monkey,8,20,44.9
+K-9 Mail,Monkey,8,25,48.43
+K-9 Mail,Monkey,8,30,50.03
+K-9 Mail,Monkey,8,35,47.52
+K-9 Mail,Monkey,8,40,48.24
+K-9 Mail,Monkey,8,45,50.99
+K-9 Mail,Monkey,8,50,51.78
+K-9 Mail,Monkey,8,55,50.15
+K-9 Mail,Monkey,8,60,48.01
+K-9 Mail,Monkey,9,0,2.98
+K-9 Mail,Monkey,9,5,17.35
+K-9 Mail,Monkey,9,10,27.6
+K-9 Mail,Monkey,9,15,34.08
+K-9 Mail,Monkey,9,20,38.89
+K-9 Mail,Monkey,9,25,39.49
+K-9 Mail,Monkey,9,30,39.73
+K-9 Mail,Monkey,9,35,40.3
+K-9 Mail,Monkey,9,40,39.94
+K-9 Mail,Monkey,9,45,40.87
+K-9 Mail,Monkey,9,50,36.32
+K-9 Mail,Monkey,9,55,39.71
+K-9 Mail,Monkey,9,60,40.54
+K-9 Mail,Monkey,10,0,0.0
+K-9 Mail,Monkey,10,5,6.52
+K-9 Mail,Monkey,10,10,8.89
+K-9 Mail,Monkey,10,15,13.62
+K-9 Mail,Monkey,10,20,14.33
+K-9 Mail,Monkey,10,25,11.81
+K-9 Mail,Monkey,10,30,12.57
+K-9 Mail,Monkey,10,35,12.85
+K-9 Mail,Monkey,10,40,12.37
+K-9 Mail,Monkey,10,45,13.39
+K-9 Mail,Monkey,10,50,11.99
+K-9 Mail,Monkey,10,55,11.45
+K-9 Mail,Monkey,10,60,14.08
+K-9 Mail,Dynodroid,1,0,0.94
+K-9 Mail,Dynodroid,1,5,14.9
+K-9 Mail,Dynodroid,1,10,28.25
+K-9 Mail,Dynodroid,1,15,33.2
+K-9 Mail,Dynodroid,1,20,39.38
+K-9 Mail,Dynodroid,1,25,43.48
+K-9 Mail,Dynodroid,1,30,44.38
+K-9 Mail,Dynodroid,1,35,46.57
+K-9 Mail,Dynodroid,1,40,46.09
+K-9 Mail,Dynodroid,1,45,47.23
+K-9 Mail,Dynodroid,1,50,47.66
+K-9 Mail,Dynodroid,1,55,47.14
+K-9 Mail,Dynodroid,1,60,48.19
+K-9 Mail,Dynodroid,2,0,0.0
+K-9 Mail,Dynodroid,2,5,12.73
+K-9 Mail,Dynodroid,2,10,22.07
+K-9 Mail,Dynodroid,2,15,28.17
+K-9 Mail,Dynodroid,2,20,32.25
+K-9 Mail,Dynodroid,2,25,35.24
+K-9 Mail,Dynodroid,2,30,37.87
+K-9 Mail,Dynodroid,2,35,39.69
+K-9 Mail,Dynodroid,2,40,38.22
+K-9 Mail,Dynodroid,2,45,37.94
+K-9 Mail,Dynodroid,2,50,38.55
+K-9 Mail,Dynodroid,2,55,39.63
+K-9 Mail,Dynodroid,2,60,40.0
+K-9 Mail,Dynodroid,3,0,0.0
+K-9 Mail,Dynodroid,3,5,10.44
+K-9 Mail,Dynodroid,3,10,20.0
+K-9 Mail,Dynodroid,3,15,26.52
+K-9 Mail,Dynodroid,3,20,30.87
+K-9 Mail,Dynodroid,3,25,31.64
+K-9 Mail,Dynodroid,3,30,33.53
+K-9 Mail,Dynodroid,3,35,33.89
+K-9 Mail,Dynodroid,3,40,35.98
+K-9 Mail,Dynodroid,3,45,35.26
+K-9 Mail,Dynodroid,3,50,37.73
+K-9 Mail,Dynodroid,3,55,34.42
+K-9 Mail,Dynodroid,3,60,36.71
+K-9 Mail,Dynodroid,4,0,0.45
+K-9 Mail,Dynodroid,4,5,17.45
+K-9 Mail,Dynodroid,4,10,32.73
+K-9 Mail,Dynodroid,4,15,36.93
+K-9 Mail,Dynodroid,4,20,40.08
+K-9 Mail,Dynodroid,4,25,44.91
+K-9 Mail,Dynodroid,4,30,44.71
+K-9 Mail,Dynodroid,4,35,48.81
+K-9 Mail,Dynodroid,4,40,48.73
+K-9 Mail,Dynodroid,4,45,52.05
+K-9 Mail,Dynodroid,4,50,50.32
+K-9 Mail,Dynodroid,4,55,51.29
+K-9 Mail,Dynodroid,4,60,50.72
+K-9 Mail,Dynodroid,5,0,2.61
+K-9 Mail,Dynodroid,5,5,18.25
+K-9 Mail,Dynodroid,5,10,34.04
+K-9 Mail,Dynodroid,5,15,40.93
+K-9 Mail,Dynodroid,5,20,46.08
+K-9 Mail,Dynodroid,5,25,49.69
+K-9 Mail,Dynodroid,5,30,52.27
+K-9 Mail,Dynodroid,5,35,50.48
+K-9 Mail,Dynodroid,5,40,54.1
+K-9 Mail,Dynodroid,5,45,56.54
+K-9 Mail,Dynodroid,5,50,55.72
+K-9 Mail,Dynodroid,5,55,54.02
+K-9 Mail,Dynodroid,5,60,56.28
+K-9 Mail,Dynodroid,6,0,2.56
+K-9 Mail,Dynodroid,6,5,20.23
+K-9 Mail,Dynodroid,6,10,30.58
+K-9 Mail,Dynodroid,6,15,40.35
+K-9 Mail,Dynodroid,6,20,43.9
+K-9 Mail,Dynodroid,6,25,45.61
+K-9 Mail,Dynodroid,6,30,49.26
+K-9 Mail,Dynodroid,6,35,54.66
+K-9 Mail,Dynodroid,6,40,53.02
+K-9 Mail,Dynodroid,6,45,53.81
+K-9 Mail,Dynodroid,6,50,54.23
+K-9 Mail,Dynodroid,6,55,57.87
+K-9 Mail,Dynodroid,6,60,57.68
+K-9 Mail,Dynodroid,7,0,3.33
+K-9 Mail,Dynodroid,7,5,11.54
+K-9 Mail,Dynodroid,7,10,20.12
+K-9 Mail,Dynodroid,7,15,22.69
+K-9 Mail,Dynodroid,7,20,30.73
+K-9 Mail,Dynodroid,7,25,29.14
+K-9 Mail,Dynodroid,7,30,32.81
+K-9 Mail,Dynodroid,7,35,31.91
+K-9 Mail,Dynodroid,7,40,33.39
+K-9 Mail,Dynodroid,7,45,33.5
+K-9 Mail,Dynodroid,7,50,34.16
+K-9 Mail,Dynodroid,7,55,34.48
+K-9 Mail,Dynodroid,7,60,34.61
+K-9 Mail,Dynodroid,8,0,1.25
+K-9 Mail,Dynodroid,8,5,12.09
+K-9 Mail,Dynodroid,8,10,23.3
+K-9 Mail,Dynodroid,8,15,30.97
+K-9 Mail,Dynodroid,8,20,32.52
+K-9 Mail,Dynodroid,8,25,34.99
+K-9 Mail,Dynodroid,8,30,37.58
+K-9 Mail,Dynodroid,8,35,40.94
+K-9 Mail,Dynodroid,8,40,40.3
+K-9 Mail,Dynodroid,8,45,39.77
+K-9 Mail,Dynodroid,8,50,41.67
+K-9 Mail,Dynodroid,8,55,39.54
+K-9 Mail,Dynodroid,8,60,42.39
+K-9 Mail,Dynodroid,9,0,0.61
+K-9 Mail,Dynodroid,9,5,15.67
+K-9 Mail,Dynodroid,9,10,25.69
+K-9 Mail,Dynodroid,9,15,32.87
+K-9 Mail,Dynodroid,9,20,39.86
+K-9 Mail,Dynodroid,9,25,44.16
+K-9 Mail,Dynodroid,9,30,43.54
+K-9 Mail,Dynodroid,9,35,46.65
+K-9 Mail,Dynodroid,9,40,43.81
+K-9 Mail,Dynodroid,9,45,46.73
+K-9 Mail,Dynodroid,9,50,48.0
+K-9 Mail,Dynodroid,9,55,46.97
+K-9 Mail,Dynodroid,9,60,47.13
+K-9 Mail,Dynodroid,10,0,0.0
+K-9 Mail,Dynodroid,10,5,18.97
+K-9 Mail,Dynodroid,10,10,30.67
+K-9 Mail,Dynodroid,10,15,35.92
+K-9 Mail,Dynodroid,10,20,41.67
+K-9 Mail,Dynodroid,10,25,47.68
+K-9 Mail,Dynodroid,10,30,51.79
+K-9 Mail,Dynodroid,10,35,48.66
+K-9 Mail,Dynodroid,10,40,53.16
+K-9 Mail,Dynodroid,10,45,53.88
+K-9 Mail,Dynodroid,10,50,57.25
+K-9 Mail,Dynodroid,10,55,54.93
+K-9 Mail,Dynodroid,10,60,56.31
+K-9 Mail,Ad-hoc,1,0,0.21
+K-9 Mail,Ad-hoc,1,5,6.92
+K-9 Mail,Ad-hoc,1,10,19.15
+K-9 Mail,Ad-hoc,1,15,24.46
+K-9 Mail,Ad-hoc,1,20,29.68
+K-9 Mail,Ad-hoc,1,25,38.52
+K-9 Mail,Ad-hoc,1,30,32.41
+K-9 Mail,Ad-hoc,1,35,40.38
+K-9 Mail,Ad-hoc,1,40,39.12
+K-9 Mail,Ad-hoc,1,45,41.35
+K-9 Mail,Ad-hoc,1,50,41.92
+K-9 Mail,Ad-hoc,1,55,42.18
+K-9 Mail,Ad-hoc,1,60,42.61
+K-9 Mail,Ad-hoc,2,0,0.49
+K-9 Mail,Ad-hoc,2,5,8.47
+K-9 Mail,Ad-hoc,2,10,20.25
+K-9 Mail,Ad-hoc,2,15,25.02
+K-9 Mail,Ad-hoc,2,20,29.03
+K-9 Mail,Ad-hoc,2,25,34.0
+K-9 Mail,Ad-hoc,2,30,39.64
+K-9 Mail,Ad-hoc,2,35,39.35
+K-9 Mail,Ad-hoc,2,40,42.56
+K-9 Mail,Ad-hoc,2,45,42.38
+K-9 Mail,Ad-hoc,2,50,45.75
+K-9 Mail,Ad-hoc,2,55,46.52
+K-9 Mail,Ad-hoc,2,60,48.95
+K-9 Mail,Ad-hoc,3,0,0.0
+K-9 Mail,Ad-hoc,3,5,9.77
+K-9 Mail,Ad-hoc,3,10,15.75
+K-9 Mail,Ad-hoc,3,15,22.86
+K-9 Mail,Ad-hoc,3,20,23.99
+K-9 Mail,Ad-hoc,3,25,29.41
+K-9 Mail,Ad-hoc,3,30,30.51
+K-9 Mail,Ad-hoc,3,35,32.66
+K-9 Mail,Ad-hoc,3,40,34.42
+K-9 Mail,Ad-hoc,3,45,35.85
+K-9 Mail,Ad-hoc,3,50,36.22
+K-9 Mail,Ad-hoc,3,55,37.44
+K-9 Mail,Ad-hoc,3,60,40.04
+K-9 Mail,Ad-hoc,4,0,1.48
+K-9 Mail,Ad-hoc,4,5,9.88
+K-9 Mail,Ad-hoc,4,10,14.57
+K-9 Mail,Ad-hoc,4,15,19.12
+K-9 Mail,Ad-hoc,4,20,25.94
+K-9 Mail,Ad-hoc,4,25,28.98
+K-9 Mail,Ad-hoc,4,30,32.33
+K-9 Mail,Ad-hoc,4,35,31.13
+K-9 Mail,Ad-hoc,4,40,33.18
+K-9 Mail,Ad-hoc,4,45,32.22
+K-9 Mail,Ad-hoc,4,50,35.0
+K-9 Mail,Ad-hoc,4,55,37.79
+K-9 Mail,Ad-hoc,4,60,36.14
+K-9 Mail,Ad-hoc,5,0,0.96
+K-9 Mail,Ad-hoc,5,5,12.61
+K-9 Mail,Ad-hoc,5,10,23.43
+K-9 Mail,Ad-hoc,5,15,29.04
+K-9 Mail,Ad-hoc,5,20,36.98
+K-9 Mail,Ad-hoc,5,25,37.11
+K-9 Mail,Ad-hoc,5,30,45.01
+K-9 Mail,Ad-hoc,5,35,45.72
+K-9 Mail,Ad-hoc,5,40,52.22
+K-9 Mail,Ad-hoc,5,45,53.32
+K-9 Mail,Ad-hoc,5,50,54.21
+K-9 Mail,Ad-hoc,5,55,56.85
+K-9 Mail,Ad-hoc,5,60,53.97
+K-9 Mail,Ad-hoc,6,0,2.62
+K-9 Mail,Ad-hoc,6,5,15.46
+K-9 Mail,Ad-hoc,6,10,24.66
+K-9 Mail,Ad-hoc,6,15,35.25
+K-9 Mail,Ad-hoc,6,20,38.53
+K-9 Mail,Ad-hoc,6,25,44.13
+K-9 Mail,Ad-hoc,6,30,48.48
+K-9 Mail,Ad-hoc,6,35,51.74
+K-9 Mail,Ad-hoc,6,40,53.39
+K-9 Mail,Ad-hoc,6,45,58.71
+K-9 Mail,Ad-hoc,6,50,57.97
+K-9 Mail,Ad-hoc,6,55,60.04
+K-9 Mail,Ad-hoc,6,60,59.56
+K-9 Mail,Ad-hoc,7,0,0.0
+K-9 Mail,Ad-hoc,7,5,11.4
+K-9 Mail,Ad-hoc,7,10,16.69
+K-9 Mail,Ad-hoc,7,15,26.12
+K-9 Mail,Ad-hoc,7,20,29.36
+K-9 Mail,Ad-hoc,7,25,38.44
+K-9 Mail,Ad-hoc,7,30,39.98
+K-9 Mail,Ad-hoc,7,35,41.22
+K-9 Mail,Ad-hoc,7,40,44.87
+K-9 Mail,Ad-hoc,7,45,43.19
+K-9 Mail,Ad-hoc,7,50,46.44
+K-9 Mail,Ad-hoc,7,55,46.82
+K-9 Mail,Ad-hoc,7,60,47.62
+K-9 Mail,Ad-hoc,8,0,1.91
+K-9 Mail,Ad-hoc,8,5,14.4
+K-9 Mail,Ad-hoc,8,10,24.1
+K-9 Mail,Ad-hoc,8,15,29.25
+K-9 Mail,Ad-hoc,8,20,36.58
+K-9 Mail,Ad-hoc,8,25,42.73
+K-9 Mail,Ad-hoc,8,30,46.87
+K-9 Mail,Ad-hoc,8,35,48.0
+K-9 Mail,Ad-hoc,8,40,55.63
+K-9 Mail,Ad-hoc,8,45,56.08
+K-9 Mail,Ad-hoc,8,50,56.12
+K-9 Mail,Ad-hoc,8,55,56.41
+K-9 Mail,Ad-hoc,8,60,56.84
+K-9 Mail,Ad-hoc,9,0,0.0
+K-9 Mail,Ad-hoc,9,5,12.04
+K-9 Mail,Ad-hoc,9,10,21.6
+K-9 Mail,Ad-hoc,9,15,26.59
+K-9 Mail,Ad-hoc,9,20,34.59
+K-9 Mail,Ad-hoc,9,25,38.24
+K-9 Mail,Ad-hoc,9,30,39.03
+K-9 Mail,Ad-hoc,9,35,43.26
+K-9 Mail,Ad-hoc,9,40,46.0
+K-9 Mail,Ad-hoc,9,45,51.07
+K-9 Mail,Ad-hoc,9,50,50.33
+K-9 Mail,Ad-hoc,9,55,48.47
+K-9 Mail,Ad-hoc,9,60,51.96
+K-9 Mail,Ad-hoc,10,0,0.0
+K-9 Mail,Ad-hoc,10,5,11.39
+K-9 Mail,Ad-hoc,10,10,16.66
+K-9 Mail,Ad-hoc,10,15,23.14
+K-9 Mail,Ad-hoc,10,20,29.88
+K-9 Mail,Ad-hoc,10,25,29.56
+K-9 Mail,Ad-hoc,10,30,32.19
+K-9 Mail,Ad-hoc,10,35,35.59
+K-9 Mail,Ad-hoc,10,40,39.72
+K-9 Mail,Ad-hoc,10,45,37.2
+K-9 Mail,Ad-hoc,10,50,36.26
+K-9 Mail,Ad-hoc,10,55,40.63
+K-9 Mail,Ad-hoc,10,60,42.76
+K-9 Mail,SMATA,1,0,1.8
+K-9 Mail,SMATA,1,5,19.1
+K-9 Mail,SMATA,1,10,33.85
+K-9 Mail,SMATA,1,15,47.06
+K-9 Mail,SMATA,1,20,50.58
+K-9 Mail,SMATA,1,25,58.76
+K-9 Mail,SMATA,1,30,64.05
+K-9 Mail,SMATA,1,35,67.71
+K-9 Mail,SMATA,1,40,68.7
+K-9 Mail,SMATA,1,45,71.31
+K-9 Mail,SMATA,1,50,68.85
+K-9 Mail,SMATA,1,55,72.59
+K-9 Mail,SMATA,1,60,74.98
+K-9 Mail,SMATA,2,0,0.0
+K-9 Mail,SMATA,2,5,22.16
+K-9 Mail,SMATA,2,10,39.08
+K-9 Mail,SMATA,2,15,50.01
+K-9 Mail,SMATA,2,20,59.75
+K-9 Mail,SMATA,2,25,64.7
+K-9 Mail,SMATA,2,30,70.76
+K-9 Mail,SMATA,2,35,75.63
+K-9 Mail,SMATA,2,40,77.65
+K-9 Mail,SMATA,2,45,78.54
+K-9 Mail,SMATA,2,50,81.24
+K-9 Mail,SMATA,2,55,83.07
+K-9 Mail,SMATA,2,60,79.74
+K-9 Mail,SMATA,3,0,1.74
+K-9 Mail,SMATA,3,5,18.53
+K-9 Mail,SMATA,3,10,33.77
+K-9 Mail,SMATA,3,15,45.37
+K-9 Mail,SMATA,3,20,49.26
+K-9 Mail,SMATA,3,25,55.98
+K-9 Mail,SMATA,3,30,60.86
+K-9 Mail,SMATA,3,35,63.26
+K-9 Mail,SMATA,3,40,69.37
+K-9 Mail,SMATA,3,45,67.21
+K-9 Mail,SMATA,3,50,68.94
+K-9 Mail,SMATA,3,55,71.03
+K-9 Mail,SMATA,3,60,69.62
+K-9 Mail,SMATA,4,0,0.0
+K-9 Mail,SMATA,4,5,22.59
+K-9 Mail,SMATA,4,10,38.01
+K-9 Mail,SMATA,4,15,50.5
+K-9 Mail,SMATA,4,20,58.84
+K-9 Mail,SMATA,4,25,64.03
+K-9 Mail,SMATA,4,30,71.72
+K-9 Mail,SMATA,4,35,77.52
+K-9 Mail,SMATA,4,40,77.63
+K-9 Mail,SMATA,4,45,79.94
+K-9 Mail,SMATA,4,50,82.13
+K-9 Mail,SMATA,4,55,80.29
+K-9 Mail,SMATA,4,60,85.56
+K-9 Mail,SMATA,5,0,0.3
+K-9 Mail,SMATA,5,5,16.5
+K-9 Mail,SMATA,5,10,23.36
+K-9 Mail,SMATA,5,15,34.9
+K-9 Mail,SMATA,5,20,39.04
+K-9 Mail,SMATA,5,25,42.94
+K-9 Mail,SMATA,5,30,45.6
+K-9 Mail,SMATA,5,35,47.2
+K-9 Mail,SMATA,5,40,51.09
+K-9 Mail,SMATA,5,45,50.78
+K-9 Mail,SMATA,5,50,48.56
+K-9 Mail,SMATA,5,55,50.53
+K-9 Mail,SMATA,5,60,52.45
+K-9 Mail,SMATA,6,0,0.46
+K-9 Mail,SMATA,6,5,20.6
+K-9 Mail,SMATA,6,10,37.84
+K-9 Mail,SMATA,6,15,44.44
+K-9 Mail,SMATA,6,20,55.99
+K-9 Mail,SMATA,6,25,59.28
+K-9 Mail,SMATA,6,30,67.76
+K-9 Mail,SMATA,6,35,69.9
+K-9 Mail,SMATA,6,40,73.2
+K-9 Mail,SMATA,6,45,73.15
+K-9 Mail,SMATA,6,50,77.76
+K-9 Mail,SMATA,6,55,78.43
+K-9 Mail,SMATA,6,60,78.5
+K-9 Mail,SMATA,7,0,0.0
+K-9 Mail,SMATA,7,5,20.14
+K-9 Mail,SMATA,7,10,32.49
+K-9 Mail,SMATA,7,15,45.4
+K-9 Mail,SMATA,7,20,54.43
+K-9 Mail,SMATA,7,25,59.37
+K-9 Mail,SMATA,7,30,60.97
+K-9 Mail,SMATA,7,35,65.79
+K-9 Mail,SMATA,7,40,65.67
+K-9 Mail,SMATA,7,45,70.21
+K-9 Mail,SMATA,7,50,71.32
+K-9 Mail,SMATA,7,55,68.8
+K-9 Mail,SMATA,7,60,70.58
+K-9 Mail,SMATA,8,0,0.0
+K-9 Mail,SMATA,8,5,18.08
+K-9 Mail,SMATA,8,10,30.44
+K-9 Mail,SMATA,8,15,43.0
+K-9 Mail,SMATA,8,20,50.33
+K-9 Mail,SMATA,8,25,55.24
+K-9 Mail,SMATA,8,30,58.53
+K-9 Mail,SMATA,8,35,64.3
+K-9 Mail,SMATA,8,40,67.48
+K-9 Mail,SMATA,8,45,65.95
+K-9 Mail,SMATA,8,50,67.0
+K-9 Mail,SMATA,8,55,69.58
+K-9 Mail,SMATA,8,60,68.99
+K-9 Mail,SMATA,9,0,0.0
+K-9 Mail,SMATA,9,5,20.39
+K-9 Mail,SMATA,9,10,30.7
+K-9 Mail,SMATA,9,15,46.12
+K-9 Mail,SMATA,9,20,52.09
+K-9 Mail,SMATA,9,25,57.17
+K-9 Mail,SMATA,9,30,61.95
+K-9 Mail,SMATA,9,35,65.22
+K-9 Mail,SMATA,9,40,65.04
+K-9 Mail,SMATA,9,45,71.62
+K-9 Mail,SMATA,9,50,70.74
+K-9 Mail,SMATA,9,55,72.3
+K-9 Mail,SMATA,9,60,73.77
+K-9 Mail,SMATA,10,0,0.0
+K-9 Mail,SMATA,10,5,15.98
+K-9 Mail,SMATA,10,10,26.18
+K-9 Mail,SMATA,10,15,36.23
+K-9 Mail,SMATA,10,20,37.98
+K-9 Mail,SMATA,10,25,45.62
+K-9 Mail,SMATA,10,30,48.27
+K-9 Mail,SMATA,10,35,52.34
+K-9 Mail,SMATA,10,40,54.27
+K-9 Mail,SMATA,10,45,53.89
+K-9 Mail,SMATA,10,50,54.91
+K-9 Mail,SMATA,10,55,56.57
+K-9 Mail,SMATA,10,60,55.96
+WordPress,Monkey,1,0,1.26
+WordPress,Monkey,1,5,14.33
+WordPress,Monkey,1,10,18.69
+WordPress,Monkey,1,15,26.97
+WordPress,Monkey,1,20,28.43
+WordPress,Monkey,1,25,28.89
+WordPress,Monkey,1,30,30.22
+WordPress,Monkey,1,35,32.65
+WordPress,Monkey,1,40,34.7
+WordPress,Monkey,1,45,33.3
+WordPress,Monkey,1,50,31.99
+WordPress,Monkey,1,55,33.62
+WordPress,Monkey,1,60,32.27
+WordPress,Monkey,2,0,0.0
+WordPress,Monkey,2,5,16.49
+WordPress,Monkey,2,10,25.6
+WordPress,Monkey,2,15,33.13
+WordPress,Monkey,2,20,36.96
+WordPress,Monkey,2,25,38.23
+WordPress,Monkey,2,30,38.66
+WordPress,Monkey,2,35,38.37
+WordPress,Monkey,2,40,40.97
+WordPress,Monkey,2,45,38.23
+WordPress,Monkey,2,50,41.45
+WordPress,Monkey,2,55,38.83
+WordPress,Monkey,2,60,39.23
+WordPress,Monkey,3,0,0.0
+WordPress,Monkey,3,5,23.96
+WordPress,Monkey,3,10,39.74
+WordPress,Monkey,3,15,46.5
+WordPress,Monkey,3,20,51.28
+WordPress,Monkey,3,25,52.84
+WordPress,Monkey,3,30,51.63
+WordPress,Monkey,3,35,53.46
+WordPress,Monkey,3,40,53.16
+WordPress,Monkey,3,45,56.53
+WordPress,Monkey,3,50,52.85
+WordPress,Monkey,3,55,56.05
+WordPress,Monkey,3,60,56.08
+WordPress,Monkey,4,0,2.74
+WordPress,Monkey,4,5,12.54
+WordPress,Monkey,4,10,21.44
+WordPress,Monkey,4,15,27.75
+WordPress,Monkey,4,20,25.58
+WordPress,Monkey,4,25,25.4
+WordPress,Monkey,4,30,25.53
+WordPress,Monkey,4,35,29.78
+WordPress,Monkey,4,40,26.09
+WordPress,Monkey,4,45,28.46
+WordPress,Monkey,4,50,29.73
+WordPress,Monkey,4,55,29.39
+WordPress,Monkey,4,60,29.77
+WordPress,Monkey,5,0,0.33
+WordPress,Monkey,5,5,13.39
+WordPress,Monkey,5,10,16.34
+WordPress,Monkey,5,15,20.2
+WordPress,Monkey,5,20,21.95
+WordPress,Monkey,5,25,25.4
+WordPress,Monkey,5,30,26.08
+WordPress,Monkey,5,35,25.72
+WordPress,Monkey,5,40,26.99
+WordPress,Monkey,5,45,23.54
+WordPress,Monkey,5,50,27.86
+WordPress,Monkey,5,55,27.67
+WordPress,Monkey,5,60,26.5
+WordPress,Monkey,6,0,2.67
+WordPress,Monkey,6,5,10.76
+WordPress,Monkey,6,10,19.73
+WordPress,Monkey,6,15,23.4
+WordPress,Monkey,6,20,27.78
+WordPress,Monkey,6,25,26.32
+WordPress,Monkey,6,30,29.69
+WordPress,Monkey,6,35,30.98
+WordPress,Monkey,6,40,30.16
+WordPress,Monkey,6,45,29.65
+WordPress,Monkey,6,50,27.81
+WordPress,Monkey,6,55,28.05
+WordPress,Monkey,6,60,31.21
+WordPress,Monkey,7,0,1.17
+WordPress,Monkey,7,5,21.4
+WordPress,Monkey,7,10,32.6
+WordPress,Monkey,7,15,36.65
+WordPress,Monkey,7,20,41.63
+WordPress,Monkey,7,25,48.05
+WordPress,Monkey,7,30,44.33
+WordPress,Monkey,7,35,47.12
+WordPress,Monkey,7,40,48.67
+WordPress,Monkey,7,45,45.45
+WordPress,Monkey,7,50,47.71
+WordPress,Monkey,7,55,48.89
+WordPress,Monkey,7,60,47.53
+WordPress,Monkey,8,0,4.3
+WordPress,Monkey,8,5,15.55
+WordPress,Monkey,8,10,29.55
+WordPress,Monkey,8,15,33.15
+WordPress,Monkey,8,20,37.55
+WordPress,Monkey,8,25,38.69
+WordPress,Monkey,8,30,37.83
+WordPress,Monkey,8,35,39.76
+WordPress,Monkey,8,40,36.9
+WordPress,Monkey,8,45,40.74
+WordPress,Monkey,8,50,40.37
+WordPress,Monkey,8,55,40.92
+WordPress,Monkey,8,60,41.58
+WordPress,Monkey,9,0,0.55
+WordPress,Monkey,9,5,13.31
+WordPress,Monkey,9,10,18.94
+WordPress,Monkey,9,15,23.14
+WordPress,Monkey,9,20,28.15
+WordPress,Monkey,9,25,29.71
+WordPress,Monkey,9,30,27.85
+WordPress,Monkey,9,35,28.63
+WordPress,Monkey,9,40,27.4
+WordPress,Monkey,9,45,30.63
+WordPress,Monkey,9,50,29.93
+WordPress,Monkey,9,55,31.87
+WordPress,Monkey,9,60,27.66
+WordPress,Monkey,10,0,0.0
+WordPress,Monkey,10,5,19.47
+WordPress,Monkey,10,10,30.59
+WordPress,Monkey,10,15,35.06
+WordPress,Monkey,10,20,37.24
+WordPress,Monkey,10,25,41.6
+WordPress,Monkey,10,30,42.31
+WordPress,Monkey,10,35,40.38
+WordPress,Monkey,10,40,44.07
+WordPress,Monkey,10,45,43.95
+WordPress,Monkey,10,50,42.49
+WordPress,Monkey,10,55,42.45
+WordPress,Monkey,10,60,43.19
+WordPress,Dynodroid,1,0,0.0
+WordPress,Dynodroid,1,5,15.31
+WordPress,Dynodroid,1,10,22.27
+WordPress,Dynodroid,1,15,33.67
+WordPress,Dynodroid,1,20,34.61
+WordPress,Dynodroid,1,25,42.29
+WordPress,Dynodroid,1,30,41.6
+WordPress,Dynodroid,1,35,43.17
+WordPress,Dynodroid,1,40,43.47
+WordPress,Dynodroid,1,45,44.6
+WordPress,Dynodroid,1,50,47.58
+WordPress,Dynodroid,1,55,42.0
+WordPress,Dynodroid,1,60,47.83
+WordPress,Dynodroid,2,0,0.51
+WordPress,Dynodroid,2,5,16.69
+WordPress,Dynodroid,2,10,29.3
+WordPress,Dynodroid,2,15,41.74
+WordPress,Dynodroid,2,20,43.38
+WordPress,Dynodroid,2,25,46.8
+WordPress,Dynodroid,2,30,52.74
+WordPress,Dynodroid,2,35,53.22
+WordPress,Dynodroid,2,40,52.44
+WordPress,Dynodroid,2,45,54.92
+WordPress,Dynodroid,2,50,53.56
+WordPress,Dynodroid,2,55,57.09
+WordPress,Dynodroid,2,60,57.26
+WordPress,Dynodroid,3,0,0.8
+WordPress,Dynodroid,3,5,12.83
+WordPress,Dynodroid,3,10,23.17
+WordPress,Dynodroid,3,15,26.05
+WordPress,Dynodroid,3,20,27.98
+WordPress,Dynodroid,3,25,32.91
+WordPress,Dynodroid,3,30,37.03
+WordPress,Dynodroid,3,35,33.49
+WordPress,Dynodroid,3,40,35.22
+WordPress,Dynodroid,3,45,36.89
+WordPress,Dynodroid,3,50,36.52
+WordPress,Dynodroid,3,55,35.35
+WordPress,Dynodroid,3,60,38.66
+WordPress,Dynodroid,4,0,3.48
+WordPress,Dynodroid,4,5,13.98
+WordPress,Dynodroid,4,10,21.5
+WordPress,Dynodroid,4,15,26.68
+WordPress,Dynodroid,4,20,33.51
+WordPress,Dynodroid,4,25,37.54
+WordPress,Dynodroid,4,30,38.45
+WordPress,Dynodroid,4,35,38.97
+WordPress,Dynodroid,4,40,38.92
+WordPress,Dynodroid,4,45,38.73
+WordPress,Dynodroid,4,50,41.99
+WordPress,Dynodroid,4,55,42.36
+WordPress,Dynodroid,4,60,38.84
+WordPress,Dynodroid,5,0,2.38
+WordPress,Dynodroid,5,5,14.31
+WordPress,Dynodroid,5,10,24.56
+WordPress,Dynodroid,5,15,26.48
+WordPress,Dynodroid,5,20,30.5
+WordPress,Dynodroid,5,25,35.04
+WordPress,Dynodroid,5,30,37.83
+WordPress,Dynodroid,5,35,40.99
+WordPress,Dynodroid,5,40,40.18
+WordPress,Dynodroid,5,45,39.3
+WordPress,Dynodroid,5,50,38.49
+WordPress,Dynodroid,5,55,42.12
+WordPress,Dynodroid,5,60,39.0
+WordPress,Dynodroid,6,0,2.44
+WordPress,Dynodroid,6,5,9.03
+WordPress,Dynodroid,6,10,18.18
+WordPress,Dynodroid,6,15,21.07
+WordPress,Dynodroid,6,20,22.69
+WordPress,Dynodroid,6,25,24.03
+WordPress,Dynodroid,6,30,25.58
+WordPress,Dynodroid,6,35,27.59
+WordPress,Dynodroid,6,40,27.64
+WordPress,Dynodroid,6,45,27.02
+WordPress,Dynodroid,6,50,27.92
+WordPress,Dynodroid,6,55,28.46
+WordPress,Dynodroid,6,60,25.26
+WordPress,Dynodroid,7,0,0.69
+WordPress,Dynodroid,7,5,14.53
+WordPress,Dynodroid,7,10,25.0
+WordPress,Dynodroid,7,15,31.39
+WordPress,Dynodroid,7,20,36.05
+WordPress,Dynodroid,7,25,39.94
+WordPress,Dynodroid,7,30,43.07
+WordPress,Dynodroid,7,35,48.52
+WordPress,Dynodroid,7,40,45.77
+WordPress,Dynodroid,7,45,47.48
+WordPress,Dynodroid,7,50,48.25
+WordPress,Dynodroid,7,55,48.14
+WordPress,Dynodroid,7,60,48.02
+WordPress,Dynodroid,8,0,0.0
+WordPress,Dynodroid,8,5,18.05
+WordPress,Dynodroid,8,10,29.22
+WordPress,Dynodroid,8,15,31.12
+WordPress,Dynodroid,8,20,36.88
+WordPress,Dynodroid,8,25,41.21
+WordPress,Dynodroid,8,30,42.33
+WordPress,Dynodroid,8,35,45.97
+WordPress,Dynodroid,8,40,45.09
+WordPress,Dynodroid,8,45,50.07
+WordPress,Dynodroid,8,50,49.04
+WordPress,Dynodroid,8,55,47.87
+WordPress,Dynodroid,8,60,49.28
+WordPress,Dynodroid,9,0,1.66
+WordPress,Dynodroid,9,5,14.08
+WordPress,Dynodroid,9,10,23.7
+WordPress,Dynodroid,9,15,31.75
+WordPress,Dynodroid,9,20,37.41
+WordPress,Dynodroid,9,25,39.34
+WordPress,Dynodroid,9,30,38.79
+WordPress,Dynodroid,9,35,41.3
+WordPress,Dynodroid,9,40,43.3
+WordPress,Dynodroid,9,45,43.91
+WordPress,Dynodroid,9,50,47.39
+WordPress,Dynodroid,9,55,42.63
+WordPress,Dynodroid,9,60,45.65
+WordPress,Dynodroid,10,0,2.23
+WordPress,Dynodroid,10,5,17.44
+WordPress,Dynodroid,10,10,22.82
+WordPress,Dynodroid,10,15,30.47
+WordPress,Dynodroid,10,20,34.81
+WordPress,Dynodroid,10,25,37.08
+WordPress,Dynodroid,10,30,38.54
+WordPress,Dynodroid,10,35,40.62
+WordPress,Dynodroid,10,40,37.02
+WordPress,Dynodroid,10,45,42.41
+WordPress,Dynodroid,10,50,41.96
+WordPress,Dynodroid,10,55,41.69
+WordPress,Dynodroid,10,60,45.27
+WordPress,Ad-hoc,1,0,0.0
+WordPress,Ad-hoc,1,5,7.5
+WordPress,Ad-hoc,1,10,17.4
+WordPress,Ad-hoc,1,15,18.08
+WordPress,Ad-hoc,1,20,22.34
+WordPress,Ad-hoc,1,25,25.92
+WordPress,Ad-hoc,1,30,29.73
+WordPress,Ad-hoc,1,35,30.58
+WordPress,Ad-hoc,1,40,29.74
+WordPress,Ad-hoc,1,45,31.98
+WordPress,Ad-hoc,1,50,32.72
+WordPress,Ad-hoc,1,55,34.18
+WordPress,Ad-hoc,1,60,35.45
+WordPress,Ad-hoc,2,0,0.63
+WordPress,Ad-hoc,2,5,7.58
+WordPress,Ad-hoc,2,10,19.82
+WordPress,Ad-hoc,2,15,24.81
+WordPress,Ad-hoc,2,20,31.35
+WordPress,Ad-hoc,2,25,33.71
+WordPress,Ad-hoc,2,30,37.63
+WordPress,Ad-hoc,2,35,38.96
+WordPress,Ad-hoc,2,40,42.06
+WordPress,Ad-hoc,2,45,42.21
+WordPress,Ad-hoc,2,50,42.36
+WordPress,Ad-hoc,2,55,46.76
+WordPress,Ad-hoc,2,60,45.34
+WordPress,Ad-hoc,3,0,0.86
+WordPress,Ad-hoc,3,5,8.5
+WordPress,Ad-hoc,3,10,16.59
+WordPress,Ad-hoc,3,15,25.27
+WordPress,Ad-hoc,3,20,29.97
+WordPress,Ad-hoc,3,25,32.66
+WordPress,Ad-hoc,3,30,36.78
+WordPress,Ad-hoc,3,35,41.27
+WordPress,Ad-hoc,3,40,41.74
+WordPress,Ad-hoc,3,45,40.4
+WordPress,Ad-hoc,3,50,43.04
+WordPress,Ad-hoc,3,55,42.85
+WordPress,Ad-hoc,3,60,44.14
+WordPress,Ad-hoc,4,0,0.0
+WordPress,Ad-hoc,4,5,8.71
+WordPress,Ad-hoc,4,10,14.88
+WordPress,Ad-hoc,4,15,22.29
+WordPress,Ad-hoc,4,20,26.09
+WordPress,Ad-hoc,4,25,26.0
+WordPress,Ad-hoc,4,30,36.17
+WordPress,Ad-hoc,4,35,36.83
+WordPress,Ad-hoc,4,40,36.27
+WordPress,Ad-hoc,4,45,38.14
+WordPress,Ad-hoc,4,50,37.35
+WordPress,Ad-hoc,4,55,42.42
+WordPress,Ad-hoc,4,60,43.33
+WordPress,Ad-hoc,5,0,0.24
+WordPress,Ad-hoc,5,5,12.34
+WordPress,Ad-hoc,5,10,19.48
+WordPress,Ad-hoc,5,15,23.76
+WordPress,Ad-hoc,5,20,30.25
+WordPress,Ad-hoc,5,25,35.04
+WordPress,Ad-hoc,5,30,37.25
+WordPress,Ad-hoc,5,35,40.02
+WordPress,Ad-hoc,5,40,42.08
+WordPress,Ad-hoc,5,45,43.56
+WordPress,Ad-hoc,5,50,44.9
+WordPress,Ad-hoc,5,55,44.12
+WordPress,Ad-hoc,5,60,45.32
+WordPress,Ad-hoc,6,0,0.0
+WordPress,Ad-hoc,6,5,13.48
+WordPress,Ad-hoc,6,10,18.22
+WordPress,Ad-hoc,6,15,30.4
+WordPress,Ad-hoc,6,20,36.42
+WordPress,Ad-hoc,6,25,38.31
+WordPress,Ad-hoc,6,30,38.3
+WordPress,Ad-hoc,6,35,44.35
+WordPress,Ad-hoc,6,40,46.88
+WordPress,Ad-hoc,6,45,47.09
+WordPress,Ad-hoc,6,50,49.1
+WordPress,Ad-hoc,6,55,53.15
+WordPress,Ad-hoc,6,60,52.62
+WordPress,Ad-hoc,7,0,0.0
+WordPress,Ad-hoc,7,5,12.81
+WordPress,Ad-hoc,7,10,26.55
+WordPress,Ad-hoc,7,15,35.94
+WordPress,Ad-hoc,7,20,44.19
+WordPress,Ad-hoc,7,25,48.24
+WordPress,Ad-hoc,7,30,54.16
+WordPress,Ad-hoc,7,35,59.69
+WordPress,Ad-hoc,7,40,60.65
+WordPress,Ad-hoc,7,45,61.41
+WordPress,Ad-hoc,7,50,62.81
+WordPress,Ad-hoc,7,55,63.8
+WordPress,Ad-hoc,7,60,67.08
+WordPress,Ad-hoc,8,0,0.0
+WordPress,Ad-hoc,8,5,11.59
+WordPress,Ad-hoc,8,10,20.58
+WordPress,Ad-hoc,8,15,26.74
+WordPress,Ad-hoc,8,20,30.87
+WordPress,Ad-hoc,8,25,37.66
+WordPress,Ad-hoc,8,30,40.38
+WordPress,Ad-hoc,8,35,43.8
+WordPress,Ad-hoc,8,40,44.25
+WordPress,Ad-hoc,8,45,48.44
+WordPress,Ad-hoc,8,50,46.51
+WordPress,Ad-hoc,8,55,51.34
+WordPress,Ad-hoc,8,60,46.88
+WordPress,Ad-hoc,9,0,0.65
+WordPress,Ad-hoc,9,5,12.41
+WordPress,Ad-hoc,9,10,19.62
+WordPress,Ad-hoc,9,15,28.55
+WordPress,Ad-hoc,9,20,35.36
+WordPress,Ad-hoc,9,25,34.42
+WordPress,Ad-hoc,9,30,41.85
+WordPress,Ad-hoc,9,35,39.97
+WordPress,Ad-hoc,9,40,44.29
+WordPress,Ad-hoc,9,45,49.77
+WordPress,Ad-hoc,9,50,47.69
+WordPress,Ad-hoc,9,55,47.76
+WordPress,Ad-hoc,9,60,49.97
+WordPress,Ad-hoc,10,0,3.1
+WordPress,Ad-hoc,10,5,8.24
+WordPress,Ad-hoc,10,10,17.97
+WordPress,Ad-hoc,10,15,28.46
+WordPress,Ad-hoc,10,20,34.19
+WordPress,Ad-hoc,10,25,35.29
+WordPress,Ad-hoc,10,30,36.74
+WordPress,Ad-hoc,10,35,44.19
+WordPress,Ad-hoc,10,40,45.35
+WordPress,Ad-hoc,10,45,45.46
+WordPress,Ad-hoc,10,50,44.38
+WordPress,Ad-hoc,10,55,46.43
+WordPress,Ad-hoc,10,60,46.97
+WordPress,SMATA,1,0,0.5
+WordPress,SMATA,1,5,17.58
+WordPress,SMATA,1,10,28.13
+WordPress,SMATA,1,15,33.65
+WordPress,SMATA,1,20,43.59
+WordPress,SMATA,1,25,46.63
+WordPress,SMATA,1,30,50.63
+WordPress,SMATA,1,35,54.34
+WordPress,SMATA,1,40,52.36
+WordPress,SMATA,1,45,55.37
+WordPress,SMATA,1,50,55.66
+WordPress,SMATA,1,55,54.88
+WordPress,SMATA,1,60,58.32
+WordPress,SMATA,2,0,3.77
+WordPress,SMATA,2,5,16.29
+WordPress,SMATA,2,10,33.11
+WordPress,SMATA,2,15,44.58
+WordPress,SMATA,2,20,51.55
+WordPress,SMATA,2,25,56.93
+WordPress,SMATA,2,30,59.4
+WordPress,SMATA,2,35,64.85
+WordPress,SMATA,2,40,65.7
+WordPress,SMATA,2,45,65.28
+WordPress,SMATA,2,50,71.63
+WordPress,SMATA,2,55,72.23
+WordPress,SMATA,2,60,71.57
+WordPress,SMATA,3,0,0.34
+WordPress,SMATA,3,5,20.83
+WordPress,SMATA,3,10,33.79
+WordPress,SMATA,3,15,45.36
+WordPress,SMATA,3,20,51.37
+WordPress,SMATA,3,25,59.57
+WordPress,SMATA,3,30,62.37
+WordPress,SMATA,3,35,65.36
+WordPress,SMATA,3,40,65.52
+WordPress,SMATA,3,45,69.6
+WordPress,SMATA,3,50,69.21
+WordPress,SMATA,3,55,70.46
+WordPress,SMATA,3,60,70.9
+WordPress,SMATA,4,0,0.0
+WordPress,SMATA,4,5,27.04
+WordPress,SMATA,4,10,43.52
+WordPress,SMATA,4,15,57.49
+WordPress,SMATA,4,20,62.48
+WordPress,SMATA,4,25,71.6
+WordPress,SMATA,4,30,74.88
+WordPress,SMATA,4,35,79.72
+WordPress,SMATA,4,40,82.3
+WordPress,SMATA,4,45,87.7
+WordPress,SMATA,4,50,86.85
+WordPress,SMATA,4,55,90.24
+WordPress,SMATA,4,60,90.42
+WordPress,SMATA,5,0,3.46
+WordPress,SMATA,5,5,16.51
+WordPress,SMATA,5,10,34.5
+WordPress,SMATA,5,15,44.61
+WordPress,SMATA,5,20,49.04
+WordPress,SMATA,5,25,57.66
+WordPress,SMATA,5,30,60.83
+WordPress,SMATA,5,35,63.08
+WordPress,SMATA,5,40,64.48
+WordPress,SMATA,5,45,66.33
+WordPress,SMATA,5,50,71.75
+WordPress,SMATA,5,55,69.61
+WordPress,SMATA,5,60,71.47
+WordPress,SMATA,6,0,0.0
+WordPress,SMATA,6,5,18.51
+WordPress,SMATA,6,10,35.89
+WordPress,SMATA,6,15,43.04
+WordPress,SMATA,6,20,52.44
+WordPress,SMATA,6,25,59.05
+WordPress,SMATA,6,30,63.55
+WordPress,SMATA,6,35,66.37
+WordPress,SMATA,6,40,69.64
+WordPress,SMATA,6,45,71.88
+WordPress,SMATA,6,50,73.26
+WordPress,SMATA,6,55,71.66
+WordPress,SMATA,6,60,73.44
+WordPress,SMATA,7,0,1.79
+WordPress,SMATA,7,5,20.38
+WordPress,SMATA,7,10,31.08
+WordPress,SMATA,7,15,44.11
+WordPress,SMATA,7,20,48.35
+WordPress,SMATA,7,25,57.12
+WordPress,SMATA,7,30,64.15
+WordPress,SMATA,7,35,63.02
+WordPress,SMATA,7,40,65.53
+WordPress,SMATA,7,45,69.65
+WordPress,SMATA,7,50,67.47
+WordPress,SMATA,7,55,69.78
+WordPress,SMATA,7,60,72.33
+WordPress,SMATA,8,0,0.0
+WordPress,SMATA,8,5,16.5
+WordPress,SMATA,8,10,30.45
+WordPress,SMATA,8,15,39.21
+WordPress,SMATA,8,20,45.83
+WordPress,SMATA,8,25,50.0
+WordPress,SMATA,8,30,54.82
+WordPress,SMATA,8,35,56.86
+WordPress,SMATA,8,40,59.8
+WordPress,SMATA,8,45,59.9
+WordPress,SMATA,8,50,61.5
+WordPress,SMATA,8,55,61.13
+WordPress,SMATA,8,60,63.18
+WordPress,SMATA,9,0,0.0
+WordPress,SMATA,9,5,19.63
+WordPress,SMATA,9,10,37.48
+WordPress,SMATA,9,15,49.1
+WordPress,SMATA,9,20,58.62
+WordPress,SMATA,9,25,63.21
+WordPress,SMATA,9,30,69.22
+WordPress,SMATA,9,35,72.96
+WordPress,SMATA,9,40,75.41
+WordPress,SMATA,9,45,75.44
+WordPress,SMATA,9,50,78.33
+WordPress,SMATA,9,55,79.71
+WordPress,SMATA,9,60,79.96
+WordPress,SMATA,10,0,0.0
+WordPress,SMATA,10,5,20.79
+WordPress,SMATA,10,10,39.09
+WordPress,SMATA,10,15,46.51
+WordPress,SMATA,10,20,54.32
+WordPress,SMATA,10,25,62.16
+WordPress,SMATA,10,30,66.65
+WordPress,SMATA,10,35,71.37
+WordPress,SMATA,10,40,70.21
+WordPress,SMATA,10,45,75.06
+WordPress,SMATA,10,50,76.23
+WordPress,SMATA,10,55,76.15
+WordPress,SMATA,10,60,77.63
+Aard Dictionary,Monkey,1,0,1.54
+Aard Dictionary,Monkey,1,5,22.96
+Aard Dictionary,Monkey,1,10,31.82
+Aard Dictionary,Monkey,1,15,41.29
+Aard Dictionary,Monkey,1,20,43.54
+Aard Dictionary,Monkey,1,25,45.71
+Aard Dictionary,Monkey,1,30,46.79
+Aard Dictionary,Monkey,1,35,47.04
+Aard Dictionary,Monkey,1,40,49.38
+Aard Dictionary,Monkey,1,45,47.65
+Aard Dictionary,Monkey,1,50,46.19
+Aard Dictionary,Monkey,1,55,47.33
+Aard Dictionary,Monkey,1,60,48.22
+Aard Dictionary,Monkey,2,0,1.84
+Aard Dictionary,Monkey,2,5,15.58
+Aard Dictionary,Monkey,2,10,21.46
+Aard Dictionary,Monkey,2,15,30.88
+Aard Dictionary,Monkey,2,20,29.98
+Aard Dictionary,Monkey,2,25,32.82
+Aard Dictionary,Monkey,2,30,31.41
+Aard Dictionary,Monkey,2,35,32.84
+Aard Dictionary,Monkey,2,40,33.52
+Aard Dictionary,Monkey,2,45,34.21
+Aard Dictionary,Monkey,2,50,34.04
+Aard Dictionary,Monkey,2,55,33.79
+Aard Dictionary,Monkey,2,60,32.03
+Aard Dictionary,Monkey,3,0,0.0
+Aard Dictionary,Monkey,3,5,24.66
+Aard Dictionary,Monkey,3,10,38.83
+Aard Dictionary,Monkey,3,15,44.37
+Aard Dictionary,Monkey,3,20,50.3
+Aard Dictionary,Monkey,3,25,53.07
+Aard Dictionary,Monkey,3,30,50.72
+Aard Dictionary,Monkey,3,35,51.5
+Aard Dictionary,Monkey,3,40,52.91
+Aard Dictionary,Monkey,3,45,53.78
+Aard Dictionary,Monkey,3,50,52.64
+Aard Dictionary,Monkey,3,55,55.52
+Aard Dictionary,Monkey,3,60,54.16
+Aard Dictionary,Monkey,4,0,0.06
+Aard Dictionary,Monkey,4,5,10.5
+Aard Dictionary,Monkey,4,10,17.63
+Aard Dictionary,Monkey,4,15,23.83
+Aard Dictionary,Monkey,4,20,22.31
+Aard Dictionary,Monkey,4,25,28.17
+Aard Dictionary,Monkey,4,30,27.05
+Aard Dictionary,Monkey,4,35,32.49
+Aard Dictionary,Monkey,4,40,31.28
+Aard Dictionary,Monkey,4,45,27.65
+Aard Dictionary,Monkey,4,50,27.82
+Aard Dictionary,Monkey,4,55,29.51
+Aard Dictionary,Monkey,4,60,30.58
+Aard Dictionary,Monkey,5,0,0.0
+Aard Dictionary,Monkey,5,5,18.14
+Aard Dictionary,Monkey,5,10,31.31
+Aard Dictionary,Monkey,5,15,39.39
+Aard Dictionary,Monkey,5,20,42.7
+Aard Dictionary,Monkey,5,25,45.45
+Aard Dictionary,Monkey,5,30,43.08
+Aard Dictionary,Monkey,5,35,41.97
+Aard Dictionary,Monkey,5,40,47.05
+Aard Dictionary,Monkey,5,45,44.69
+Aard Dictionary,Monkey,5,50,43.0
+Aard Dictionary,Monkey,5,55,46.29
+Aard Dictionary,Monkey,5,60,47.3
+Aard Dictionary,Monkey,6,0,0.0
+Aard Dictionary,Monkey,6,5,26.71
+Aard Dictionary,Monkey,6,10,42.19
+Aard Dictionary,Monkey,6,15,50.13
+Aard Dictionary,Monkey,6,20,53.19
+Aard Dictionary,Monkey,6,25,56.62
+Aard Dictionary,Monkey,6,30,59.84
+Aard Dictionary,Monkey,6,35,60.29
+Aard Dictionary,Monkey,6,40,60.47
+Aard Dictionary,Monkey,6,45,58.95
+Aard Dictionary,Monkey,6,50,60.3
+Aard Dictionary,Monkey,6,55,57.37
+Aard Dictionary,Monkey,6,60,60.94
+Aard Dictionary,Monkey,7,0,2.14
+Aard Dictionary,Monkey,7,5,12.13
+Aard Dictionary,Monkey,7,10,21.34
+Aard Dictionary,Monkey,7,15,27.03
+Aard Dictionary,Monkey,7,20,30.79
+Aard Dictionary,Monkey,7,25,29.53
+Aard Dictionary,Monkey,7,30,29.88
+Aard Dictionary,Monkey,7,35,28.36
+Aard Dictionary,Monkey,7,40,31.68
+Aard Dictionary,Monkey,7,45,34.71
+Aard Dictionary,Monkey,7,50,32.13
+Aard Dictionary,Monkey,7,55,31.71
+Aard Dictionary,Monkey,7,60,32.25
+Aard Dictionary,Monkey,8,0,0.0
+Aard Dictionary,Monkey,8,5,14.87
+Aard Dictionary,Monkey,8,10,26.15
+Aard Dictionary,Monkey,8,15,30.1
+Aard Dictionary,Monkey,8,20,32.44
+Aard Dictionary,Monkey,8,25,32.41
+Aard Dictionary,Monkey,8,30,36.63
+Aard Dictionary,Monkey,8,35,36.11
+Aard Dictionary,Monkey,8,40,34.53
+Aard Dictionary,Monkey,8,45,36.99
+Aard Dictionary,Monkey,8,50,34.82
+Aard Dictionary,Monkey,8,55,34.43
+Aard Dictionary,Monkey,8,60,34.48
+Aard Dictionary,Monkey,9,0,0.0
+Aard Dictionary,Monkey,9,5,19.53
+Aard Dictionary,Monkey,9,10,26.4
+Aard Dictionary,Monkey,9,15,32.97
+Aard Dictionary,Monkey,9,20,34.81
+Aard Dictionary,Monkey,9,25,39.5
+Aard Dictionary,Monkey,9,30,40.34
+Aard Dictionary,Monkey,9,35,40.59
+Aard Dictionary,Monkey,9,40,39.8
+Aard Dictionary,Monkey,9,45,39.76
+Aard Dictionary,Monkey,9,50,42.3
+Aard Dictionary,Monkey,9,55,40.83
+Aard Dictionary,Monkey,9,60,42.15
+Aard Dictionary,Monkey,10,0,0.0
+Aard Dictionary,Monkey,10,5,16.61
+Aard Dictionary,Monkey,10,10,27.27
+Aard Dictionary,Monkey,10,15,31.11
+Aard Dictionary,Monkey,10,20,32.32
+Aard Dictionary,Monkey,10,25,34.8
+Aard Dictionary,Monkey,10,30,34.87
+Aard Dictionary,Monkey,10,35,35.69
+Aard Dictionary,Monkey,10,40,35.43
+Aard Dictionary,Monkey,10,45,35.81
+Aard Dictionary,Monkey,10,50,36.45
+Aard Dictionary,Monkey,10,55,34.68
+Aard Dictionary,Monkey,10,60,34.67
+Aard Dictionary,Dynodroid,1,0,0.0
+Aard Dictionary,Dynodroid,1,5,9.41
+Aard Dictionary,Dynodroid,1,10,17.89
+Aard Dictionary,Dynodroid,1,15,25.26
+Aard Dictionary,Dynodroid,1,20,27.24
+Aard Dictionary,Dynodroid,1,25,31.73
+Aard Dictionary,Dynodroid,1,30,32.61
+Aard Dictionary,Dynodroid,1,35,30.68
+Aard Dictionary,Dynodroid,1,40,35.33
+Aard Dictionary,Dynodroid,1,45,36.05
+Aard Dictionary,Dynodroid,1,50,33.66
+Aard Dictionary,Dynodroid,1,55,36.0
+Aard Dictionary,Dynodroid,1,60,34.23
+Aard Dictionary,Dynodroid,2,0,0.15
+Aard Dictionary,Dynodroid,2,5,14.18
+Aard Dictionary,Dynodroid,2,10,24.16
+Aard Dictionary,Dynodroid,2,15,33.49
+Aard Dictionary,Dynodroid,2,20,38.72
+Aard Dictionary,Dynodroid,2,25,41.56
+Aard Dictionary,Dynodroid,2,30,42.55
+Aard Dictionary,Dynodroid,2,35,45.19
+Aard Dictionary,Dynodroid,2,40,47.17
+Aard Dictionary,Dynodroid,2,45,47.35
+Aard Dictionary,Dynodroid,2,50,48.13
+Aard Dictionary,Dynodroid,2,55,47.15
+Aard Dictionary,Dynodroid,2,60,50.11
+Aard Dictionary,Dynodroid,3,0,0.0
+Aard Dictionary,Dynodroid,3,5,13.82
+Aard Dictionary,Dynodroid,3,10,23.64
+Aard Dictionary,Dynodroid,3,15,28.47
+Aard Dictionary,Dynodroid,3,20,31.39
+Aard Dictionary,Dynodroid,3,25,33.54
+Aard Dictionary,Dynodroid,3,30,37.66
+Aard Dictionary,Dynodroid,3,35,35.16
+Aard Dictionary,Dynodroid,3,40,36.64
+Aard Dictionary,Dynodroid,3,45,38.03
+Aard Dictionary,Dynodroid,3,50,40.84
+Aard Dictionary,Dynodroid,3,55,39.79
+Aard Dictionary,Dynodroid,3,60,37.93
+Aard Dictionary,Dynodroid,4,0,0.0
+Aard Dictionary,Dynodroid,4,5,16.22
+Aard Dictionary,Dynodroid,4,10,27.56
+Aard Dictionary,Dynodroid,4,15,37.79
+Aard Dictionary,Dynodroid,4,20,39.43
+Aard Dictionary,Dynodroid,4,25,47.36
+Aard Dictionary,Dynodroid,4,30,48.51
+Aard Dictionary,Dynodroid,4,35,50.46
+Aard Dictionary,Dynodroid,4,40,49.17
+Aard Dictionary,Dynodroid,4,45,50.33
+Aard Dictionary,Dynodroid,4,50,48.88
+Aard Dictionary,Dynodroid,4,55,50.55
+Aard Dictionary,Dynodroid,4,60,52.29
+Aard Dictionary,Dynodroid,5,0,1.94
+Aard Dictionary,Dynodroid,5,5,11.81
+Aard Dictionary,Dynodroid,5,10,21.95
+Aard Dictionary,Dynodroid,5,15,28.32
+Aard Dictionary,Dynodroid,5,20,30.51
+Aard Dictionary,Dynodroid,5,25,36.21
+Aard Dictionary,Dynodroid,5,30,36.06
+Aard Dictionary,Dynodroid,5,35,38.07
+Aard Dictionary,Dynodroid,5,40,38.51
+Aard Dictionary,Dynodroid,5,45,38.55
+Aard Dictionary,Dynodroid,5,50,40.09
+Aard Dictionary,Dynodroid,5,55,40.03
+Aard Dictionary,Dynodroid,5,60,39.96
+Aard Dictionary,Dynodroid,6,0,0.0
+Aard Dictionary,Dynodroid,6,5,20.45
+Aard Dictionary,Dynodroid,6,10,35.84
+Aard Dictionary,Dynodroid,6,15,42.54
+Aard Dictionary,Dynodroid,6,20,49.84
+Aard Dictionary,Dynodroid,6,25,50.3
+Aard Dictionary,Dynodroid,6,30,55.32
+Aard Dictionary,Dynodroid,6,35,55.25
+Aard Dictionary,Dynodroid,6,40,55.9
+Aard Dictionary,Dynodroid,6,45,57.82
+Aard Dictionary,Dynodroid,6,50,61.26
+Aard Dictionary,Dynodroid,6,55,61.26
+Aard Dictionary,Dynodroid,6,60,60.45
+Aard Dictionary,Dynodroid,7,0,0.0
+Aard Dictionary,Dynodroid,7,5,13.53
+Aard Dictionary,Dynodroid,7,10,23.55
+Aard Dictionary,Dynodroid,7,15,29.57
+Aard Dictionary,Dynodroid,7,20,30.71
+Aard Dictionary,Dynodroid,7,25,34.93
+Aard Dictionary,Dynodroid,7,30,38.04
+Aard Dictionary,Dynodroid,7,35,40.19
+Aard Dictionary,Dynodroid,7,40,36.94
+Aard Dictionary,Dynodroid,7,45,40.55
+Aard Dictionary,Dynodroid,7,50,41.39
+Aard Dictionary,Dynodroid,7,55,42.7
+Aard Dictionary,Dynodroid,7,60,42.63
+Aard Dictionary,Dynodroid,8,0,0.87
+Aard Dictionary,Dynodroid,8,5,13.84
+Aard Dictionary,Dynodroid,8,10,22.27
+Aard Dictionary,Dynodroid,8,15,31.3
+Aard Dictionary,Dynodroid,8,20,37.92
+Aard Dictionary,Dynodroid,8,25,41.54
+Aard Dictionary,Dynodroid,8,30,42.56
+Aard Dictionary,Dynodroid,8,35,43.5
+Aard Dictionary,Dynodroid,8,40,44.34
+Aard Dictionary,Dynodroid,8,45,43.55
+Aard Dictionary,Dynodroid,8,50,44.6
+Aard Dictionary,Dynodroid,8,55,47.57
+Aard Dictionary,Dynodroid,8,60,43.84
+Aard Dictionary,Dynodroid,9,0,2.42
+Aard Dictionary,Dynodroid,9,5,17.55
+Aard Dictionary,Dynodroid,9,10,32.11
+Aard Dictionary,Dynodroid,9,15,36.11
+Aard Dictionary,Dynodroid,9,20,44.54
+Aard Dictionary,Dynodroid,9,25,46.19
+Aard Dictionary,Dynodroid,9,30,47.61
+Aard Dictionary,Dynodroid,9,35,51.7
+Aard Dictionary,Dynodroid,9,40,53.98
+Aard Dictionary,Dynodroid,9,45,51.94
+Aard Dictionary,Dynodroid,9,50,51.45
+Aard Dictionary,Dynodroid,9,55,53.89
+Aard Dictionary,Dynodroid,9,60,54.12
+Aard Dictionary,Dynodroid,10,0,0.82
+Aard Dictionary,Dynodroid,10,5,14.07
+Aard Dictionary,Dynodroid,10,10,21.04
+Aard Dictionary,Dynodroid,10,15,29.6
+Aard Dictionary,Dynodroid,10,20,30.96
+Aard Dictionary,Dynodroid,10,25,32.66
+Aard Dictionary,Dynodroid,10,30,32.47
+Aard Dictionary,Dynodroid,10,35,35.64
+Aard Dictionary,Dynodroid,10,40,36.3
+Aard Dictionary,Dynodroid,10,45,38.76
+Aard Dictionary,Dynodroid,10,50,38.36
+Aard Dictionary,Dynodroid,10,55,36.13
+Aard Dictionary,Dynodroid,10,60,38.31
+Aard Dictionary,Ad-hoc,1,0,1.01
+Aard Dictionary,Ad-hoc,1,5,14.23
+Aard Dictionary,Ad-hoc,1,10,22.57
+Aard Dictionary,Ad-hoc,1,15,29.62
+Aard Dictionary,Ad-hoc,1,20,34.21
+Aard Dictionary,Ad-hoc,1,25,39.09
+Aard Dictionary,Ad-hoc,1,30,43.8
+Aard Dictionary,Ad-hoc,1,35,42.59
+Aard Dictionary,Ad-hoc,1,40,46.14
+Aard Dictionary,Ad-hoc,1,45,47.12
+Aard Dictionary,Ad-hoc,1,50,50.11
+Aard Dictionary,Ad-hoc,1,55,52.37
+Aard Dictionary,Ad-hoc,1,60,50.39
+Aard Dictionary,Ad-hoc,2,0,0.0
+Aard Dictionary,Ad-hoc,2,5,12.96
+Aard Dictionary,Ad-hoc,2,10,25.53
+Aard Dictionary,Ad-hoc,2,15,33.2
+Aard Dictionary,Ad-hoc,2,20,39.45
+Aard Dictionary,Ad-hoc,2,25,43.39
+Aard Dictionary,Ad-hoc,2,30,45.78
+Aard Dictionary,Ad-hoc,2,35,51.5
+Aard Dictionary,Ad-hoc,2,40,51.84
+Aard Dictionary,Ad-hoc,2,45,58.2
+Aard Dictionary,Ad-hoc,2,50,57.22
+Aard Dictionary,Ad-hoc,2,55,56.6
+Aard Dictionary,Ad-hoc,2,60,57.43
+Aard Dictionary,Ad-hoc,3,0,0.0
+Aard Dictionary,Ad-hoc,3,5,8.78
+Aard Dictionary,Ad-hoc,3,10,17.94
+Aard Dictionary,Ad-hoc,3,15,22.09
+Aard Dictionary,Ad-hoc,3,20,25.03
+Aard Dictionary,Ad-hoc,3,25,32.32
+Aard Dictionary,Ad-hoc,3,30,32.18
+Aard Dictionary,Ad-hoc,3,35,35.3
+Aard Dictionary,Ad-hoc,3,40,34.82
+Aard Dictionary,Ad-hoc,3,45,37.52
+Aard Dictionary,Ad-hoc,3,50,38.4
+Aard Dictionary,Ad-hoc,3,55,35.85
+Aard Dictionary,Ad-hoc,3,60,42.3
+Aard Dictionary,Ad-hoc,4,0,1.94
+Aard Dictionary,Ad-hoc,4,5,11.28
+Aard Dictionary,Ad-hoc,4,10,19.46
+Aard Dictionary,Ad-hoc,4,15,28.84
+Aard Dictionary,Ad-hoc,4,20,34.06
+Aard Dictionary,Ad-hoc,4,25,38.83
+Aard Dictionary,Ad-hoc,4,30,41.98
+Aard Dictionary,Ad-hoc,4,35,45.1
+Aard Dictionary,Ad-hoc,4,40,48.58
+Aard Dictionary,Ad-hoc,4,45,48.87
+Aard Dictionary,Ad-hoc,4,50,47.69
+Aard Dictionary,Ad-hoc,4,55,52.28
+Aard Dictionary,Ad-hoc,4,60,53.46
+Aard Dictionary,Ad-hoc,5,0,4.73
+Aard Dictionary,Ad-hoc,5,5,10.3
+Aard Dictionary,Ad-hoc,5,10,21.69
+Aard Dictionary,Ad-hoc,5,15,25.47
+Aard Dictionary,Ad-hoc,5,20,35.08
+Aard Dictionary,Ad-hoc,5,25,37.84
+Aard Dictionary,Ad-hoc,5,30,44.98
+Aard Dictionary,Ad-hoc,5,35,43.61
+Aard Dictionary,Ad-hoc,5,40,44.32
+Aard Dictionary,Ad-hoc,5,45,47.77
+Aard Dictionary,Ad-hoc,5,50,46.78
+Aard Dictionary,Ad-hoc,5,55,51.85
+Aard Dictionary,Ad-hoc,5,60,48.39
+Aard Dictionary,Ad-hoc,6,0,0.04
+Aard Dictionary,Ad-hoc,6,5,9.66
+Aard Dictionary,Ad-hoc,6,10,22.25
+Aard Dictionary,Ad-hoc,6,15,32.95
+Aard Dictionary,Ad-hoc,6,20,37.06
+Aard Dictionary,Ad-hoc,6,25,39.93
+Aard Dictionary,Ad-hoc,6,30,44.84
+Aard Dictionary,Ad-hoc,6,35,47.77
+Aard Dictionary,Ad-hoc,6,40,50.67
+Aard Dictionary,Ad-hoc,6,45,49.64
+Aard Dictionary,Ad-hoc,6,50,53.93
+Aard Dictionary,Ad-hoc,6,55,50.03
+Aard Dictionary,Ad-hoc,6,60,53.96
+Aard Dictionary,Ad-hoc,7,0,0.0
+Aard Dictionary,Ad-hoc,7,5,10.66
+Aard Dictionary,Ad-hoc,7,10,17.3
+Aard Dictionary,Ad-hoc,7,15,21.04
+Aard Dictionary,Ad-hoc,7,20,26.26
+Aard Dictionary,Ad-hoc,7,25,31.61
+Aard Dictionary,Ad-hoc,7,30,33.97
+Aard Dictionary,Ad-hoc,7,35,35.39
+Aard Dictionary,Ad-hoc,7,40,37.22
+Aard Dictionary,Ad-hoc,7,45,40.3
+Aard Dictionary,Ad-hoc,7,50,39.5
+Aard Dictionary,Ad-hoc,7,55,40.94
+Aard Dictionary,Ad-hoc,7,60,44.95
+Aard Dictionary,Ad-hoc,8,0,0.0
+Aard Dictionary,Ad-hoc,8,5,6.8
+Aard Dictionary,Ad-hoc,8,10,18.22
+Aard Dictionary,Ad-hoc,8,15,21.83
+Aard Dictionary,Ad-hoc,8,20,26.9
+Aard Dictionary,Ad-hoc,8,25,29.73
+Aard Dictionary,Ad-hoc,8,30,33.26
+Aard Dictionary,Ad-hoc,8,35,38.18
+Aard Dictionary,Ad-hoc,8,40,38.65
+Aard Dictionary,Ad-hoc,8,45,40.04
+Aard Dictionary,Ad-hoc,8,50,37.63
+Aard Dictionary,Ad-hoc,8,55,38.81
+Aard Dictionary,Ad-hoc,8,60,36.9
+Aard Dictionary,Ad-hoc,9,0,0.0
+Aard Dictionary,Ad-hoc,9,5,13.82
+Aard Dictionary,Ad-hoc,9,10,22.81
+Aard Dictionary,Ad-hoc,9,15,29.21
+Aard Dictionary,Ad-hoc,9,20,35.36
+Aard Dictionary,Ad-hoc,9,25,38.92
+Aard Dictionary,Ad-hoc,9,30,43.8
+Aard Dictionary,Ad-hoc,9,35,47.41
+Aard Dictionary,Ad-hoc,9,40,45.99
+Aard Dictionary,Ad-hoc,9,45,50.54
+Aard Dictionary,Ad-hoc,9,50,52.79
+Aard Dictionary,Ad-hoc,9,55,51.79
+Aard Dictionary,Ad-hoc,9,60,54.25
+Aard Dictionary,Ad-hoc,10,0,4.22
+Aard Dictionary,Ad-hoc,10,5,11.89
+Aard Dictionary,Ad-hoc,10,10,22.01
+Aard Dictionary,Ad-hoc,10,15,27.62
+Aard Dictionary,Ad-hoc,10,20,34.68
+Aard Dictionary,Ad-hoc,10,25,39.53
+Aard Dictionary,Ad-hoc,10,30,42.59
+Aard Dictionary,Ad-hoc,10,35,43.45
+Aard Dictionary,Ad-hoc,10,40,47.38
+Aard Dictionary,Ad-hoc,10,45,50.9
+Aard Dictionary,Ad-hoc,10,50,50.64
+Aard Dictionary,Ad-hoc,10,55,52.4
+Aard Dictionary,Ad-hoc,10,60,51.37
+Aard Dictionary,SMATA,1,0,1.12
+Aard Dictionary,SMATA,1,5,18.57
+Aard Dictionary,SMATA,1,10,30.17
+Aard Dictionary,SMATA,1,15,42.03
+Aard Dictionary,SMATA,1,20,47.44
+Aard Dictionary,SMATA,1,25,53.45
+Aard Dictionary,SMATA,1,30,58.73
+Aard Dictionary,SMATA,1,35,61.89
+Aard Dictionary,SMATA,1,40,61.88
+Aard Dictionary,SMATA,1,45,66.9
+Aard Dictionary,SMATA,1,50,67.39
+Aard Dictionary,SMATA,1,55,66.38
+Aard Dictionary,SMATA,1,60,65.8
+Aard Dictionary,SMATA,2,0,0.0
+Aard Dictionary,SMATA,2,5,17.61
+Aard Dictionary,SMATA,2,10,31.99
+Aard Dictionary,SMATA,2,15,41.31
+Aard Dictionary,SMATA,2,20,46.28
+Aard Dictionary,SMATA,2,25,54.21
+Aard Dictionary,SMATA,2,30,58.41
+Aard Dictionary,SMATA,2,35,62.84
+Aard Dictionary,SMATA,2,40,63.08
+Aard Dictionary,SMATA,2,45,68.31
+Aard Dictionary,SMATA,2,50,64.15
+Aard Dictionary,SMATA,2,55,69.9
+Aard Dictionary,SMATA,2,60,68.27
+Aard Dictionary,SMATA,3,0,1.29
+Aard Dictionary,SMATA,3,5,17.0
+Aard Dictionary,SMATA,3,10,31.09
+Aard Dictionary,SMATA,3,15,38.06
+Aard Dictionary,SMATA,3,20,43.86
+Aard Dictionary,SMATA,3,25,52.72
+Aard Dictionary,SMATA,3,30,54.19
+Aard Dictionary,SMATA,3,35,57.48
+Aard Dictionary,SMATA,3,40,61.06
+Aard Dictionary,SMATA,3,45,59.2
+Aard Dictionary,SMATA,3,50,62.77
+Aard Dictionary,SMATA,3,55,61.83
+Aard Dictionary,SMATA,3,60,63.14
+Aard Dictionary,SMATA,4,0,0.11
+Aard Dictionary,SMATA,4,5,15.87
+Aard Dictionary,SMATA,4,10,30.38
+Aard Dictionary,SMATA,4,15,43.52
+Aard Dictionary,SMATA,4,20,50.19
+Aard Dictionary,SMATA,4,25,54.22
+Aard Dictionary,SMATA,4,30,58.73
+Aard Dictionary,SMATA,4,35,60.92
+Aard Dictionary,SMATA,4,40,65.61
+Aard Dictionary,SMATA,4,45,64.92
+Aard Dictionary,SMATA,4,50,66.79
+Aard Dictionary,SMATA,4,55,69.06
+Aard Dictionary,SMATA,4,60,66.84
+Aard Dictionary,SMATA,5,0,2.34
+Aard Dictionary,SMATA,5,5,15.91
+Aard Dictionary,SMATA,5,10,34.14
+Aard Dictionary,SMATA,5,15,41.12
+Aard Dictionary,SMATA,5,20,48.72
+Aard Dictionary,SMATA,5,25,51.73
+Aard Dictionary,SMATA,5,30,57.95
+Aard Dictionary,SMATA,5,35,60.08
+Aard Dictionary,SMATA,5,40,62.96
+Aard Dictionary,SMATA,5,45,65.31
+Aard Dictionary,SMATA,5,50,68.18
+Aard Dictionary,SMATA,5,55,67.96
+Aard Dictionary,SMATA,5,60,68.78
+Aard Dictionary,SMATA,6,0,0.0
+Aard Dictionary,SMATA,6,5,15.51
+Aard Dictionary,SMATA,6,10,32.0
+Aard Dictionary,SMATA,6,15,37.43
+Aard Dictionary,SMATA,6,20,47.86
+Aard Dictionary,SMATA,6,25,50.09
+Aard Dictionary,SMATA,6,30,54.21
+Aard Dictionary,SMATA,6,35,58.59
+Aard Dictionary,SMATA,6,40,60.96
+Aard Dictionary,SMATA,6,45,60.41
+Aard Dictionary,SMATA,6,50,61.12
+Aard Dictionary,SMATA,6,55,62.46
+Aard Dictionary,SMATA,6,60,63.67
+Aard Dictionary,SMATA,7,0,1.34
+Aard Dictionary,SMATA,7,5,20.36
+Aard Dictionary,SMATA,7,10,36.36
+Aard Dictionary,SMATA,7,15,49.06
+Aard Dictionary,SMATA,7,20,55.45
+Aard Dictionary,SMATA,7,25,61.48
+Aard Dictionary,SMATA,7,30,63.27
+Aard Dictionary,SMATA,7,35,64.97
+Aard Dictionary,SMATA,7,40,71.99
+Aard Dictionary,SMATA,7,45,73.11
+Aard Dictionary,SMATA,7,50,73.85
+Aard Dictionary,SMATA,7,55,76.0
+Aard Dictionary,SMATA,7,60,76.29
+Aard Dictionary,SMATA,8,0,1.69
+Aard Dictionary,SMATA,8,5,18.58
+Aard Dictionary,SMATA,8,10,31.0
+Aard Dictionary,SMATA,8,15,43.74
+Aard Dictionary,SMATA,8,20,49.43
+Aard Dictionary,SMATA,8,25,56.1
+Aard Dictionary,SMATA,8,30,58.71
+Aard Dictionary,SMATA,8,35,61.51
+Aard Dictionary,SMATA,8,40,64.87
+Aard Dictionary,SMATA,8,45,66.43
+Aard Dictionary,SMATA,8,50,68.37
+Aard Dictionary,SMATA,8,55,68.17
+Aard Dictionary,SMATA,8,60,66.5
+Aard Dictionary,SMATA,9,0,0.0
+Aard Dictionary,SMATA,9,5,17.37
+Aard Dictionary,SMATA,9,10,27.72
+Aard Dictionary,SMATA,9,15,36.67
+Aard Dictionary,SMATA,9,20,45.1
+Aard Dictionary,SMATA,9,25,47.42
+Aard Dictionary,SMATA,9,30,49.79
+Aard Dictionary,SMATA,9,35,54.54
+Aard Dictionary,SMATA,9,40,56.03
+Aard Dictionary,SMATA,9,45,56.78
+Aard Dictionary,SMATA,9,50,59.05
+Aard Dictionary,SMATA,9,55,60.86
+Aard Dictionary,SMATA,9,60,60.7
+Aard Dictionary,SMATA,10,0,0.46
+Aard Dictionary,SMATA,10,5,21.42
+Aard Dictionary,SMATA,10,10,32.04
+Aard Dictionary,SMATA,10,15,43.24
+Aard Dictionary,SMATA,10,20,49.66
+Aard Dictionary,SMATA,10,25,54.79
+Aard Dictionary,SMATA,10,30,59.35
+Aard Dictionary,SMATA,10,35,62.61
+Aard Dictionary,SMATA,10,40,66.15
+Aard Dictionary,SMATA,10,45,70.83
+Aard Dictionary,SMATA,10,50,67.49
+Aard Dictionary,SMATA,10,55,68.87
+Aard Dictionary,SMATA,10,60,70.09
+ConnectBot,Monkey,1,0,0.59
+ConnectBot,Monkey,1,5,11.84
+ConnectBot,Monkey,1,10,19.65
+ConnectBot,Monkey,1,15,17.54
+ConnectBot,Monkey,1,20,19.49
+ConnectBot,Monkey,1,25,23.36
+ConnectBot,Monkey,1,30,26.32
+ConnectBot,Monkey,1,35,22.64
+ConnectBot,Monkey,1,40,20.65
+ConnectBot,Monkey,1,45,26.11
+ConnectBot,Monkey,1,50,25.67
+ConnectBot,Monkey,1,55,23.7
+ConnectBot,Monkey,1,60,23.87
+ConnectBot,Monkey,2,0,0.0
+ConnectBot,Monkey,2,5,20.12
+ConnectBot,Monkey,2,10,29.96
+ConnectBot,Monkey,2,15,37.65
+ConnectBot,Monkey,2,20,35.93
+ConnectBot,Monkey,2,25,40.73
+ConnectBot,Monkey,2,30,41.32
+ConnectBot,Monkey,2,35,43.17
+ConnectBot,Monkey,2,40,43.05
+ConnectBot,Monkey,2,45,45.22
+ConnectBot,Monkey,2,50,41.32
+ConnectBot,Monkey,2,55,44.23
+ConnectBot,Monkey,2,60,45.02
+ConnectBot,Monkey,3,0,2.78
+ConnectBot,Monkey,3,5,21.02
+ConnectBot,Monkey,3,10,34.17
+ConnectBot,Monkey,3,15,37.53
+ConnectBot,Monkey,3,20,40.24
+ConnectBot,Monkey,3,25,47.07
+ConnectBot,Monkey,3,30,46.87
+ConnectBot,Monkey,3,35,49.24
+ConnectBot,Monkey,3,40,45.74
+ConnectBot,Monkey,3,45,48.76
+ConnectBot,Monkey,3,50,50.88
+ConnectBot,Monkey,3,55,48.76
+ConnectBot,Monkey,3,60,48.58
+ConnectBot,Monkey,4,0,0.01
+ConnectBot,Monkey,4,5,9.83
+ConnectBot,Monkey,4,10,20.92
+ConnectBot,Monkey,4,15,21.64
+ConnectBot,Monkey,4,20,25.33
+ConnectBot,Monkey,4,25,23.33
+ConnectBot,Monkey,4,30,24.51
+ConnectBot,Monkey,4,35,28.77
+ConnectBot,Monkey,4,40,26.28
+ConnectBot,Monkey,4,45,29.08
+ConnectBot,Monkey,4,50,26.84
+ConnectBot,Monkey,4,55,24.22
+ConnectBot,Monkey,4,60,28.34
+ConnectBot,Monkey,5,0,0.0
+ConnectBot,Monkey,5,5,21.85
+ConnectBot,Monkey,5,10,32.26
+ConnectBot,Monkey,5,15,36.17
+ConnectBot,Monkey,5,20,42.17
+ConnectBot,Monkey,5,25,47.11
+ConnectBot,Monkey,5,30,45.59
+ConnectBot,Monkey,5,35,45.33
+ConnectBot,Monkey,5,40,47.34
+ConnectBot,Monkey,5,45,46.22
+ConnectBot,Monkey,5,50,46.31
+ConnectBot,Monkey,5,55,44.41
+ConnectBot,Monkey,5,60,46.43
+ConnectBot,Monkey,6,0,1.55
+ConnectBot,Monkey,6,5,16.89
+ConnectBot,Monkey,6,10,30.24
+ConnectBot,Monkey,6,15,33.43
+ConnectBot,Monkey,6,20,35.24
+ConnectBot,Monkey,6,25,39.71
+ConnectBot,Monkey,6,30,38.69
+ConnectBot,Monkey,6,35,40.76
+ConnectBot,Monkey,6,40,39.45
+ConnectBot,Monkey,6,45,39.95
+ConnectBot,Monkey,6,50,40.86
+ConnectBot,Monkey,6,55,40.6
+ConnectBot,Monkey,6,60,37.2
+ConnectBot,Monkey,7,0,0.0
+ConnectBot,Monkey,7,5,21.52
+ConnectBot,Monkey,7,10,30.97
+ConnectBot,Monkey,7,15,36.44
+ConnectBot,Monkey,7,20,38.52
+ConnectBot,Monkey,7,25,40.76
+ConnectBot,Monkey,7,30,40.35
+ConnectBot,Monkey,7,35,43.78
+ConnectBot,Monkey,7,40,43.34
+ConnectBot,Monkey,7,45,42.95
+ConnectBot,Monkey,7,50,44.39
+ConnectBot,Monkey,7,55,45.09
+ConnectBot,Monkey,7,60,47.71
+ConnectBot,Monkey,8,0,0.0
+ConnectBot,Monkey,8,5,27.05
+ConnectBot,Monkey,8,10,40.66
+ConnectBot,Monkey,8,15,45.66
+ConnectBot,Monkey,8,20,51.32
+ConnectBot,Monkey,8,25,52.62
+ConnectBot,Monkey,8,30,54.85
+ConnectBot,Monkey,8,35,57.52
+ConnectBot,Monkey,8,40,56.55
+ConnectBot,Monkey,8,45,56.61
+ConnectBot,Monkey,8,50,55.32
+ConnectBot,Monkey,8,55,53.8
+ConnectBot,Monkey,8,60,55.75
+ConnectBot,Monkey,9,0,1.81
+ConnectBot,Monkey,9,5,12.68
+ConnectBot,Monkey,9,10,21.6
+ConnectBot,Monkey,9,15,27.88
+ConnectBot,Monkey,9,20,28.68
+ConnectBot,Monkey,9,25,30.33
+ConnectBot,Monkey,9,30,31.63
+ConnectBot,Monkey,9,35,30.62
+ConnectBot,Monkey,9,40,31.44
+ConnectBot,Monkey,9,45,34.08
+ConnectBot,Monkey,9,50,31.13
+ConnectBot,Monkey,9,55,30.73
+ConnectBot,Monkey,9,60,32.2
+ConnectBot,Monkey,10,0,1.1
+ConnectBot,Monkey,10,5,12.22
+ConnectBot,Monkey,10,10,18.69
+ConnectBot,Monkey,10,15,23.22
+ConnectBot,Monkey,10,20,22.6
+ConnectBot,Monkey,10,25,27.1
+ConnectBot,Monkey,10,30,27.56
+ConnectBot,Monkey,10,35,26.71
+ConnectBot,Monkey,10,40,29.02
+ConnectBot,Monkey,10,45,25.92
+ConnectBot,Monkey,10,50,29.36
+ConnectBot,Monkey,10,55,27.93
+ConnectBot,Monkey,10,60,27.21
+ConnectBot,Dynodroid,1,0,0.0
+ConnectBot,Dynodroid,1,5,11.98
+ConnectBot,Dynodroid,1,10,22.12
+ConnectBot,Dynodroid,1,15,24.13
+ConnectBot,Dynodroid,1,20,28.26
+ConnectBot,Dynodroid,1,25,33.41
+ConnectBot,Dynodroid,1,30,32.6
+ConnectBot,Dynodroid,1,35,35.95
+ConnectBot,Dynodroid,1,40,37.89
+ConnectBot,Dynodroid,1,45,35.23
+ConnectBot,Dynodroid,1,50,37.19
+ConnectBot,Dynodroid,1,55,34.66
+ConnectBot,Dynodroid,1,60,37.67
+ConnectBot,Dynodroid,2,0,0.3
+ConnectBot,Dynodroid,2,5,13.08
+ConnectBot,Dynodroid,2,10,19.7
+ConnectBot,Dynodroid,2,15,23.73
+ConnectBot,Dynodroid,2,20,30.71
+ConnectBot,Dynodroid,2,25,29.36
+ConnectBot,Dynodroid,2,30,33.65
+ConnectBot,Dynodroid,2,35,36.66
+ConnectBot,Dynodroid,2,40,36.29
+ConnectBot,Dynodroid,2,45,39.43
+ConnectBot,Dynodroid,2,50,38.38
+ConnectBot,Dynodroid,2,55,36.09
+ConnectBot,Dynodroid,2,60,37.26
+ConnectBot,Dynodroid,3,0,0.0
+ConnectBot,Dynodroid,3,5,12.29
+ConnectBot,Dynodroid,3,10,23.08
+ConnectBot,Dynodroid,3,15,30.24
+ConnectBot,Dynodroid,3,20,32.45
+ConnectBot,Dynodroid,3,25,38.53
+ConnectBot,Dynodroid,3,30,40.07
+ConnectBot,Dynodroid,3,35,39.27
+ConnectBot,Dynodroid,3,40,43.27
+ConnectBot,Dynodroid,3,45,44.34
+ConnectBot,Dynodroid,3,50,44.01
+ConnectBot,Dynodroid,3,55,43.45
+ConnectBot,Dynodroid,3,60,45.0
+ConnectBot,Dynodroid,4,0,1.02
+ConnectBot,Dynodroid,4,5,16.42
+ConnectBot,Dynodroid,4,10,25.42
+ConnectBot,Dynodroid,4,15,34.24
+ConnectBot,Dynodroid,4,20,40.43
+ConnectBot,Dynodroid,4,25,40.96
+ConnectBot,Dynodroid,4,30,47.17
+ConnectBot,Dynodroid,4,35,44.68
+ConnectBot,Dynodroid,4,40,46.49
+ConnectBot,Dynodroid,4,45,46.08
+ConnectBot,Dynodroid,4,50,47.86
+ConnectBot,Dynodroid,4,55,45.2
+ConnectBot,Dynodroid,4,60,47.19
+ConnectBot,Dynodroid,5,0,0.0
+ConnectBot,Dynodroid,5,5,15.96
+ConnectBot,Dynodroid,5,10,27.81
+ConnectBot,Dynodroid,5,15,34.37
+ConnectBot,Dynodroid,5,20,34.59
+ConnectBot,Dynodroid,5,25,44.39
+ConnectBot,Dynodroid,5,30,43.91
+ConnectBot,Dynodroid,5,35,43.73
+ConnectBot,Dynodroid,5,40,46.09
+ConnectBot,Dynodroid,5,45,46.76
+ConnectBot,Dynodroid,5,50,45.92
+ConnectBot,Dynodroid,5,55,47.51
+ConnectBot,Dynodroid,5,60,46.5
+ConnectBot,Dynodroid,6,0,0.0
+ConnectBot,Dynodroid,6,5,16.44
+ConnectBot,Dynodroid,6,10,27.03
+ConnectBot,Dynodroid,6,15,37.24
+ConnectBot,Dynodroid,6,20,43.16
+ConnectBot,Dynodroid,6,25,46.58
+ConnectBot,Dynodroid,6,30,49.4
+ConnectBot,Dynodroid,6,35,50.24
+ConnectBot,Dynodroid,6,40,50.02
+ConnectBot,Dynodroid,6,45,52.79
+ConnectBot,Dynodroid,6,50,49.97
+ConnectBot,Dynodroid,6,55,50.98
+ConnectBot,Dynodroid,6,60,51.1
+ConnectBot,Dynodroid,7,0,1.62
+ConnectBot,Dynodroid,7,5,16.36
+ConnectBot,Dynodroid,7,10,25.69
+ConnectBot,Dynodroid,7,15,33.28
+ConnectBot,Dynodroid,7,20,34.85
+ConnectBot,Dynodroid,7,25,39.71
+ConnectBot,Dynodroid,7,30,41.02
+ConnectBot,Dynodroid,7,35,43.83
+ConnectBot,Dynodroid,7,40,43.3
+ConnectBot,Dynodroid,7,45,43.5
+ConnectBot,Dynodroid,7,50,45.3
+ConnectBot,Dynodroid,7,55,46.08
+ConnectBot,Dynodroid,7,60,43.94
+ConnectBot,Dynodroid,8,0,0.0
+ConnectBot,Dynodroid,8,5,17.82
+ConnectBot,Dynodroid,8,10,28.67
+ConnectBot,Dynodroid,8,15,41.43
+ConnectBot,Dynodroid,8,20,47.89
+ConnectBot,Dynodroid,8,25,51.29
+ConnectBot,Dynodroid,8,30,50.6
+ConnectBot,Dynodroid,8,35,54.75
+ConnectBot,Dynodroid,8,40,53.13
+ConnectBot,Dynodroid,8,45,59.31
+ConnectBot,Dynodroid,8,50,56.15
+ConnectBot,Dynodroid,8,55,60.02
+ConnectBot,Dynodroid,8,60,59.79
+ConnectBot,Dynodroid,9,0,0.0
+ConnectBot,Dynodroid,9,5,12.38
+ConnectBot,Dynodroid,9,10,24.04
+ConnectBot,Dynodroid,9,15,28.58
+ConnectBot,Dynodroid,9,20,34.24
+ConnectBot,Dynodroid,9,25,36.21
+ConnectBot,Dynodroid,9,30,36.16
+ConnectBot,Dynodroid,9,35,36.77
+ConnectBot,Dynodroid,9,40,41.31
+ConnectBot,Dynodroid,9,45,40.7
+ConnectBot,Dynodroid,9,50,41.1
+ConnectBot,Dynodroid,9,55,43.23
+ConnectBot,Dynodroid,9,60,44.12
+ConnectBot,Dynodroid,10,0,0.0
+ConnectBot,Dynodroid,10,5,22.82
+ConnectBot,Dynodroid,10,10,39.72
+ConnectBot,Dynodroid,10,15,47.42
+ConnectBot,Dynodroid,10,20,56.82
+ConnectBot,Dynodroid,10,25,62.02
+ConnectBot,Dynodroid,10,30,65.37
+ConnectBot,Dynodroid,10,35,63.56
+ConnectBot,Dynodroid,10,40,66.74
+ConnectBot,Dynodroid,10,45,67.52
+ConnectBot,Dynodroid,10,50,69.62
+ConnectBot,Dynodroid,10,55,70.62
+ConnectBot,Dynodroid,10,60,72.43
+ConnectBot,Ad-hoc,1,0,0.0
+ConnectBot,Ad-hoc,1,5,11.52
+ConnectBot,Ad-hoc,1,10,23.55
+ConnectBot,Ad-hoc,1,15,29.71
+ConnectBot,Ad-hoc,1,20,36.97
+ConnectBot,Ad-hoc,1,25,40.01
+ConnectBot,Ad-hoc,1,30,41.36
+ConnectBot,Ad-hoc,1,35,43.83
+ConnectBot,Ad-hoc,1,40,45.64
+ConnectBot,Ad-hoc,1,45,50.62
+ConnectBot,Ad-hoc,1,50,52.7
+ConnectBot,Ad-hoc,1,55,54.7
+ConnectBot,Ad-hoc,1,60,53.97
+ConnectBot,Ad-hoc,2,0,1.74
+ConnectBot,Ad-hoc,2,5,8.74
+ConnectBot,Ad-hoc,2,10,15.37
+ConnectBot,Ad-hoc,2,15,24.21
+ConnectBot,Ad-hoc,2,20,28.1
+ConnectBot,Ad-hoc,2,25,31.17
+ConnectBot,Ad-hoc,2,30,34.34
+ConnectBot,Ad-hoc,2,35,36.39
+ConnectBot,Ad-hoc,2,40,39.5
+ConnectBot,Ad-hoc,2,45,40.82
+ConnectBot,Ad-hoc,2,50,40.71
+ConnectBot,Ad-hoc,2,55,41.95
+ConnectBot,Ad-hoc,2,60,42.07
+ConnectBot,Ad-hoc,3,0,0.0
+ConnectBot,Ad-hoc,3,5,10.37
+ConnectBot,Ad-hoc,3,10,14.33
+ConnectBot,Ad-hoc,3,15,23.6
+ConnectBot,Ad-hoc,3,20,24.59
+ConnectBot,Ad-hoc,3,25,30.2
+ConnectBot,Ad-hoc,3,30,31.15
+ConnectBot,Ad-hoc,3,35,35.31
+ConnectBot,Ad-hoc,3,40,36.03
+ConnectBot,Ad-hoc,3,45,34.94
+ConnectBot,Ad-hoc,3,50,38.94
+ConnectBot,Ad-hoc,3,55,38.2
+ConnectBot,Ad-hoc,3,60,40.97
+ConnectBot,Ad-hoc,4,0,0.0
+ConnectBot,Ad-hoc,4,5,12.61
+ConnectBot,Ad-hoc,4,10,19.93
+ConnectBot,Ad-hoc,4,15,27.77
+ConnectBot,Ad-hoc,4,20,33.64
+ConnectBot,Ad-hoc,4,25,40.03
+ConnectBot,Ad-hoc,4,30,44.71
+ConnectBot,Ad-hoc,4,35,43.66
+ConnectBot,Ad-hoc,4,40,48.58
+ConnectBot,Ad-hoc,4,45,45.33
+ConnectBot,Ad-hoc,4,50,48.06
+ConnectBot,Ad-hoc,4,55,49.4
+ConnectBot,Ad-hoc,4,60,49.58
+ConnectBot,Ad-hoc,5,0,0.0
+ConnectBot,Ad-hoc,5,5,11.37
+ConnectBot,Ad-hoc,5,10,18.8
+ConnectBot,Ad-hoc,5,15,26.21
+ConnectBot,Ad-hoc,5,20,31.75
+ConnectBot,Ad-hoc,5,25,35.07
+ConnectBot,Ad-hoc,5,30,38.73
+ConnectBot,Ad-hoc,5,35,40.04
+ConnectBot,Ad-hoc,5,40,40.23
+ConnectBot,Ad-hoc,5,45,45.06
+ConnectBot,Ad-hoc,5,50,43.72
+ConnectBot,Ad-hoc,5,55,44.08
+ConnectBot,Ad-hoc,5,60,45.9
+ConnectBot,Ad-hoc,6,0,0.0
+ConnectBot,Ad-hoc,6,5,11.8
+ConnectBot,Ad-hoc,6,10,22.62
+ConnectBot,Ad-hoc,6,15,30.16
+ConnectBot,Ad-hoc,6,20,34.17
+ConnectBot,Ad-hoc,6,25,39.35
+ConnectBot,Ad-hoc,6,30,45.26
+ConnectBot,Ad-hoc,6,35,47.16
+ConnectBot,Ad-hoc,6,40,51.69
+ConnectBot,Ad-hoc,6,45,52.03
+ConnectBot,Ad-hoc,6,50,53.28
+ConnectBot,Ad-hoc,6,55,50.51
+ConnectBot,Ad-hoc,6,60,54.53
+ConnectBot,Ad-hoc,7,0,0.0
+ConnectBot,Ad-hoc,7,5,11.17
+ConnectBot,Ad-hoc,7,10,21.59
+ConnectBot,Ad-hoc,7,15,30.03
+ConnectBot,Ad-hoc,7,20,35.03
+ConnectBot,Ad-hoc,7,25,37.38
+ConnectBot,Ad-hoc,7,30,43.24
+ConnectBot,Ad-hoc,7,35,43.85
+ConnectBot,Ad-hoc,7,40,47.22
+ConnectBot,Ad-hoc,7,45,48.06
+ConnectBot,Ad-hoc,7,50,49.45
+ConnectBot,Ad-hoc,7,55,51.91
+ConnectBot,Ad-hoc,7,60,49.97
+ConnectBot,Ad-hoc,8,0,2.92
+ConnectBot,Ad-hoc,8,5,8.29
+ConnectBot,Ad-hoc,8,10,18.7
+ConnectBot,Ad-hoc,8,15,26.84
+ConnectBot,Ad-hoc,8,20,32.36
+ConnectBot,Ad-hoc,8,25,35.39
+ConnectBot,Ad-hoc,8,30,38.61
+ConnectBot,Ad-hoc,8,35,41.77
+ConnectBot,Ad-hoc,8,40,42.72
+ConnectBot,Ad-hoc,8,45,46.65
+ConnectBot,Ad-hoc,8,50,46.98
+ConnectBot,Ad-hoc,8,55,47.93
+ConnectBot,Ad-hoc,8,60,45.88
+ConnectBot,Ad-hoc,9,0,0.0
+ConnectBot,Ad-hoc,9,5,9.18
+ConnectBot,Ad-hoc,9,10,15.62
+ConnectBot,Ad-hoc,9,15,23.51
+ConnectBot,Ad-hoc,9,20,26.72
+ConnectBot,Ad-hoc,9,25,32.05
+ConnectBot,Ad-hoc,9,30,32.22
+ConnectBot,Ad-hoc,9,35,38.55
+ConnectBot,Ad-hoc,9,40,36.3
+ConnectBot,Ad-hoc,9,45,39.28
+ConnectBot,Ad-hoc,9,50,41.15
+ConnectBot,Ad-hoc,9,55,39.9
+ConnectBot,Ad-hoc,9,60,42.65
+ConnectBot,Ad-hoc,10,0,0.0
+ConnectBot,Ad-hoc,10,5,10.61
+ConnectBot,Ad-hoc,10,10,15.02
+ConnectBot,Ad-hoc,10,15,19.22
+ConnectBot,Ad-hoc,10,20,23.65
+ConnectBot,Ad-hoc,10,25,28.42
+ConnectBot,Ad-hoc,10,30,28.75
+ConnectBot,Ad-hoc,10,35,30.38
+ConnectBot,Ad-hoc,10,40,32.64
+ConnectBot,Ad-hoc,10,45,32.35
+ConnectBot,Ad-hoc,10,50,37.73
+ConnectBot,Ad-hoc,10,55,34.84
+ConnectBot,Ad-hoc,10,60,37.48
+ConnectBot,SMATA,1,0,0.31
+ConnectBot,SMATA,1,5,16.91
+ConnectBot,SMATA,1,10,31.99
+ConnectBot,SMATA,1,15,43.27
+ConnectBot,SMATA,1,20,49.28
+ConnectBot,SMATA,1,25,56.89
+ConnectBot,SMATA,1,30,60.74
+ConnectBot,SMATA,1,35,63.62
+ConnectBot,SMATA,1,40,63.81
+ConnectBot,SMATA,1,45,64.54
+ConnectBot,SMATA,1,50,66.48
+ConnectBot,SMATA,1,55,68.61
+ConnectBot,SMATA,1,60,69.81
+ConnectBot,SMATA,2,0,0.0
+ConnectBot,SMATA,2,5,20.47
+ConnectBot,SMATA,2,10,35.89
+ConnectBot,SMATA,2,15,46.47
+ConnectBot,SMATA,2,20,57.15
+ConnectBot,SMATA,2,25,62.01
+ConnectBot,SMATA,2,30,67.92
+ConnectBot,SMATA,2,35,69.01
+ConnectBot,SMATA,2,40,73.25
+ConnectBot,SMATA,2,45,76.15
+ConnectBot,SMATA,2,50,77.04
+ConnectBot,SMATA,2,55,74.46
+ConnectBot,SMATA,2,60,76.47
+ConnectBot,SMATA,3,0,0.0
+ConnectBot,SMATA,3,5,20.18
+ConnectBot,SMATA,3,10,34.88
+ConnectBot,SMATA,3,15,43.27
+ConnectBot,SMATA,3,20,52.53
+ConnectBot,SMATA,3,25,55.26
+ConnectBot,SMATA,3,30,64.79
+ConnectBot,SMATA,3,35,65.07
+ConnectBot,SMATA,3,40,68.31
+ConnectBot,SMATA,3,45,69.52
+ConnectBot,SMATA,3,50,73.01
+ConnectBot,SMATA,3,55,68.01
+ConnectBot,SMATA,3,60,72.95
+ConnectBot,SMATA,4,0,0.0
+ConnectBot,SMATA,4,5,16.42
+ConnectBot,SMATA,4,10,32.36
+ConnectBot,SMATA,4,15,37.82
+ConnectBot,SMATA,4,20,47.26
+ConnectBot,SMATA,4,25,51.79
+ConnectBot,SMATA,4,30,56.97
+ConnectBot,SMATA,4,35,56.9
+ConnectBot,SMATA,4,40,58.89
+ConnectBot,SMATA,4,45,63.19
+ConnectBot,SMATA,4,50,63.33
+ConnectBot,SMATA,4,55,61.23
+ConnectBot,SMATA,4,60,63.37
+ConnectBot,SMATA,5,0,0.58
+ConnectBot,SMATA,5,5,20.64
+ConnectBot,SMATA,5,10,32.72
+ConnectBot,SMATA,5,15,40.0
+ConnectBot,SMATA,5,20,53.03
+ConnectBot,SMATA,5,25,56.26
+ConnectBot,SMATA,5,30,59.38
+ConnectBot,SMATA,5,35,61.37
+ConnectBot,SMATA,5,40,69.21
+ConnectBot,SMATA,5,45,69.94
+ConnectBot,SMATA,5,50,70.71
+ConnectBot,SMATA,5,55,74.1
+ConnectBot,SMATA,5,60,73.68
+ConnectBot,SMATA,6,0,2.42
+ConnectBot,SMATA,6,5,17.63
+ConnectBot,SMATA,6,10,34.28
+ConnectBot,SMATA,6,15,42.73
+ConnectBot,SMATA,6,20,52.83
+ConnectBot,SMATA,6,25,58.74
+ConnectBot,SMATA,6,30,64.45
+ConnectBot,SMATA,6,35,66.84
+ConnectBot,SMATA,6,40,70.12
+ConnectBot,SMATA,6,45,72.03
+ConnectBot,SMATA,6,50,75.53
+ConnectBot,SMATA,6,55,72.81
+ConnectBot,SMATA,6,60,72.6
+ConnectBot,SMATA,7,0,0.37
+ConnectBot,SMATA,7,5,16.48
+ConnectBot,SMATA,7,10,33.0
+ConnectBot,SMATA,7,15,40.06
+ConnectBot,SMATA,7,20,46.82
+ConnectBot,SMATA,7,25,52.29
+ConnectBot,SMATA,7,30,58.02
+ConnectBot,SMATA,7,35,59.63
+ConnectBot,SMATA,7,40,61.07
+ConnectBot,SMATA,7,45,66.13
+ConnectBot,SMATA,7,50,63.54
+ConnectBot,SMATA,7,55,65.76
+ConnectBot,SMATA,7,60,67.33
+ConnectBot,SMATA,8,0,0.0
+ConnectBot,SMATA,8,5,20.07
+ConnectBot,SMATA,8,10,32.1
+ConnectBot,SMATA,8,15,45.53
+ConnectBot,SMATA,8,20,50.72
+ConnectBot,SMATA,8,25,59.03
+ConnectBot,SMATA,8,30,63.97
+ConnectBot,SMATA,8,35,66.8
+ConnectBot,SMATA,8,40,68.25
+ConnectBot,SMATA,8,45,69.29
+ConnectBot,SMATA,8,50,70.07
+ConnectBot,SMATA,8,55,74.1
+ConnectBot,SMATA,8,60,71.56
+ConnectBot,SMATA,9,0,0.0
+ConnectBot,SMATA,9,5,20.19
+ConnectBot,SMATA,9,10,32.22
+ConnectBot,SMATA,9,15,42.52
+ConnectBot,SMATA,9,20,49.59
+ConnectBot,SMATA,9,25,56.81
+ConnectBot,SMATA,9,30,61.69
+ConnectBot,SMATA,9,35,65.36
+ConnectBot,SMATA,9,40,68.77
+ConnectBot,SMATA,9,45,69.87
+ConnectBot,SMATA,9,50,70.09
+ConnectBot,SMATA,9,55,71.03
+ConnectBot,SMATA,9,60,72.8
+ConnectBot,SMATA,10,0,1.91
+ConnectBot,SMATA,10,5,17.45
+ConnectBot,SMATA,10,10,29.35
+ConnectBot,SMATA,10,15,38.04
+ConnectBot,SMATA,10,20,44.38
+ConnectBot,SMATA,10,25,52.75
+ConnectBot,SMATA,10,30,56.47
+ConnectBot,SMATA,10,35,59.32
+ConnectBot,SMATA,10,40,60.37
+ConnectBot,SMATA,10,45,64.24
+ConnectBot,SMATA,10,50,62.57
+ConnectBot,SMATA,10,55,65.59
+ConnectBot,SMATA,10,60,64.73
+Tomdroid,Monkey,1,0,0.0
+Tomdroid,Monkey,1,5,20.76
+Tomdroid,Monkey,1,10,31.4
+Tomdroid,Monkey,1,15,37.3
+Tomdroid,Monkey,1,20,40.18
+Tomdroid,Monkey,1,25,41.8
+Tomdroid,Monkey,1,30,46.43
+Tomdroid,Monkey,1,35,45.17
+Tomdroid,Monkey,1,40,44.77
+Tomdroid,Monkey,1,45,44.02
+Tomdroid,Monkey,1,50,45.45
+Tomdroid,Monkey,1,55,44.77
+Tomdroid,Monkey,1,60,44.06
+Tomdroid,Monkey,2,0,0.0
+Tomdroid,Monkey,2,5,20.59
+Tomdroid,Monkey,2,10,27.32
+Tomdroid,Monkey,2,15,38.63
+Tomdroid,Monkey,2,20,41.0
+Tomdroid,Monkey,2,25,46.0
+Tomdroid,Monkey,2,30,44.67
+Tomdroid,Monkey,2,35,43.43
+Tomdroid,Monkey,2,40,45.45
+Tomdroid,Monkey,2,45,44.12
+Tomdroid,Monkey,2,50,46.5
+Tomdroid,Monkey,2,55,46.27
+Tomdroid,Monkey,2,60,47.3
+Tomdroid,Monkey,3,0,0.0
+Tomdroid,Monkey,3,5,22.9
+Tomdroid,Monkey,3,10,33.35
+Tomdroid,Monkey,3,15,43.33
+Tomdroid,Monkey,3,20,46.83
+Tomdroid,Monkey,3,25,48.87
+Tomdroid,Monkey,3,30,49.27
+Tomdroid,Monkey,3,35,50.51
+Tomdroid,Monkey,3,40,52.64
+Tomdroid,Monkey,3,45,49.99
+Tomdroid,Monkey,3,50,50.73
+Tomdroid,Monkey,3,55,48.95
+Tomdroid,Monkey,3,60,49.31
+Tomdroid,Monkey,4,0,0.15
+Tomdroid,Monkey,4,5,24.39
+Tomdroid,Monkey,4,10,34.82
+Tomdroid,Monkey,4,15,41.7
+Tomdroid,Monkey,4,20,45.2
+Tomdroid,Monkey,4,25,47.07
+Tomdroid,Monkey,4,30,49.45
+Tomdroid,Monkey,4,35,47.38
+Tomdroid,Monkey,4,40,51.89
+Tomdroid,Monkey,4,45,49.15
+Tomdroid,Monkey,4,50,51.34
+Tomdroid,Monkey,4,55,48.41
+Tomdroid,Monkey,4,60,51.35
+Tomdroid,Monkey,5,0,1.01
+Tomdroid,Monkey,5,5,13.33
+Tomdroid,Monkey,5,10,18.26
+Tomdroid,Monkey,5,15,23.97
+Tomdroid,Monkey,5,20,23.93
+Tomdroid,Monkey,5,25,26.48
+Tomdroid,Monkey,5,30,29.04
+Tomdroid,Monkey,5,35,29.04
+Tomdroid,Monkey,5,40,28.06
+Tomdroid,Monkey,5,45,26.68
+Tomdroid,Monkey,5,50,29.17
+Tomdroid,Monkey,5,55,28.26
+Tomdroid,Monkey,5,60,24.77
+Tomdroid,Monkey,6,0,1.17
+Tomdroid,Monkey,6,5,14.52
+Tomdroid,Monkey,6,10,24.35
+Tomdroid,Monkey,6,15,25.29
+Tomdroid,Monkey,6,20,24.58
+Tomdroid,Monkey,6,25,31.08
+Tomdroid,Monkey,6,30,31.83
+Tomdroid,Monkey,6,35,29.25
+Tomdroid,Monkey,6,40,30.54
+Tomdroid,Monkey,6,45,36.26
+Tomdroid,Monkey,6,50,31.73
+Tomdroid,Monkey,6,55,33.32
+Tomdroid,Monkey,6,60,31.27
+Tomdroid,Monkey,7,0,0.0
+Tomdroid,Monkey,7,5,20.26
+Tomdroid,Monkey,7,10,31.38
+Tomdroid,Monkey,7,15,37.36
+Tomdroid,Monkey,7,20,41.18
+Tomdroid,Monkey,7,25,43.61
+Tomdroid,Monkey,7,30,44.01
+Tomdroid,Monkey,7,35,42.9
+Tomdroid,Monkey,7,40,45.83
+Tomdroid,Monkey,7,45,42.35
+Tomdroid,Monkey,7,50,42.29
+Tomdroid,Monkey,7,55,46.53
+Tomdroid,Monkey,7,60,46.21
+Tomdroid,Monkey,8,0,0.0
+Tomdroid,Monkey,8,5,18.42
+Tomdroid,Monkey,8,10,30.71
+Tomdroid,Monkey,8,15,37.56
+Tomdroid,Monkey,8,20,38.95
+Tomdroid,Monkey,8,25,42.1
+Tomdroid,Monkey,8,30,45.21
+Tomdroid,Monkey,8,35,46.93
+Tomdroid,Monkey,8,40,44.47
+Tomdroid,Monkey,8,45,46.4
+Tomdroid,Monkey,8,50,42.49
+Tomdroid,Monkey,8,55,46.4
+Tomdroid,Monkey,8,60,44.23
+Tomdroid,Monkey,9,0,0.46
+Tomdroid,Monkey,9,5,20.15
+Tomdroid,Monkey,9,10,33.76
+Tomdroid,Monkey,9,15,36.65
+Tomdroid,Monkey,9,20,42.3
+Tomdroid,Monkey,9,25,42.8
+Tomdroid,Monkey,9,30,44.0
+Tomdroid,Monkey,9,35,44.52
+Tomdroid,Monkey,9,40,43.84
+Tomdroid,Monkey,9,45,45.25
+Tomdroid,Monkey,9,50,45.27
+Tomdroid,Monkey,9,55,45.78
+Tomdroid,Monkey,9,60,45.57
+Tomdroid,Monkey,10,0,1.2
+Tomdroid,Monkey,10,5,35.6
+Tomdroid,Monkey,10,10,51.42
+Tomdroid,Monkey,10,15,64.61
+Tomdroid,Monkey,10,20,67.18
+Tomdroid,Monkey,10,25,72.95
+Tomdroid,Monkey,10,30,74.7
+Tomdroid,Monkey,10,35,71.84
+Tomdroid,Monkey,10,40,75.36
+Tomdroid,Monkey,10,45,74.79
+Tomdroid,Monkey,10,50,74.51
+Tomdroid,Monkey,10,55,77.76
+Tomdroid,Monkey,10,60,74.8
+Tomdroid,Dynodroid,1,0,0.0
+Tomdroid,Dynodroid,1,5,17.51
+Tomdroid,Dynodroid,1,10,30.08
+Tomdroid,Dynodroid,1,15,36.66
+Tomdroid,Dynodroid,1,20,43.86
+Tomdroid,Dynodroid,1,25,46.42
+Tomdroid,Dynodroid,1,30,44.71
+Tomdroid,Dynodroid,1,35,48.76
+Tomdroid,Dynodroid,1,40,49.77
+Tomdroid,Dynodroid,1,45,52.04
+Tomdroid,Dynodroid,1,50,47.86
+Tomdroid,Dynodroid,1,55,55.94
+Tomdroid,Dynodroid,1,60,53.12
+Tomdroid,Dynodroid,2,0,0.22
+Tomdroid,Dynodroid,2,5,20.65
+Tomdroid,Dynodroid,2,10,35.05
+Tomdroid,Dynodroid,2,15,41.33
+Tomdroid,Dynodroid,2,20,47.13
+Tomdroid,Dynodroid,2,25,49.72
+Tomdroid,Dynodroid,2,30,51.86
+Tomdroid,Dynodroid,2,35,53.07
+Tomdroid,Dynodroid,2,40,53.7
+Tomdroid,Dynodroid,2,45,54.67
+Tomdroid,Dynodroid,2,50,54.2
+Tomdroid,Dynodroid,2,55,56.45
+Tomdroid,Dynodroid,2,60,54.27
+Tomdroid,Dynodroid,3,0,0.29
+Tomdroid,Dynodroid,3,5,18.35
+Tomdroid,Dynodroid,3,10,30.96
+Tomdroid,Dynodroid,3,15,38.22
+Tomdroid,Dynodroid,3,20,49.17
+Tomdroid,Dynodroid,3,25,50.31
+Tomdroid,Dynodroid,3,30,48.89
+Tomdroid,Dynodroid,3,35,52.77
+Tomdroid,Dynodroid,3,40,52.63
+Tomdroid,Dynodroid,3,45,52.77
+Tomdroid,Dynodroid,3,50,52.79
+Tomdroid,Dynodroid,3,55,55.78
+Tomdroid,Dynodroid,3,60,54.34
+Tomdroid,Dynodroid,4,0,1.45
+Tomdroid,Dynodroid,4,5,19.1
+Tomdroid,Dynodroid,4,10,31.47
+Tomdroid,Dynodroid,4,15,36.04
+Tomdroid,Dynodroid,4,20,43.33
+Tomdroid,Dynodroid,4,25,47.12
+Tomdroid,Dynodroid,4,30,47.84
+Tomdroid,Dynodroid,4,35,49.0
+Tomdroid,Dynodroid,4,40,53.64
+Tomdroid,Dynodroid,4,45,52.28
+Tomdroid,Dynodroid,4,50,53.38
+Tomdroid,Dynodroid,4,55,51.51
+Tomdroid,Dynodroid,4,60,51.13
+Tomdroid,Dynodroid,5,0,0.0
+Tomdroid,Dynodroid,5,5,14.87
+Tomdroid,Dynodroid,5,10,23.56
+Tomdroid,Dynodroid,5,15,31.91
+Tomdroid,Dynodroid,5,20,33.92
+Tomdroid,Dynodroid,5,25,37.82
+Tomdroid,Dynodroid,5,30,42.54
+Tomdroid,Dynodroid,5,35,43.81
+Tomdroid,Dynodroid,5,40,43.23
+Tomdroid,Dynodroid,5,45,42.91
+Tomdroid,Dynodroid,5,50,43.3
+Tomdroid,Dynodroid,5,55,44.56
+Tomdroid,Dynodroid,5,60,46.27
+Tomdroid,Dynodroid,6,0,1.39
+Tomdroid,Dynodroid,6,5,17.14
+Tomdroid,Dynodroid,6,10,28.15
+Tomdroid,Dynodroid,6,15,38.32
+Tomdroid,Dynodroid,6,20,42.07
+Tomdroid,Dynodroid,6,25,46.14
+Tomdroid,Dynodroid,6,30,51.33
+Tomdroid,Dynodroid,6,35,52.2
+Tomdroid,Dynodroid,6,40,52.29
+Tomdroid,Dynodroid,6,45,50.87
+Tomdroid,Dynodroid,6,50,53.58
+Tomdroid,Dynodroid,6,55,55.19
+Tomdroid,Dynodroid,6,60,53.25
+Tomdroid,Dynodroid,7,0,2.03
+Tomdroid,Dynodroid,7,5,15.8
+Tomdroid,Dynodroid,7,10,25.64
+Tomdroid,Dynodroid,7,15,29.83
+Tomdroid,Dynodroid,7,20,34.43
+Tomdroid,Dynodroid,7,25,38.46
+Tomdroid,Dynodroid,7,30,38.89
+Tomdroid,Dynodroid,7,35,38.72
+Tomdroid,Dynodroid,7,40,39.64
+Tomdroid,Dynodroid,7,45,41.24
+Tomdroid,Dynodroid,7,50,39.32
+Tomdroid,Dynodroid,7,55,41.3
+Tomdroid,Dynodroid,7,60,43.33
+Tomdroid,Dynodroid,8,0,0.0
+Tomdroid,Dynodroid,8,5,17.57
+Tomdroid,Dynodroid,8,10,27.19
+Tomdroid,Dynodroid,8,15,31.67
+Tomdroid,Dynodroid,8,20,37.78
+Tomdroid,Dynodroid,8,25,40.05
+Tomdroid,Dynodroid,8,30,43.95
+Tomdroid,Dynodroid,8,35,44.97
+Tomdroid,Dynodroid,8,40,42.32
+Tomdroid,Dynodroid,8,45,45.93
+Tomdroid,Dynodroid,8,50,45.15
+Tomdroid,Dynodroid,8,55,45.87
+Tomdroid,Dynodroid,8,60,44.84
+Tomdroid,Dynodroid,9,0,2.62
+Tomdroid,Dynodroid,9,5,16.17
+Tomdroid,Dynodroid,9,10,23.3
+Tomdroid,Dynodroid,9,15,28.97
+Tomdroid,Dynodroid,9,20,34.79
+Tomdroid,Dynodroid,9,25,38.97
+Tomdroid,Dynodroid,9,30,40.66
+Tomdroid,Dynodroid,9,35,43.5
+Tomdroid,Dynodroid,9,40,43.7
+Tomdroid,Dynodroid,9,45,44.56
+Tomdroid,Dynodroid,9,50,44.0
+Tomdroid,Dynodroid,9,55,41.69
+Tomdroid,Dynodroid,9,60,43.66
+Tomdroid,Dynodroid,10,0,1.59
+Tomdroid,Dynodroid,10,5,16.03
+Tomdroid,Dynodroid,10,10,27.65
+Tomdroid,Dynodroid,10,15,33.66
+Tomdroid,Dynodroid,10,20,37.44
+Tomdroid,Dynodroid,10,25,42.05
+Tomdroid,Dynodroid,10,30,44.88
+Tomdroid,Dynodroid,10,35,44.9
+Tomdroid,Dynodroid,10,40,46.51
+Tomdroid,Dynodroid,10,45,46.11
+Tomdroid,Dynodroid,10,50,49.63
+Tomdroid,Dynodroid,10,55,47.81
+Tomdroid,Dynodroid,10,60,50.63
+Tomdroid,Ad-hoc,1,0,2.29
+Tomdroid,Ad-hoc,1,5,15.0
+Tomdroid,Ad-hoc,1,10,25.38
+Tomdroid,Ad-hoc,1,15,32.93
+Tomdroid,Ad-hoc,1,20,40.99
+Tomdroid,Ad-hoc,1,25,46.7
+Tomdroid,Ad-hoc,1,30,55.16
+Tomdroid,Ad-hoc,1,35,56.64
+Tomdroid,Ad-hoc,1,40,59.68
+Tomdroid,Ad-hoc,1,45,57.81
+Tomdroid,Ad-hoc,1,50,60.93
+Tomdroid,Ad-hoc,1,55,65.3
+Tomdroid,Ad-hoc,1,60,65.37
+Tomdroid,Ad-hoc,2,0,0.0
+Tomdroid,Ad-hoc,2,5,9.59
+Tomdroid,Ad-hoc,2,10,18.01
+Tomdroid,Ad-hoc,2,15,20.53
+Tomdroid,Ad-hoc,2,20,25.1
+Tomdroid,Ad-hoc,2,25,28.5
+Tomdroid,Ad-hoc,2,30,34.31
+Tomdroid,Ad-hoc,2,35,29.52
+Tomdroid,Ad-hoc,2,40,35.21
+Tomdroid,Ad-hoc,2,45,35.2
+Tomdroid,Ad-hoc,2,50,37.14
+Tomdroid,Ad-hoc,2,55,36.03
+Tomdroid,Ad-hoc,2,60,37.5
+Tomdroid,Ad-hoc,3,0,1.07
+Tomdroid,Ad-hoc,3,5,17.3
+Tomdroid,Ad-hoc,3,10,23.69
+Tomdroid,Ad-hoc,3,15,28.87
+Tomdroid,Ad-hoc,3,20,35.47
+Tomdroid,Ad-hoc,3,25,40.07
+Tomdroid,Ad-hoc,3,30,41.68
+Tomdroid,Ad-hoc,3,35,46.7
+Tomdroid,Ad-hoc,3,40,50.49
+Tomdroid,Ad-hoc,3,45,49.19
+Tomdroid,Ad-hoc,3,50,54.0
+Tomdroid,Ad-hoc,3,55,54.2
+Tomdroid,Ad-hoc,3,60,53.17
+Tomdroid,Ad-hoc,4,0,0.0
+Tomdroid,Ad-hoc,4,5,11.53
+Tomdroid,Ad-hoc,4,10,17.35
+Tomdroid,Ad-hoc,4,15,21.8
+Tomdroid,Ad-hoc,4,20,25.75
+Tomdroid,Ad-hoc,4,25,29.58
+Tomdroid,Ad-hoc,4,30,31.32
+Tomdroid,Ad-hoc,4,35,30.97
+Tomdroid,Ad-hoc,4,40,38.77
+Tomdroid,Ad-hoc,4,45,37.18
+Tomdroid,Ad-hoc,4,50,38.51
+Tomdroid,Ad-hoc,4,55,38.57
+Tomdroid,Ad-hoc,4,60,38.14
+Tomdroid,Ad-hoc,5,0,0.0
+Tomdroid,Ad-hoc,5,5,8.47
+Tomdroid,Ad-hoc,5,10,22.75
+Tomdroid,Ad-hoc,5,15,24.08
+Tomdroid,Ad-hoc,5,20,29.52
+Tomdroid,Ad-hoc,5,25,34.41
+Tomdroid,Ad-hoc,5,30,40.12
+Tomdroid,Ad-hoc,5,35,40.63
+Tomdroid,Ad-hoc,5,40,40.64
+Tomdroid,Ad-hoc,5,45,45.85
+Tomdroid,Ad-hoc,5,50,46.21
+Tomdroid,Ad-hoc,5,55,46.82
+Tomdroid,Ad-hoc,5,60,47.78
+Tomdroid,Ad-hoc,6,0,3.59
+Tomdroid,Ad-hoc,6,5,16.53
+Tomdroid,Ad-hoc,6,10,22.54
+Tomdroid,Ad-hoc,6,15,34.04
+Tomdroid,Ad-hoc,6,20,38.44
+Tomdroid,Ad-hoc,6,25,43.49
+Tomdroid,Ad-hoc,6,30,44.0
+Tomdroid,Ad-hoc,6,35,49.24
+Tomdroid,Ad-hoc,6,40,50.57
+Tomdroid,Ad-hoc,6,45,54.83
+Tomdroid,Ad-hoc,6,50,56.59
+Tomdroid,Ad-hoc,6,55,52.96
+Tomdroid,Ad-hoc,6,60,56.88
+Tomdroid,Ad-hoc,7,0,1.68
+Tomdroid,Ad-hoc,7,5,11.41
+Tomdroid,Ad-hoc,7,10,21.88
+Tomdroid,Ad-hoc,7,15,28.41
+Tomdroid,Ad-hoc,7,20,33.91
+Tomdroid,Ad-hoc,7,25,37.29
+Tomdroid,Ad-hoc,7,30,39.22
+Tomdroid,Ad-hoc,7,35,41.98
+Tomdroid,Ad-hoc,7,40,46.75
+Tomdroid,Ad-hoc,7,45,47.3
+Tomdroid,Ad-hoc,7,50,48.29
+Tomdroid,Ad-hoc,7,55,48.83
+Tomdroid,Ad-hoc,7,60,49.75
+Tomdroid,Ad-hoc,8,0,1.57
+Tomdroid,Ad-hoc,8,5,9.45
+Tomdroid,Ad-hoc,8,10,15.69
+Tomdroid,Ad-hoc,8,15,24.85
+Tomdroid,Ad-hoc,8,20,28.13
+Tomdroid,Ad-hoc,8,25,32.14
+Tomdroid,Ad-hoc,8,30,37.35
+Tomdroid,Ad-hoc,8,35,37.13
+Tomdroid,Ad-hoc,8,40,39.33
+Tomdroid,Ad-hoc,8,45,38.47
+Tomdroid,Ad-hoc,8,50,40.96
+Tomdroid,Ad-hoc,8,55,43.02
+Tomdroid,Ad-hoc,8,60,40.41
+Tomdroid,Ad-hoc,9,0,0.3
+Tomdroid,Ad-hoc,9,5,10.65
+Tomdroid,Ad-hoc,9,10,18.74
+Tomdroid,Ad-hoc,9,15,26.61
+Tomdroid,Ad-hoc,9,20,30.51
+Tomdroid,Ad-hoc,9,25,36.09
+Tomdroid,Ad-hoc,9,30,35.4
+Tomdroid,Ad-hoc,9,35,39.43
+Tomdroid,Ad-hoc,9,40,41.18
+Tomdroid,Ad-hoc,9,45,40.87
+Tomdroid,Ad-hoc,9,50,45.02
+Tomdroid,Ad-hoc,9,55,47.93
+Tomdroid,Ad-hoc,9,60,45.09
+Tomdroid,Ad-hoc,10,0,0.76
+Tomdroid,Ad-hoc,10,5,12.75
+Tomdroid,Ad-hoc,10,10,21.39
+Tomdroid,Ad-hoc,10,15,27.39
+Tomdroid,Ad-hoc,10,20,35.02
+Tomdroid,Ad-hoc,10,25,38.64
+Tomdroid,Ad-hoc,10,30,46.9
+Tomdroid,Ad-hoc,10,35,46.99
+Tomdroid,Ad-hoc,10,40,48.84
+Tomdroid,Ad-hoc,10,45,52.4
+Tomdroid,Ad-hoc,10,50,50.71
+Tomdroid,Ad-hoc,10,55,52.28
+Tomdroid,Ad-hoc,10,60,54.34
+Tomdroid,SMATA,1,0,1.54
+Tomdroid,SMATA,1,5,17.56
+Tomdroid,SMATA,1,10,29.63
+Tomdroid,SMATA,1,15,38.6
+Tomdroid,SMATA,1,20,45.92
+Tomdroid,SMATA,1,25,50.68
+Tomdroid,SMATA,1,30,52.59
+Tomdroid,SMATA,1,35,56.98
+Tomdroid,SMATA,1,40,57.36
+Tomdroid,SMATA,1,45,60.61
+Tomdroid,SMATA,1,50,60.9
+Tomdroid,SMATA,1,55,66.27
+Tomdroid,SMATA,1,60,63.02
+Tomdroid,SMATA,2,0,0.0
+Tomdroid,SMATA,2,5,17.9
+Tomdroid,SMATA,2,10,32.29
+Tomdroid,SMATA,2,15,43.96
+Tomdroid,SMATA,2,20,47.92
+Tomdroid,SMATA,2,25,51.88
+Tomdroid,SMATA,2,30,59.52
+Tomdroid,SMATA,2,35,59.22
+Tomdroid,SMATA,2,40,62.85
+Tomdroid,SMATA,2,45,64.76
+Tomdroid,SMATA,2,50,66.26
+Tomdroid,SMATA,2,55,68.3
+Tomdroid,SMATA,2,60,66.91
+Tomdroid,SMATA,3,0,0.0
+Tomdroid,SMATA,3,5,17.85
+Tomdroid,SMATA,3,10,31.33
+Tomdroid,SMATA,3,15,41.06
+Tomdroid,SMATA,3,20,48.83
+Tomdroid,SMATA,3,25,54.82
+Tomdroid,SMATA,3,30,58.13
+Tomdroid,SMATA,3,35,61.18
+Tomdroid,SMATA,3,40,60.31
+Tomdroid,SMATA,3,45,64.38
+Tomdroid,SMATA,3,50,66.23
+Tomdroid,SMATA,3,55,67.49
+Tomdroid,SMATA,3,60,66.02
+Tomdroid,SMATA,4,0,0.0
+Tomdroid,SMATA,4,5,16.06
+Tomdroid,SMATA,4,10,30.25
+Tomdroid,SMATA,4,15,40.28
+Tomdroid,SMATA,4,20,45.0
+Tomdroid,SMATA,4,25,52.07
+Tomdroid,SMATA,4,30,54.67
+Tomdroid,SMATA,4,35,57.09
+Tomdroid,SMATA,4,40,59.03
+Tomdroid,SMATA,4,45,62.0
+Tomdroid,SMATA,4,50,62.51
+Tomdroid,SMATA,4,55,66.28
+Tomdroid,SMATA,4,60,62.21
+Tomdroid,SMATA,5,0,0.78
+Tomdroid,SMATA,5,5,19.94
+Tomdroid,SMATA,5,10,34.79
+Tomdroid,SMATA,5,15,47.46
+Tomdroid,SMATA,5,20,56.11
+Tomdroid,SMATA,5,25,66.53
+Tomdroid,SMATA,5,30,66.5
+Tomdroid,SMATA,5,35,68.51
+Tomdroid,SMATA,5,40,73.15
+Tomdroid,SMATA,5,45,71.51
+Tomdroid,SMATA,5,50,75.88
+Tomdroid,SMATA,5,55,77.07
+Tomdroid,SMATA,5,60,79.01
+Tomdroid,SMATA,6,0,1.46
+Tomdroid,SMATA,6,5,17.92
+Tomdroid,SMATA,6,10,32.28
+Tomdroid,SMATA,6,15,41.6
+Tomdroid,SMATA,6,20,48.65
+Tomdroid,SMATA,6,25,56.43
+Tomdroid,SMATA,6,30,58.22
+Tomdroid,SMATA,6,35,62.6
+Tomdroid,SMATA,6,40,64.01
+Tomdroid,SMATA,6,45,68.02
+Tomdroid,SMATA,6,50,71.16
+Tomdroid,SMATA,6,55,67.43
+Tomdroid,SMATA,6,60,67.29
+Tomdroid,SMATA,7,0,0.0
+Tomdroid,SMATA,7,5,15.06
+Tomdroid,SMATA,7,10,26.51
+Tomdroid,SMATA,7,15,33.77
+Tomdroid,SMATA,7,20,40.25
+Tomdroid,SMATA,7,25,45.63
+Tomdroid,SMATA,7,30,50.0
+Tomdroid,SMATA,7,35,47.99
+Tomdroid,SMATA,7,40,52.21
+Tomdroid,SMATA,7,45,54.45
+Tomdroid,SMATA,7,50,53.76
+Tomdroid,SMATA,7,55,58.49
+Tomdroid,SMATA,7,60,55.49
+Tomdroid,SMATA,8,0,0.0
+Tomdroid,SMATA,8,5,18.89
+Tomdroid,SMATA,8,10,30.55
+Tomdroid,SMATA,8,15,38.58
+Tomdroid,SMATA,8,20,48.05
+Tomdroid,SMATA,8,25,55.68
+Tomdroid,SMATA,8,30,57.66
+Tomdroid,SMATA,8,35,59.88
+Tomdroid,SMATA,8,40,64.75
+Tomdroid,SMATA,8,45,64.5
+Tomdroid,SMATA,8,50,65.45
+Tomdroid,SMATA,8,55,67.33
+Tomdroid,SMATA,8,60,68.93
+Tomdroid,SMATA,9,0,3.57
+Tomdroid,SMATA,9,5,18.14
+Tomdroid,SMATA,9,10,31.16
+Tomdroid,SMATA,9,15,37.94
+Tomdroid,SMATA,9,20,44.03
+Tomdroid,SMATA,9,25,50.75
+Tomdroid,SMATA,9,30,54.59
+Tomdroid,SMATA,9,35,55.61
+Tomdroid,SMATA,9,40,59.03
+Tomdroid,SMATA,9,45,61.43
+Tomdroid,SMATA,9,50,62.5
+Tomdroid,SMATA,9,55,63.56
+Tomdroid,SMATA,9,60,63.86
+Tomdroid,SMATA,10,0,0.0
+Tomdroid,SMATA,10,5,18.2
+Tomdroid,SMATA,10,10,31.22
+Tomdroid,SMATA,10,15,46.11
+Tomdroid,SMATA,10,20,51.17
+Tomdroid,SMATA,10,25,56.52
+Tomdroid,SMATA,10,30,59.7
+Tomdroid,SMATA,10,35,68.63
+Tomdroid,SMATA,10,40,64.94
+Tomdroid,SMATA,10,45,67.63
+Tomdroid,SMATA,10,50,70.17
+Tomdroid,SMATA,10,55,71.39
+Tomdroid,SMATA,10,60,72.63
+OI Notepad,Monkey,1,0,2.71
+OI Notepad,Monkey,1,5,15.91
+OI Notepad,Monkey,1,10,21.89
+OI Notepad,Monkey,1,15,27.65
+OI Notepad,Monkey,1,20,31.0
+OI Notepad,Monkey,1,25,35.02
+OI Notepad,Monkey,1,30,30.58
+OI Notepad,Monkey,1,35,34.89
+OI Notepad,Monkey,1,40,33.58
+OI Notepad,Monkey,1,45,34.7
+OI Notepad,Monkey,1,50,33.35
+OI Notepad,Monkey,1,55,32.28
+OI Notepad,Monkey,1,60,34.69
+OI Notepad,Monkey,2,0,0.98
+OI Notepad,Monkey,2,5,19.4
+OI Notepad,Monkey,2,10,27.76
+OI Notepad,Monkey,2,15,32.29
+OI Notepad,Monkey,2,20,33.81
+OI Notepad,Monkey,2,25,39.01
+OI Notepad,Monkey,2,30,39.31
+OI Notepad,Monkey,2,35,37.72
+OI Notepad,Monkey,2,40,38.62
+OI Notepad,Monkey,2,45,38.88
+OI Notepad,Monkey,2,50,37.44
+OI Notepad,Monkey,2,55,38.48
+OI Notepad,Monkey,2,60,38.03
+OI Notepad,Monkey,3,0,0.0
+OI Notepad,Monkey,3,5,19.37
+OI Notepad,Monkey,3,10,29.28
+OI Notepad,Monkey,3,15,40.92
+OI Notepad,Monkey,3,20,43.15
+OI Notepad,Monkey,3,25,41.96
+OI Notepad,Monkey,3,30,44.56
+OI Notepad,Monkey,3,35,45.34
+OI Notepad,Monkey,3,40,46.8
+OI Notepad,Monkey,3,45,43.96
+OI Notepad,Monkey,3,50,46.92
+OI Notepad,Monkey,3,55,44.51
+OI Notepad,Monkey,3,60,43.35
+OI Notepad,Monkey,4,0,1.09
+OI Notepad,Monkey,4,5,23.9
+OI Notepad,Monkey,4,10,37.89
+OI Notepad,Monkey,4,15,38.83
+OI Notepad,Monkey,4,20,45.3
+OI Notepad,Monkey,4,25,45.63
+OI Notepad,Monkey,4,30,48.52
+OI Notepad,Monkey,4,35,45.73
+OI Notepad,Monkey,4,40,46.38
+OI Notepad,Monkey,4,45,47.29
+OI Notepad,Monkey,4,50,48.67
+OI Notepad,Monkey,4,55,47.64
+OI Notepad,Monkey,4,60,49.62
+OI Notepad,Monkey,5,0,1.54
+OI Notepad,Monkey,5,5,14.38
+OI Notepad,Monkey,5,10,23.31
+OI Notepad,Monkey,5,15,25.56
+OI Notepad,Monkey,5,20,25.34
+OI Notepad,Monkey,5,25,30.44
+OI Notepad,Monkey,5,30,28.16
+OI Notepad,Monkey,5,35,30.8
+OI Notepad,Monkey,5,40,31.99
+OI Notepad,Monkey,5,45,30.43
+OI Notepad,Monkey,5,50,27.56
+OI Notepad,Monkey,5,55,28.46
+OI Notepad,Monkey,5,60,31.84
+OI Notepad,Monkey,6,0,0.0
+OI Notepad,Monkey,6,5,17.16
+OI Notepad,Monkey,6,10,27.53
+OI Notepad,Monkey,6,15,32.56
+OI Notepad,Monkey,6,20,34.75
+OI Notepad,Monkey,6,25,35.57
+OI Notepad,Monkey,6,30,36.26
+OI Notepad,Monkey,6,35,38.48
+OI Notepad,Monkey,6,40,38.28
+OI Notepad,Monkey,6,45,37.2
+OI Notepad,Monkey,6,50,39.29
+OI Notepad,Monkey,6,55,37.52
+OI Notepad,Monkey,6,60,36.45
+OI Notepad,Monkey,7,0,0.0
+OI Notepad,Monkey,7,5,14.99
+OI Notepad,Monkey,7,10,25.08
+OI Notepad,Monkey,7,15,32.3
+OI Notepad,Monkey,7,20,31.96
+OI Notepad,Monkey,7,25,34.95
+OI Notepad,Monkey,7,30,34.5
+OI Notepad,Monkey,7,35,35.54
+OI Notepad,Monkey,7,40,33.91
+OI Notepad,Monkey,7,45,35.98
+OI Notepad,Monkey,7,50,36.1
+OI Notepad,Monkey,7,55,37.24
+OI Notepad,Monkey,7,60,36.79
+OI Notepad,Monkey,8,0,0.0
+OI Notepad,Monkey,8,5,17.35
+OI Notepad,Monkey,8,10,24.68
+OI Notepad,Monkey,8,15,29.4
+OI Notepad,Monkey,8,20,31.68
+OI Notepad,Monkey,8,25,32.35
+OI Notepad,Monkey,8,30,34.23
+OI Notepad,Monkey,8,35,35.05
+OI Notepad,Monkey,8,40,31.95
+OI Notepad,Monkey,8,45,33.89
+OI Notepad,Monkey,8,50,34.39
+OI Notepad,Monkey,8,55,35.2
+OI Notepad,Monkey,8,60,36.62
+OI Notepad,Monkey,9,0,0.0
+OI Notepad,Monkey,9,5,24.91
+OI Notepad,Monkey,9,10,38.97
+OI Notepad,Monkey,9,15,46.26
+OI Notepad,Monkey,9,20,51.18
+OI Notepad,Monkey,9,25,55.19
+OI Notepad,Monkey,9,30,53.73
+OI Notepad,Monkey,9,35,56.65
+OI Notepad,Monkey,9,40,53.84
+OI Notepad,Monkey,9,45,55.76
+OI Notepad,Monkey,9,50,56.22
+OI Notepad,Monkey,9,55,59.29
+OI Notepad,Monkey,9,60,56.41
+OI Notepad,Monkey,10,0,0.0
+OI Notepad,Monkey,10,5,17.07
+OI Notepad,Monkey,10,10,31.13
+OI Notepad,Monkey,10,15,38.05
+OI Notepad,Monkey,10,20,41.01
+OI Notepad,Monkey,10,25,42.52
+OI Notepad,Monkey,10,30,45.01
+OI Notepad,Monkey,10,35,43.0
+OI Notepad,Monkey,10,40,45.46
+OI Notepad,Monkey,10,45,41.83
+OI Notepad,Monkey,10,50,43.01
+OI Notepad,Monkey,10,55,41.71
+OI Notepad,Monkey,10,60,44.03
+OI Notepad,Dynodroid,1,0,0.0
+OI Notepad,Dynodroid,1,5,12.74
+OI Notepad,Dynodroid,1,10,21.09
+OI Notepad,Dynodroid,1,15,25.25
+OI Notepad,Dynodroid,1,20,30.15
+OI Notepad,Dynodroid,1,25,30.72
+OI Notepad,Dynodroid,1,30,36.72
+OI Notepad,Dynodroid,1,35,35.36
+OI Notepad,Dynodroid,1,40,35.84
+OI Notepad,Dynodroid,1,45,39.47
+OI Notepad,Dynodroid,1,50,35.57
+OI Notepad,Dynodroid,1,55,35.97
+OI Notepad,Dynodroid,1,60,36.17
+OI Notepad,Dynodroid,2,0,0.0
+OI Notepad,Dynodroid,2,5,18.95
+OI Notepad,Dynodroid,2,10,31.69
+OI Notepad,Dynodroid,2,15,42.66
+OI Notepad,Dynodroid,2,20,40.94
+OI Notepad,Dynodroid,2,25,48.93
+OI Notepad,Dynodroid,2,30,49.66
+OI Notepad,Dynodroid,2,35,51.27
+OI Notepad,Dynodroid,2,40,52.34
+OI Notepad,Dynodroid,2,45,52.65
+OI Notepad,Dynodroid,2,50,57.04
+OI Notepad,Dynodroid,2,55,56.11
+OI Notepad,Dynodroid,2,60,55.11
+OI Notepad,Dynodroid,3,0,2.03
+OI Notepad,Dynodroid,3,5,19.21
+OI Notepad,Dynodroid,3,10,33.89
+OI Notepad,Dynodroid,3,15,42.27
+OI Notepad,Dynodroid,3,20,50.96
+OI Notepad,Dynodroid,3,25,56.58
+OI Notepad,Dynodroid,3,30,59.4
+OI Notepad,Dynodroid,3,35,61.42
+OI Notepad,Dynodroid,3,40,60.39
+OI Notepad,Dynodroid,3,45,64.58
+OI Notepad,Dynodroid,3,50,64.33
+OI Notepad,Dynodroid,3,55,65.46
+OI Notepad,Dynodroid,3,60,61.78
+OI Notepad,Dynodroid,4,0,0.47
+OI Notepad,Dynodroid,4,5,16.83
+OI Notepad,Dynodroid,4,10,30.49
+OI Notepad,Dynodroid,4,15,40.25
+OI Notepad,Dynodroid,4,20,45.19
+OI Notepad,Dynodroid,4,25,47.53
+OI Notepad,Dynodroid,4,30,51.34
+OI Notepad,Dynodroid,4,35,50.72
+OI Notepad,Dynodroid,4,40,55.87
+OI Notepad,Dynodroid,4,45,54.6
+OI Notepad,Dynodroid,4,50,57.09
+OI Notepad,Dynodroid,4,55,54.97
+OI Notepad,Dynodroid,4,60,55.2
+OI Notepad,Dynodroid,5,0,0.0
+OI Notepad,Dynodroid,5,5,13.2
+OI Notepad,Dynodroid,5,10,18.79
+OI Notepad,Dynodroid,5,15,26.17
+OI Notepad,Dynodroid,5,20,28.21
+OI Notepad,Dynodroid,5,25,28.22
+OI Notepad,Dynodroid,5,30,31.93
+OI Notepad,Dynodroid,5,35,32.1
+OI Notepad,Dynodroid,5,40,34.64
+OI Notepad,Dynodroid,5,45,33.29
+OI Notepad,Dynodroid,5,50,36.79
+OI Notepad,Dynodroid,5,55,35.48
+OI Notepad,Dynodroid,5,60,35.5
+OI Notepad,Dynodroid,6,0,0.98
+OI Notepad,Dynodroid,6,5,16.06
+OI Notepad,Dynodroid,6,10,24.38
+OI Notepad,Dynodroid,6,15,29.82
+OI Notepad,Dynodroid,6,20,32.72
+OI Notepad,Dynodroid,6,25,37.3
+OI Notepad,Dynodroid,6,30,39.38
+OI Notepad,Dynodroid,6,35,41.79
+OI Notepad,Dynodroid,6,40,42.01
+OI Notepad,Dynodroid,6,45,44.15
+OI Notepad,Dynodroid,6,50,42.6
+OI Notepad,Dynodroid,6,55,43.7
+OI Notepad,Dynodroid,6,60,45.74
+OI Notepad,Dynodroid,7,0,0.51
+OI Notepad,Dynodroid,7,5,19.14
+OI Notepad,Dynodroid,7,10,31.21
+OI Notepad,Dynodroid,7,15,39.8
+OI Notepad,Dynodroid,7,20,45.27
+OI Notepad,Dynodroid,7,25,49.62
+OI Notepad,Dynodroid,7,30,54.16
+OI Notepad,Dynodroid,7,35,54.44
+OI Notepad,Dynodroid,7,40,53.92
+OI Notepad,Dynodroid,7,45,59.38
+OI Notepad,Dynodroid,7,50,57.73
+OI Notepad,Dynodroid,7,55,55.49
+OI Notepad,Dynodroid,7,60,57.18
+OI Notepad,Dynodroid,8,0,0.17
+OI Notepad,Dynodroid,8,5,16.58
+OI Notepad,Dynodroid,8,10,21.77
+OI Notepad,Dynodroid,8,15,31.2
+OI Notepad,Dynodroid,8,20,36.06
+OI Notepad,Dynodroid,8,25,35.85
+OI Notepad,Dynodroid,8,30,38.27
+OI Notepad,Dynodroid,8,35,38.41
+OI Notepad,Dynodroid,8,40,40.51
+OI Notepad,Dynodroid,8,45,41.33
+OI Notepad,Dynodroid,8,50,42.76
+OI Notepad,Dynodroid,8,55,43.66
+OI Notepad,Dynodroid,8,60,41.08
+OI Notepad,Dynodroid,9,0,0.0
+OI Notepad,Dynodroid,9,5,17.03
+OI Notepad,Dynodroid,9,10,28.94
+OI Notepad,Dynodroid,9,15,36.54
+OI Notepad,Dynodroid,9,20,40.81
+OI Notepad,Dynodroid,9,25,44.93
+OI Notepad,Dynodroid,9,30,49.33
+OI Notepad,Dynodroid,9,35,49.18
+OI Notepad,Dynodroid,9,40,49.08
+OI Notepad,Dynodroid,9,45,49.59
+OI Notepad,Dynodroid,9,50,50.55
+OI Notepad,Dynodroid,9,55,53.57
+OI Notepad,Dynodroid,9,60,51.05
+OI Notepad,Dynodroid,10,0,0.0
+OI Notepad,Dynodroid,10,5,17.21
+OI Notepad,Dynodroid,10,10,31.6
+OI Notepad,Dynodroid,10,15,40.95
+OI Notepad,Dynodroid,10,20,44.08
+OI Notepad,Dynodroid,10,25,47.15
+OI Notepad,Dynodroid,10,30,49.51
+OI Notepad,Dynodroid,10,35,47.51
+OI Notepad,Dynodroid,10,40,53.29
+OI Notepad,Dynodroid,10,45,53.11
+OI Notepad,Dynodroid,10,50,54.04
+OI Notepad,Dynodroid,10,55,52.66
+OI Notepad,Dynodroid,10,60,53.37
+OI Notepad,Ad-hoc,1,0,0.0
+OI Notepad,Ad-hoc,1,5,11.71
+OI Notepad,Ad-hoc,1,10,17.54
+OI Notepad,Ad-hoc,1,15,27.41
+OI Notepad,Ad-hoc,1,20,29.74
+OI Notepad,Ad-hoc,1,25,30.92
+OI Notepad,Ad-hoc,1,30,35.56
+OI Notepad,Ad-hoc,1,35,37.05
+OI Notepad,Ad-hoc,1,40,36.5
+OI Notepad,Ad-hoc,1,45,43.57
+OI Notepad,Ad-hoc,1,50,43.3
+OI Notepad,Ad-hoc,1,55,43.88
+OI Notepad,Ad-hoc,1,60,43.98
+OI Notepad,Ad-hoc,2,0,0.0
+OI Notepad,Ad-hoc,2,5,10.77
+OI Notepad,Ad-hoc,2,10,21.72
+OI Notepad,Ad-hoc,2,15,25.85
+OI Notepad,Ad-hoc,2,20,29.07
+OI Notepad,Ad-hoc,2,25,36.75
+OI Notepad,Ad-hoc,2,30,40.18
+OI Notepad,Ad-hoc,2,35,43.16
+OI Notepad,Ad-hoc,2,40,46.05
+OI Notepad,Ad-hoc,2,45,47.47
+OI Notepad,Ad-hoc,2,50,48.11
+OI Notepad,Ad-hoc,2,55,50.46
+OI Notepad,Ad-hoc,2,60,47.12
+OI Notepad,Ad-hoc,3,0,0.76
+OI Notepad,Ad-hoc,3,5,7.59
+OI Notepad,Ad-hoc,3,10,9.98
+OI Notepad,Ad-hoc,3,15,13.62
+OI Notepad,Ad-hoc,3,20,17.9
+OI Notepad,Ad-hoc,3,25,20.47
+OI Notepad,Ad-hoc,3,30,24.5
+OI Notepad,Ad-hoc,3,35,23.93
+OI Notepad,Ad-hoc,3,40,24.72
+OI Notepad,Ad-hoc,3,45,25.99
+OI Notepad,Ad-hoc,3,50,29.29
+OI Notepad,Ad-hoc,3,55,28.18
+OI Notepad,Ad-hoc,3,60,28.31
+OI Notepad,Ad-hoc,4,0,0.0
+OI Notepad,Ad-hoc,4,5,11.97
+OI Notepad,Ad-hoc,4,10,16.72
+OI Notepad,Ad-hoc,4,15,25.9
+OI Notepad,Ad-hoc,4,20,28.98
+OI Notepad,Ad-hoc,4,25,32.12
+OI Notepad,Ad-hoc,4,30,38.98
+OI Notepad,Ad-hoc,4,35,35.89
+OI Notepad,Ad-hoc,4,40,38.68
+OI Notepad,Ad-hoc,4,45,38.72
+OI Notepad,Ad-hoc,4,50,43.06
+OI Notepad,Ad-hoc,4,55,44.98
+OI Notepad,Ad-hoc,4,60,45.6
+OI Notepad,Ad-hoc,5,0,1.84
+OI Notepad,Ad-hoc,5,5,10.91
+OI Notepad,Ad-hoc,5,10,19.39
+OI Notepad,Ad-hoc,5,15,24.22
+OI Notepad,Ad-hoc,5,20,35.08
+OI Notepad,Ad-hoc,5,25,36.85
+OI Notepad,Ad-hoc,5,30,38.62
+OI Notepad,Ad-hoc,5,35,43.85
+OI Notepad,Ad-hoc,5,40,42.34
+OI Notepad,Ad-hoc,5,45,45.93
+OI Notepad,Ad-hoc,5,50,46.24
+OI Notepad,Ad-hoc,5,55,48.38
+OI Notepad,Ad-hoc,5,60,48.04
+OI Notepad,Ad-hoc,6,0,0.0
+OI Notepad,Ad-hoc,6,5,9.8
+OI Notepad,Ad-hoc,6,10,18.81
+OI Notepad,Ad-hoc,6,15,23.07
+OI Notepad,Ad-hoc,6,20,28.86
+OI Notepad,Ad-hoc,6,25,29.69
+OI Notepad,Ad-hoc,6,30,34.0
+OI Notepad,Ad-hoc,6,35,35.26
+OI Notepad,Ad-hoc,6,40,39.0
+OI Notepad,Ad-hoc,6,45,39.24
+OI Notepad,Ad-hoc,6,50,41.25
+OI Notepad,Ad-hoc,6,55,42.64
+OI Notepad,Ad-hoc,6,60,42.67
+OI Notepad,Ad-hoc,7,0,0.41
+OI Notepad,Ad-hoc,7,5,12.58
+OI Notepad,Ad-hoc,7,10,25.04
+OI Notepad,Ad-hoc,7,15,32.78
+OI Notepad,Ad-hoc,7,20,39.71
+OI Notepad,Ad-hoc,7,25,44.85
+OI Notepad,Ad-hoc,7,30,47.97
+OI Notepad,Ad-hoc,7,35,49.65
+OI Notepad,Ad-hoc,7,40,54.03
+OI Notepad,Ad-hoc,7,45,57.22
+OI Notepad,Ad-hoc,7,50,56.39
+OI Notepad,Ad-hoc,7,55,59.6
+OI Notepad,Ad-hoc,7,60,63.32
+OI Notepad,Ad-hoc,8,0,1.53
+OI Notepad,Ad-hoc,8,5,11.88
+OI Notepad,Ad-hoc,8,10,17.33
+OI Notepad,Ad-hoc,8,15,24.2
+OI Notepad,Ad-hoc,8,20,25.81
+OI Notepad,Ad-hoc,8,25,29.39
+OI Notepad,Ad-hoc,8,30,28.95
+OI Notepad,Ad-hoc,8,35,36.94
+OI Notepad,Ad-hoc,8,40,39.1
+OI Notepad,Ad-hoc,8,45,37.24
+OI Notepad,Ad-hoc,8,50,38.68
+OI Notepad,Ad-hoc,8,55,38.7
+OI Notepad,Ad-hoc,8,60,41.01
+OI Notepad,Ad-hoc,9,0,1.69
+OI Notepad,Ad-hoc,9,5,8.31
+OI Notepad,Ad-hoc,9,10,20.04
+OI Notepad,Ad-hoc,9,15,25.63
+OI Notepad,Ad-hoc,9,20,31.38
+OI Notepad,Ad-hoc,9,25,35.91
+OI Notepad,Ad-hoc,9,30,38.07
+OI Notepad,Ad-hoc,9,35,40.64
+OI Notepad,Ad-hoc,9,40,42.37
+OI Notepad,Ad-hoc,9,45,45.62
+OI Notepad,Ad-hoc,9,50,45.95
+OI Notepad,Ad-hoc,9,55,46.54
+OI Notepad,Ad-hoc,9,60,45.01
+OI Notepad,Ad-hoc,10,0,0.0
+OI Notepad,Ad-hoc,10,5,13.14
+OI Notepad,Ad-hoc,10,10,21.03
+OI Notepad,Ad-hoc,10,15,29.11
+OI Notepad,Ad-hoc,10,20,36.34
+OI Notepad,Ad-hoc,10,25,39.59
+OI Notepad,Ad-hoc,10,30,41.55
+OI Notepad,Ad-hoc,10,35,43.27
+OI Notepad,Ad-hoc,10,40,42.26
+OI Notepad,Ad-hoc,10,45,47.43
+OI Notepad,Ad-hoc,10,50,48.44
+OI Notepad,Ad-hoc,10,55,50.48
+OI Notepad,Ad-hoc,10,60,50.42
+OI Notepad,SMATA,1,0,0.0
+OI Notepad,SMATA,1,5,17.11
+OI Notepad,SMATA,1,10,33.02
+OI Notepad,SMATA,1,15,45.99
+OI Notepad,SMATA,1,20,55.89
+OI Notepad,SMATA,1,25,59.13
+OI Notepad,SMATA,1,30,64.18
+OI Notepad,SMATA,1,35,68.39
+OI Notepad,SMATA,1,40,68.16
+OI Notepad,SMATA,1,45,71.72
+OI Notepad,SMATA,1,50,71.39
+OI Notepad,SMATA,1,55,74.78
+OI Notepad,SMATA,1,60,74.44
+OI Notepad,SMATA,2,0,0.45
+OI Notepad,SMATA,2,5,14.67
+OI Notepad,SMATA,2,10,28.64
+OI Notepad,SMATA,2,15,39.4
+OI Notepad,SMATA,2,20,41.21
+OI Notepad,SMATA,2,25,46.98
+OI Notepad,SMATA,2,30,51.37
+OI Notepad,SMATA,2,35,54.82
+OI Notepad,SMATA,2,40,54.75
+OI Notepad,SMATA,2,45,52.77
+OI Notepad,SMATA,2,50,60.13
+OI Notepad,SMATA,2,55,60.02
+OI Notepad,SMATA,2,60,56.85
+OI Notepad,SMATA,3,0,0.0
+OI Notepad,SMATA,3,5,21.75
+OI Notepad,SMATA,3,10,35.93
+OI Notepad,SMATA,3,15,45.81
+OI Notepad,SMATA,3,20,52.03
+OI Notepad,SMATA,3,25,58.26
+OI Notepad,SMATA,3,30,62.26
+OI Notepad,SMATA,3,35,67.36
+OI Notepad,SMATA,3,40,66.73
+OI Notepad,SMATA,3,45,68.59
+OI Notepad,SMATA,3,50,72.62
+OI Notepad,SMATA,3,55,72.0
+OI Notepad,SMATA,3,60,74.85
+OI Notepad,SMATA,4,0,0.0
+OI Notepad,SMATA,4,5,17.74
+OI Notepad,SMATA,4,10,29.64
+OI Notepad,SMATA,4,15,40.81
+OI Notepad,SMATA,4,20,45.83
+OI Notepad,SMATA,4,25,52.68
+OI Notepad,SMATA,4,30,55.23
+OI Notepad,SMATA,4,35,61.37
+OI Notepad,SMATA,4,40,63.59
+OI Notepad,SMATA,4,45,61.53
+OI Notepad,SMATA,4,50,67.33
+OI Notepad,SMATA,4,55,69.96
+OI Notepad,SMATA,4,60,66.94
+OI Notepad,SMATA,5,0,0.0
+OI Notepad,SMATA,5,5,20.7
+OI Notepad,SMATA,5,10,26.69
+OI Notepad,SMATA,5,15,37.73
+OI Notepad,SMATA,5,20,44.66
+OI Notepad,SMATA,5,25,51.37
+OI Notepad,SMATA,5,30,53.57
+OI Notepad,SMATA,5,35,55.0
+OI Notepad,SMATA,5,40,56.34
+OI Notepad,SMATA,5,45,58.75
+OI Notepad,SMATA,5,50,58.86
+OI Notepad,SMATA,5,55,61.26
+OI Notepad,SMATA,5,60,60.95
+OI Notepad,SMATA,6,0,0.0
+OI Notepad,SMATA,6,5,20.32
+OI Notepad,SMATA,6,10,31.35
+OI Notepad,SMATA,6,15,40.31
+OI Notepad,SMATA,6,20,49.46
+OI Notepad,SMATA,6,25,55.37
+OI Notepad,SMATA,6,30,56.76
+OI Notepad,SMATA,6,35,62.93
+OI Notepad,SMATA,6,40,63.12
+OI Notepad,SMATA,6,45,68.93
+OI Notepad,SMATA,6,50,68.38
+OI Notepad,SMATA,6,55,67.92
+OI Notepad,SMATA,6,60,68.08
+OI Notepad,SMATA,7,0,0.0
+OI Notepad,SMATA,7,5,19.0
+OI Notepad,SMATA,7,10,31.43
+OI Notepad,SMATA,7,15,41.07
+OI Notepad,SMATA,7,20,48.83
+OI Notepad,SMATA,7,25,53.28
+OI Notepad,SMATA,7,30,57.71
+OI Notepad,SMATA,7,35,58.08
+OI Notepad,SMATA,7,40,64.88
+OI Notepad,SMATA,7,45,65.51
+OI Notepad,SMATA,7,50,65.12
+OI Notepad,SMATA,7,55,70.03
+OI Notepad,SMATA,7,60,67.97
+OI Notepad,SMATA,8,0,0.0
+OI Notepad,SMATA,8,5,18.27
+OI Notepad,SMATA,8,10,30.17
+OI Notepad,SMATA,8,15,39.49
+OI Notepad,SMATA,8,20,45.16
+OI Notepad,SMATA,8,25,51.59
+OI Notepad,SMATA,8,30,54.31
+OI Notepad,SMATA,8,35,58.35
+OI Notepad,SMATA,8,40,56.74
+OI Notepad,SMATA,8,45,60.48
+OI Notepad,SMATA,8,50,64.86
+OI Notepad,SMATA,8,55,61.97
+OI Notepad,SMATA,8,60,62.84
+OI Notepad,SMATA,9,0,0.0
+OI Notepad,SMATA,9,5,16.08
+OI Notepad,SMATA,9,10,27.85
+OI Notepad,SMATA,9,15,40.64
+OI Notepad,SMATA,9,20,48.47
+OI Notepad,SMATA,9,25,53.58
+OI Notepad,SMATA,9,30,57.44
+OI Notepad,SMATA,9,35,60.68
+OI Notepad,SMATA,9,40,64.34
+OI Notepad,SMATA,9,45,64.14
+OI Notepad,SMATA,9,50,64.77
+OI Notepad,SMATA,9,55,66.1
+OI Notepad,SMATA,9,60,68.05
+OI Notepad,SMATA,10,0,2.12
+OI Notepad,SMATA,10,5,16.34
+OI Notepad,SMATA,10,10,30.23
+OI Notepad,SMATA,10,15,40.07
+OI Notepad,SMATA,10,20,45.1
+OI Notepad,SMATA,10,25,51.82
+OI Notepad,SMATA,10,30,53.45
+OI Notepad,SMATA,10,35,55.85
+OI Notepad,SMATA,10,40,61.17
+OI Notepad,SMATA,10,45,61.61
+OI Notepad,SMATA,10,50,63.65
+OI Notepad,SMATA,10,55,64.18
+OI Notepad,SMATA,10,60,63.38
+Tippy Tipper,Monkey,1,0,0.0
+Tippy Tipper,Monkey,1,5,17.02
+Tippy Tipper,Monkey,1,10,31.32
+Tippy Tipper,Monkey,1,15,32.88
+Tippy Tipper,Monkey,1,20,37.74
+Tippy Tipper,Monkey,1,25,38.18
+Tippy Tipper,Monkey,1,30,41.54
+Tippy Tipper,Monkey,1,35,40.71
+Tippy Tipper,Monkey,1,40,40.71
+Tippy Tipper,Monkey,1,45,42.92
+Tippy Tipper,Monkey,1,50,41.77
+Tippy Tipper,Monkey,1,55,42.55
+Tippy Tipper,Monkey,1,60,40.33
+Tippy Tipper,Monkey,2,0,0.0
+Tippy Tipper,Monkey,2,5,21.29
+Tippy Tipper,Monkey,2,10,32.24
+Tippy Tipper,Monkey,2,15,40.02
+Tippy Tipper,Monkey,2,20,42.45
+Tippy Tipper,Monkey,2,25,44.8
+Tippy Tipper,Monkey,2,30,43.11
+Tippy Tipper,Monkey,2,35,48.95
+Tippy Tipper,Monkey,2,40,46.19
+Tippy Tipper,Monkey,2,45,47.65
+Tippy Tipper,Monkey,2,50,45.45
+Tippy Tipper,Monkey,2,55,47.22
+Tippy Tipper,Monkey,2,60,44.83
+Tippy Tipper,Monkey,3,0,0.68
+Tippy Tipper,Monkey,3,5,24.38
+Tippy Tipper,Monkey,3,10,38.63
+Tippy Tipper,Monkey,3,15,47.14
+Tippy Tipper,Monkey,3,20,48.36
+Tippy Tipper,Monkey,3,25,51.44
+Tippy Tipper,Monkey,3,30,54.4
+Tippy Tipper,Monkey,3,35,57.54
+Tippy Tipper,Monkey,3,40,54.56
+Tippy Tipper,Monkey,3,45,55.86
+Tippy Tipper,Monkey,3,50,54.92
+Tippy Tipper,Monkey,3,55,58.06
+Tippy Tipper,Monkey,3,60,52.56
+Tippy Tipper,Monkey,4,0,0.14
+Tippy Tipper,Monkey,4,5,10.89
+Tippy Tipper,Monkey,4,10,16.88
+Tippy Tipper,Monkey,4,15,25.1
+Tippy Tipper,Monkey,4,20,27.07
+Tippy Tipper,Monkey,4,25,27.64
+Tippy Tipper,Monkey,4,30,28.57
+Tippy Tipper,Monkey,4,35,33.74
+Tippy Tipper,Monkey,4,40,28.91
+Tippy Tipper,Monkey,4,45,30.17
+Tippy Tipper,Monkey,4,50,28.49
+Tippy Tipper,Monkey,4,55,29.94
+Tippy Tipper,Monkey,4,60,29.16
+Tippy Tipper,Monkey,5,0,0.0
+Tippy Tipper,Monkey,5,5,29.89
+Tippy Tipper,Monkey,5,10,43.83
+Tippy Tipper,Monkey,5,15,50.45
+Tippy Tipper,Monkey,5,20,51.28
+Tippy Tipper,Monkey,5,25,56.66
+Tippy Tipper,Monkey,5,30,62.61
+Tippy Tipper,Monkey,5,35,58.95
+Tippy Tipper,Monkey,5,40,61.36
+Tippy Tipper,Monkey,5,45,62.09
+Tippy Tipper,Monkey,5,50,60.38
+Tippy Tipper,Monkey,5,55,58.86
+Tippy Tipper,Monkey,5,60,56.5
+Tippy Tipper,Monkey,6,0,1.03
+Tippy Tipper,Monkey,6,5,9.18
+Tippy Tipper,Monkey,6,10,16.37
+Tippy Tipper,Monkey,6,15,17.37
+Tippy Tipper,Monkey,6,20,20.56
+Tippy Tipper,Monkey,6,25,21.95
+Tippy Tipper,Monkey,6,30,22.82
+Tippy Tipper,Monkey,6,35,21.03
+Tippy Tipper,Monkey,6,40,24.66
+Tippy Tipper,Monkey,6,45,22.05
+Tippy Tipper,Monkey,6,50,20.48
+Tippy Tipper,Monkey,6,55,22.86
+Tippy Tipper,Monkey,6,60,23.08
+Tippy Tipper,Monkey,7,0,0.24
+Tippy Tipper,Monkey,7,5,19.83
+Tippy Tipper,Monkey,7,10,27.19
+Tippy Tipper,Monkey,7,15,32.72
+Tippy Tipper,Monkey,7,20,34.19
+Tippy Tipper,Monkey,7,25,38.69
+Tippy Tipper,Monkey,7,30,38.62
+Tippy Tipper,Monkey,7,35,38.2
+Tippy Tipper,Monkey,7,40,36.24
+Tippy Tipper,Monkey,7,45,41.41
+Tippy Tipper,Monkey,7,50,37.48
+Tippy Tipper,Monkey,7,55,38.48
+Tippy Tipper,Monkey,7,60,39.93
+Tippy Tipper,Monkey,8,0,0.0
+Tippy Tipper,Monkey,8,5,18.58
+Tippy Tipper,Monkey,8,10,29.06
+Tippy Tipper,Monkey,8,15,39.6
+Tippy Tipper,Monkey,8,20,41.15
+Tippy Tipper,Monkey,8,25,48.24
+Tippy Tipper,Monkey,8,30,43.4
+Tippy Tipper,Monkey,8,35,44.08
+Tippy Tipper,Monkey,8,40,44.92
+Tippy Tipper,Monkey,8,45,46.31
+Tippy Tipper,Monkey,8,50,45.33
+Tippy Tipper,Monkey,8,55,47.01
+Tippy Tipper,Monkey,8,60,44.65
+Tippy Tipper,Monkey,9,0,0.0
+Tippy Tipper,Monkey,9,5,16.87
+Tippy Tipper,Monkey,9,10,26.96
+Tippy Tipper,Monkey,9,15,35.42
+Tippy Tipper,Monkey,9,20,38.97
+Tippy Tipper,Monkey,9,25,40.25
+Tippy Tipper,Monkey,9,30,44.04
+Tippy Tipper,Monkey,9,35,44.55
+Tippy Tipper,Monkey,9,40,42.5
+Tippy Tipper,Monkey,9,45,40.47
+Tippy Tipper,Monkey,9,50,42.4
+Tippy Tipper,Monkey,9,55,42.4
+Tippy Tipper,Monkey,9,60,42.34
+Tippy Tipper,Monkey,10,0,0.0
+Tippy Tipper,Monkey,10,5,14.87
+Tippy Tipper,Monkey,10,10,23.98
+Tippy Tipper,Monkey,10,15,28.38
+Tippy Tipper,Monkey,10,20,32.26
+Tippy Tipper,Monkey,10,25,33.93
+Tippy Tipper,Monkey,10,30,32.81
+Tippy Tipper,Monkey,10,35,36.52
+Tippy Tipper,Monkey,10,40,33.38
+Tippy Tipper,Monkey,10,45,32.55
+Tippy Tipper,Monkey,10,50,35.62
+Tippy Tipper,Monkey,10,55,33.87
+Tippy Tipper,Monkey,10,60,35.6
+Tippy Tipper,Dynodroid,1,0,0.0
+Tippy Tipper,Dynodroid,1,5,17.43
+Tippy Tipper,Dynodroid,1,10,26.64
+Tippy Tipper,Dynodroid,1,15,30.27
+Tippy Tipper,Dynodroid,1,20,34.93
+Tippy Tipper,Dynodroid,1,25,42.75
+Tippy Tipper,Dynodroid,1,30,41.21
+Tippy Tipper,Dynodroid,1,35,42.46
+Tippy Tipper,Dynodroid,1,40,41.24
+Tippy Tipper,Dynodroid,1,45,44.74
+Tippy Tipper,Dynodroid,1,50,45.35
+Tippy Tipper,Dynodroid,1,55,47.04
+Tippy Tipper,Dynodroid,1,60,44.06
+Tippy Tipper,Dynodroid,2,0,0.0
+Tippy Tipper,Dynodroid,2,5,15.27
+Tippy Tipper,Dynodroid,2,10,25.88
+Tippy Tipper,Dynodroid,2,15,28.57
+Tippy Tipper,Dynodroid,2,20,36.95
+Tippy Tipper,Dynodroid,2,25,38.33
+Tippy Tipper,Dynodroid,2,30,41.88
+Tippy Tipper,Dynodroid,2,35,41.46
+Tippy Tipper,Dynodroid,2,40,38.67
+Tippy Tipper,Dynodroid,2,45,42.82
+Tippy Tipper,Dynodroid,2,50,45.04
+Tippy Tipper,Dynodroid,2,55,42.38
+Tippy Tipper,Dynodroid,2,60,43.31
+Tippy Tipper,Dynodroid,3,0,0.0
+Tippy Tipper,Dynodroid,3,5,9.99
+Tippy Tipper,Dynodroid,3,10,26.46
+Tippy Tipper,Dynodroid,3,15,29.04
+Tippy Tipper,Dynodroid,3,20,35.47
+Tippy Tipper,Dynodroid,3,25,37.47
+Tippy Tipper,Dynodroid,3,30,41.43
+Tippy Tipper,Dynodroid,3,35,41.45
+Tippy Tipper,Dynodroid,3,40,41.36
+Tippy Tipper,Dynodroid,3,45,40.96
+Tippy Tipper,Dynodroid,3,50,43.89
+Tippy Tipper,Dynodroid,3,55,40.15
+Tippy Tipper,Dynodroid,3,60,44.1
+Tippy Tipper,Dynodroid,4,0,0.0
+Tippy Tipper,Dynodroid,4,5,20.01
+Tippy Tipper,Dynodroid,4,10,30.52
+Tippy Tipper,Dynodroid,4,15,39.39
+Tippy Tipper,Dynodroid,4,20,44.01
+Tippy Tipper,Dynodroid,4,25,44.92
+Tippy Tipper,Dynodroid,4,30,48.71
+Tippy Tipper,Dynodroid,4,35,52.65
+Tippy Tipper,Dynodroid,4,40,53.0
+Tippy Tipper,Dynodroid,4,45,55.26
+Tippy Tipper,Dynodroid,4,50,54.59
+Tippy Tipper,Dynodroid,4,55,52.86
+Tippy Tipper,Dynodroid,4,60,53.34
+Tippy Tipper,Dynodroid,5,0,0.15
+Tippy Tipper,Dynodroid,5,5,13.36
+Tippy Tipper,Dynodroid,5,10,30.62
+Tippy Tipper,Dynodroid,5,15,36.34
+Tippy Tipper,Dynodroid,5,20,42.58
+Tippy Tipper,Dynodroid,5,25,41.77
+Tippy Tipper,Dynodroid,5,30,48.29
+Tippy Tipper,Dynodroid,5,35,51.29
+Tippy Tipper,Dynodroid,5,40,46.99
+Tippy Tipper,Dynodroid,5,45,50.81
+Tippy Tipper,Dynodroid,5,50,50.12
+Tippy Tipper,Dynodroid,5,55,48.11
+Tippy Tipper,Dynodroid,5,60,51.37
+Tippy Tipper,Dynodroid,6,0,1.25
+Tippy Tipper,Dynodroid,6,5,13.16
+Tippy Tipper,Dynodroid,6,10,25.24
+Tippy Tipper,Dynodroid,6,15,27.31
+Tippy Tipper,Dynodroid,6,20,31.8
+Tippy Tipper,Dynodroid,6,25,37.09
+Tippy Tipper,Dynodroid,6,30,38.83
+Tippy Tipper,Dynodroid,6,35,38.99
+Tippy Tipper,Dynodroid,6,40,42.14
+Tippy Tipper,Dynodroid,6,45,42.29
+Tippy Tipper,Dynodroid,6,50,43.17
+Tippy Tipper,Dynodroid,6,55,41.95
+Tippy Tipper,Dynodroid,6,60,43.21
+Tippy Tipper,Dynodroid,7,0,0.0
+Tippy Tipper,Dynodroid,7,5,21.34
+Tippy Tipper,Dynodroid,7,10,29.28
+Tippy Tipper,Dynodroid,7,15,41.86
+Tippy Tipper,Dynodroid,7,20,44.26
+Tippy Tipper,Dynodroid,7,25,45.83
+Tippy Tipper,Dynodroid,7,30,52.42
+Tippy Tipper,Dynodroid,7,35,52.21
+Tippy Tipper,Dynodroid,7,40,54.41
+Tippy Tipper,Dynodroid,7,45,55.71
+Tippy Tipper,Dynodroid,7,50,54.88
+Tippy Tipper,Dynodroid,7,55,53.82
+Tippy Tipper,Dynodroid,7,60,56.4
+Tippy Tipper,Dynodroid,8,0,0.0
+Tippy Tipper,Dynodroid,8,5,17.73
+Tippy Tipper,Dynodroid,8,10,24.67
+Tippy Tipper,Dynodroid,8,15,36.07
+Tippy Tipper,Dynodroid,8,20,39.47
+Tippy Tipper,Dynodroid,8,25,46.28
+Tippy Tipper,Dynodroid,8,30,47.0
+Tippy Tipper,Dynodroid,8,35,47.94
+Tippy Tipper,Dynodroid,8,40,49.32
+Tippy Tipper,Dynodroid,8,45,47.78
+Tippy Tipper,Dynodroid,8,50,52.17
+Tippy Tipper,Dynodroid,8,55,53.03
+Tippy Tipper,Dynodroid,8,60,50.83
+Tippy Tipper,Dynodroid,9,0,2.39
+Tippy Tipper,Dynodroid,9,5,17.18
+Tippy Tipper,Dynodroid,9,10,28.92
+Tippy Tipper,Dynodroid,9,15,38.28
+Tippy Tipper,Dynodroid,9,20,44.3
+Tippy Tipper,Dynodroid,9,25,46.7
+Tippy Tipper,Dynodroid,9,30,50.54
+Tippy Tipper,Dynodroid,9,35,51.82
+Tippy Tipper,Dynodroid,9,40,50.96
+Tippy Tipper,Dynodroid,9,45,53.97
+Tippy Tipper,Dynodroid,9,50,54.98
+Tippy Tipper,Dynodroid,9,55,54.28
+Tippy Tipper,Dynodroid,9,60,55.97
+Tippy Tipper,Dynodroid,10,0,0.0
+Tippy Tipper,Dynodroid,10,5,18.25
+Tippy Tipper,Dynodroid,10,10,27.56
+Tippy Tipper,Dynodroid,10,15,35.53
+Tippy Tipper,Dynodroid,10,20,41.54
+Tippy Tipper,Dynodroid,10,25,44.61
+Tippy Tipper,Dynodroid,10,30,47.58
+Tippy Tipper,Dynodroid,10,35,49.67
+Tippy Tipper,Dynodroid,10,40,52.32
+Tippy Tipper,Dynodroid,10,45,51.29
+Tippy Tipper,Dynodroid,10,50,49.88
+Tippy Tipper,Dynodroid,10,55,54.29
+Tippy Tipper,Dynodroid,10,60,51.54
+Tippy Tipper,Ad-hoc,1,0,0.0
+Tippy Tipper,Ad-hoc,1,5,11.0
+Tippy Tipper,Ad-hoc,1,10,18.67
+Tippy Tipper,Ad-hoc,1,15,26.28
+Tippy Tipper,Ad-hoc,1,20,30.23
+Tippy Tipper,Ad-hoc,1,25,32.02
+Tippy Tipper,Ad-hoc,1,30,39.54
+Tippy Tipper,Ad-hoc,1,35,38.87
+Tippy Tipper,Ad-hoc,1,40,40.15
+Tippy Tipper,Ad-hoc,1,45,43.21
+Tippy Tipper,Ad-hoc,1,50,43.23
+Tippy Tipper,Ad-hoc,1,55,44.3
+Tippy Tipper,Ad-hoc,1,60,48.1
+Tippy Tipper,Ad-hoc,2,0,0.0
+Tippy Tipper,Ad-hoc,2,5,10.26
+Tippy Tipper,Ad-hoc,2,10,19.27
+Tippy Tipper,Ad-hoc,2,15,27.22
+Tippy Tipper,Ad-hoc,2,20,28.42
+Tippy Tipper,Ad-hoc,2,25,31.68
+Tippy Tipper,Ad-hoc,2,30,36.83
+Tippy Tipper,Ad-hoc,2,35,37.65
+Tippy Tipper,Ad-hoc,2,40,41.33
+Tippy Tipper,Ad-hoc,2,45,44.18
+Tippy Tipper,Ad-hoc,2,50,43.22
+Tippy Tipper,Ad-hoc,2,55,43.3
+Tippy Tipper,Ad-hoc,2,60,46.23
+Tippy Tipper,Ad-hoc,3,0,1.29
+Tippy Tipper,Ad-hoc,3,5,10.19
+Tippy Tipper,Ad-hoc,3,10,23.87
+Tippy Tipper,Ad-hoc,3,15,31.59
+Tippy Tipper,Ad-hoc,3,20,37.81
+Tippy Tipper,Ad-hoc,3,25,42.89
+Tippy Tipper,Ad-hoc,3,30,48.01
+Tippy Tipper,Ad-hoc,3,35,47.02
+Tippy Tipper,Ad-hoc,3,40,49.93
+Tippy Tipper,Ad-hoc,3,45,50.86
+Tippy Tipper,Ad-hoc,3,50,52.83
+Tippy Tipper,Ad-hoc,3,55,56.17
+Tippy Tipper,Ad-hoc,3,60,52.67
+Tippy Tipper,Ad-hoc,4,0,0.0
+Tippy Tipper,Ad-hoc,4,5,14.59
+Tippy Tipper,Ad-hoc,4,10,23.8
+Tippy Tipper,Ad-hoc,4,15,29.32
+Tippy Tipper,Ad-hoc,4,20,37.06
+Tippy Tipper,Ad-hoc,4,25,40.9
+Tippy Tipper,Ad-hoc,4,30,46.22
+Tippy Tipper,Ad-hoc,4,35,46.88
+Tippy Tipper,Ad-hoc,4,40,50.48
+Tippy Tipper,Ad-hoc,4,45,54.6
+Tippy Tipper,Ad-hoc,4,50,52.85
+Tippy Tipper,Ad-hoc,4,55,53.06
+Tippy Tipper,Ad-hoc,4,60,54.87
+Tippy Tipper,Ad-hoc,5,0,0.0
+Tippy Tipper,Ad-hoc,5,5,15.14
+Tippy Tipper,Ad-hoc,5,10,20.83
+Tippy Tipper,Ad-hoc,5,15,27.16
+Tippy Tipper,Ad-hoc,5,20,31.78
+Tippy Tipper,Ad-hoc,5,25,38.93
+Tippy Tipper,Ad-hoc,5,30,41.9
+Tippy Tipper,Ad-hoc,5,35,42.43
+Tippy Tipper,Ad-hoc,5,40,46.05
+Tippy Tipper,Ad-hoc,5,45,44.49
+Tippy Tipper,Ad-hoc,5,50,48.25
+Tippy Tipper,Ad-hoc,5,55,49.6
+Tippy Tipper,Ad-hoc,5,60,52.22
+Tippy Tipper,Ad-hoc,6,0,0.0
+Tippy Tipper,Ad-hoc,6,5,9.85
+Tippy Tipper,Ad-hoc,6,10,19.59
+Tippy Tipper,Ad-hoc,6,15,26.07
+Tippy Tipper,Ad-hoc,6,20,35.64
+Tippy Tipper,Ad-hoc,6,25,40.29
+Tippy Tipper,Ad-hoc,6,30,41.82
+Tippy Tipper,Ad-hoc,6,35,45.8
+Tippy Tipper,Ad-hoc,6,40,46.21
+Tippy Tipper,Ad-hoc,6,45,47.46
+Tippy Tipper,Ad-hoc,6,50,48.34
+Tippy Tipper,Ad-hoc,6,55,49.34
+Tippy Tipper,Ad-hoc,6,60,48.24
+Tippy Tipper,Ad-hoc,7,0,0.4
+Tippy Tipper,Ad-hoc,7,5,13.48
+Tippy Tipper,Ad-hoc,7,10,25.2
+Tippy Tipper,Ad-hoc,7,15,32.43
+Tippy Tipper,Ad-hoc,7,20,38.44
+Tippy Tipper,Ad-hoc,7,25,42.36
+Tippy Tipper,Ad-hoc,7,30,47.65
+Tippy Tipper,Ad-hoc,7,35,51.67
+Tippy Tipper,Ad-hoc,7,40,51.2
+Tippy Tipper,Ad-hoc,7,45,54.88
+Tippy Tipper,Ad-hoc,7,50,56.53
+Tippy Tipper,Ad-hoc,7,55,56.21
+Tippy Tipper,Ad-hoc,7,60,57.27
+Tippy Tipper,Ad-hoc,8,0,0.35
+Tippy Tipper,Ad-hoc,8,5,8.99
+Tippy Tipper,Ad-hoc,8,10,19.54
+Tippy Tipper,Ad-hoc,8,15,24.16
+Tippy Tipper,Ad-hoc,8,20,32.14
+Tippy Tipper,Ad-hoc,8,25,37.99
+Tippy Tipper,Ad-hoc,8,30,36.25
+Tippy Tipper,Ad-hoc,8,35,40.73
+Tippy Tipper,Ad-hoc,8,40,40.7
+Tippy Tipper,Ad-hoc,8,45,44.8
+Tippy Tipper,Ad-hoc,8,50,42.46
+Tippy Tipper,Ad-hoc,8,55,45.96
+Tippy Tipper,Ad-hoc,8,60,44.61
+Tippy Tipper,Ad-hoc,9,0,0.0
+Tippy Tipper,Ad-hoc,9,5,10.88
+Tippy Tipper,Ad-hoc,9,10,23.33
+Tippy Tipper,Ad-hoc,9,15,28.38
+Tippy Tipper,Ad-hoc,9,20,36.33
+Tippy Tipper,Ad-hoc,9,25,39.56
+Tippy Tipper,Ad-hoc,9,30,43.47
+Tippy Tipper,Ad-hoc,9,35,46.63
+Tippy Tipper,Ad-hoc,9,40,47.43
+Tippy Tipper,Ad-hoc,9,45,50.57
+Tippy Tipper,Ad-hoc,9,50,53.85
+Tippy Tipper,Ad-hoc,9,55,51.41
+Tippy Tipper,Ad-hoc,9,60,55.13
+Tippy Tipper,Ad-hoc,10,0,2.25
+Tippy Tipper,Ad-hoc,10,5,10.06
+Tippy Tipper,Ad-hoc,10,10,17.89
+Tippy Tipper,Ad-hoc,10,15,27.37
+Tippy Tipper,Ad-hoc,10,20,31.42
+Tippy Tipper,Ad-hoc,10,25,39.2
+Tippy Tipper,Ad-hoc,10,30,39.68
+Tippy Tipper,Ad-hoc,10,35,40.94
+Tippy Tipper,Ad-hoc,10,40,42.39
+Tippy Tipper,Ad-hoc,10,45,47.27
+Tippy Tipper,Ad-hoc,10,50,45.97
+Tippy Tipper,Ad-hoc,10,55,47.81
+Tippy Tipper,Ad-hoc,10,60,49.9
+Tippy Tipper,SMATA,1,0,0.0
+Tippy Tipper,SMATA,1,5,17.44
+Tippy Tipper,SMATA,1,10,30.45
+Tippy Tipper,SMATA,1,15,41.11
+Tippy Tipper,SMATA,1,20,48.09
+Tippy Tipper,SMATA,1,25,52.15
+Tippy Tipper,SMATA,1,30,56.48
+Tippy Tipper,SMATA,1,35,58.72
+Tippy Tipper,SMATA,1,40,59.21
+Tippy Tipper,SMATA,1,45,63.4
+Tippy Tipper,SMATA,1,50,67.03
+Tippy Tipper,SMATA,1,55,63.73
+Tippy Tipper,SMATA,1,60,64.54
+Tippy Tipper,SMATA,2,0,0.0
+Tippy Tipper,SMATA,2,5,20.39
+Tippy Tipper,SMATA,2,10,34.28
+Tippy Tipper,SMATA,2,15,43.97
+Tippy Tipper,SMATA,2,20,50.68
+Tippy Tipper,SMATA,2,25,58.01
+Tippy Tipper,SMATA,2,30,59.83
+Tippy Tipper,SMATA,2,35,65.58
+Tippy Tipper,SMATA,2,40,69.04
+Tippy Tipper,SMATA,2,45,67.61
+Tippy Tipper,SMATA,2,50,68.48
+Tippy Tipper,SMATA,2,55,74.11
+Tippy Tipper,SMATA,2,60,71.54
+Tippy Tipper,SMATA,3,0,1.7
+Tippy Tipper,SMATA,3,5,18.7
+Tippy Tipper,SMATA,3,10,32.72
+Tippy Tipper,SMATA,3,15,44.01
+Tippy Tipper,SMATA,3,20,49.72
+Tippy Tipper,SMATA,3,25,56.95
+Tippy Tipper,SMATA,3,30,60.4
+Tippy Tipper,SMATA,3,35,62.12
+Tippy Tipper,SMATA,3,40,66.93
+Tippy Tipper,SMATA,3,45,67.75
+Tippy Tipper,SMATA,3,50,69.18
+Tippy Tipper,SMATA,3,55,68.54
+Tippy Tipper,SMATA,3,60,73.44
+Tippy Tipper,SMATA,4,0,1.32
+Tippy Tipper,SMATA,4,5,20.36
+Tippy Tipper,SMATA,4,10,32.47
+Tippy Tipper,SMATA,4,15,40.72
+Tippy Tipper,SMATA,4,20,53.94
+Tippy Tipper,SMATA,4,25,56.61
+Tippy Tipper,SMATA,4,30,59.8
+Tippy Tipper,SMATA,4,35,64.68
+Tippy Tipper,SMATA,4,40,68.12
+Tippy Tipper,SMATA,4,45,68.05
+Tippy Tipper,SMATA,4,50,71.27
+Tippy Tipper,SMATA,4,55,71.92
+Tippy Tipper,SMATA,4,60,69.38
+Tippy Tipper,SMATA,5,0,0.0
+Tippy Tipper,SMATA,5,5,21.03
+Tippy Tipper,SMATA,5,10,30.03
+Tippy Tipper,SMATA,5,15,44.63
+Tippy Tipper,SMATA,5,20,50.67
+Tippy Tipper,SMATA,5,25,58.0
+Tippy Tipper,SMATA,5,30,62.64
+Tippy Tipper,SMATA,5,35,65.79
+Tippy Tipper,SMATA,5,40,67.9
+Tippy Tipper,SMATA,5,45,68.85
+Tippy Tipper,SMATA,5,50,75.25
+Tippy Tipper,SMATA,5,55,75.59
+Tippy Tipper,SMATA,5,60,71.77
+Tippy Tipper,SMATA,6,0,2.37
+Tippy Tipper,SMATA,6,5,17.24
+Tippy Tipper,SMATA,6,10,31.24
+Tippy Tipper,SMATA,6,15,40.74
+Tippy Tipper,SMATA,6,20,47.1
+Tippy Tipper,SMATA,6,25,54.93
+Tippy Tipper,SMATA,6,30,57.62
+Tippy Tipper,SMATA,6,35,59.67
+Tippy Tipper,SMATA,6,40,60.61
+Tippy Tipper,SMATA,6,45,62.85
+Tippy Tipper,SMATA,6,50,62.92
+Tippy Tipper,SMATA,6,55,66.29
+Tippy Tipper,SMATA,6,60,65.13
+Tippy Tipper,SMATA,7,0,0.0
+Tippy Tipper,SMATA,7,5,20.79
+Tippy Tipper,SMATA,7,10,34.42
+Tippy Tipper,SMATA,7,15,42.85
+Tippy Tipper,SMATA,7,20,50.39
+Tippy Tipper,SMATA,7,25,58.98
+Tippy Tipper,SMATA,7,30,61.12
+Tippy Tipper,SMATA,7,35,62.95
+Tippy Tipper,SMATA,7,40,63.59
+Tippy Tipper,SMATA,7,45,68.02
+Tippy Tipper,SMATA,7,50,69.93
+Tippy Tipper,SMATA,7,55,68.68
+Tippy Tipper,SMATA,7,60,70.75
+Tippy Tipper,SMATA,8,0,0.0
+Tippy Tipper,SMATA,8,5,17.1
+Tippy Tipper,SMATA,8,10,26.52
+Tippy Tipper,SMATA,8,15,39.46
+Tippy Tipper,SMATA,8,20,48.32
+Tippy Tipper,SMATA,8,25,51.15
+Tippy Tipper,SMATA,8,30,56.05
+Tippy Tipper,SMATA,8,35,57.71
+Tippy Tipper,SMATA,8,40,61.52
+Tippy Tipper,SMATA,8,45,62.23
+Tippy Tipper,SMATA,8,50,62.31
+Tippy Tipper,SMATA,8,55,66.59
+Tippy Tipper,SMATA,8,60,66.62
+Tippy Tipper,SMATA,9,0,0.0
+Tippy Tipper,SMATA,9,5,19.0
+Tippy Tipper,SMATA,9,10,32.57
+Tippy Tipper,SMATA,9,15,42.75
+Tippy Tipper,SMATA,9,20,46.66
+Tippy Tipper,SMATA,9,25,56.21
+Tippy Tipper,SMATA,9,30,57.92
+Tippy Tipper,SMATA,9,35,61.25
+Tippy Tipper,SMATA,9,40,67.98
+Tippy Tipper,SMATA,9,45,66.13
+Tippy Tipper,SMATA,9,50,66.33
+Tippy Tipper,SMATA,9,55,64.51
+Tippy Tipper,SMATA,9,60,70.57
+Tippy Tipper,SMATA,10,0,0.0
+Tippy Tipper,SMATA,10,5,16.12
+Tippy Tipper,SMATA,10,10,30.19
+Tippy Tipper,SMATA,10,15,42.48
+Tippy Tipper,SMATA,10,20,48.69
+Tippy Tipper,SMATA,10,25,52.6
+Tippy Tipper,SMATA,10,30,57.23
+Tippy Tipper,SMATA,10,35,58.78
+Tippy Tipper,SMATA,10,40,62.05
+Tippy Tipper,SMATA,10,45,63.55
+Tippy Tipper,SMATA,10,50,66.08
+Tippy Tipper,SMATA,10,55,66.95
+Tippy Tipper,SMATA,10,60,66.89
+Book Catalogue,Monkey,1,0,0.0
+Book Catalogue,Monkey,1,5,19.99
+Book Catalogue,Monkey,1,10,29.1
+Book Catalogue,Monkey,1,15,33.3
+Book Catalogue,Monkey,1,20,37.44
+Book Catalogue,Monkey,1,25,39.88
+Book Catalogue,Monkey,1,30,42.06
+Book Catalogue,Monkey,1,35,40.94
+Book Catalogue,Monkey,1,40,39.68
+Book Catalogue,Monkey,1,45,41.74
+Book Catalogue,Monkey,1,50,41.91
+Book Catalogue,Monkey,1,55,42.06
+Book Catalogue,Monkey,1,60,43.19
+Book Catalogue,Monkey,2,0,1.53
+Book Catalogue,Monkey,2,5,20.39
+Book Catalogue,Monkey,2,10,32.04
+Book Catalogue,Monkey,2,15,37.81
+Book Catalogue,Monkey,2,20,43.94
+Book Catalogue,Monkey,2,25,46.99
+Book Catalogue,Monkey,2,30,45.41
+Book Catalogue,Monkey,2,35,46.1
+Book Catalogue,Monkey,2,40,48.98
+Book Catalogue,Monkey,2,45,47.72
+Book Catalogue,Monkey,2,50,47.71
+Book Catalogue,Monkey,2,55,45.32
+Book Catalogue,Monkey,2,60,48.15
+Book Catalogue,Monkey,3,0,0.0
+Book Catalogue,Monkey,3,5,12.76
+Book Catalogue,Monkey,3,10,21.88
+Book Catalogue,Monkey,3,15,25.87
+Book Catalogue,Monkey,3,20,28.81
+Book Catalogue,Monkey,3,25,28.29
+Book Catalogue,Monkey,3,30,32.61
+Book Catalogue,Monkey,3,35,33.26
+Book Catalogue,Monkey,3,40,28.87
+Book Catalogue,Monkey,3,45,33.37
+Book Catalogue,Monkey,3,50,30.75
+Book Catalogue,Monkey,3,55,33.29
+Book Catalogue,Monkey,3,60,31.92
+Book Catalogue,Monkey,4,0,0.04
+Book Catalogue,Monkey,4,5,28.23
+Book Catalogue,Monkey,4,10,45.98
+Book Catalogue,Monkey,4,15,50.89
+Book Catalogue,Monkey,4,20,58.37
+Book Catalogue,Monkey,4,25,61.7
+Book Catalogue,Monkey,4,30,62.54
+Book Catalogue,Monkey,4,35,65.73
+Book Catalogue,Monkey,4,40,61.88
+Book Catalogue,Monkey,4,45,64.34
+Book Catalogue,Monkey,4,50,62.87
+Book Catalogue,Monkey,4,55,64.95
+Book Catalogue,Monkey,4,60,63.13
+Book Catalogue,Monkey,5,0,0.0
+Book Catalogue,Monkey,5,5,15.51
+Book Catalogue,Monkey,5,10,20.25
+Book Catalogue,Monkey,5,15,22.96
+Book Catalogue,Monkey,5,20,26.54
+Book Catalogue,Monkey,5,25,29.47
+Book Catalogue,Monkey,5,30,31.31
+Book Catalogue,Monkey,5,35,29.76
+Book Catalogue,Monkey,5,40,31.77
+Book Catalogue,Monkey,5,45,27.87
+Book Catalogue,Monkey,5,50,29.3
+Book Catalogue,Monkey,5,55,29.57
+Book Catalogue,Monkey,5,60,29.85
+Book Catalogue,Monkey,6,0,0.13
+Book Catalogue,Monkey,6,5,13.58
+Book Catalogue,Monkey,6,10,18.77
+Book Catalogue,Monkey,6,15,23.42
+Book Catalogue,Monkey,6,20,25.22
+Book Catalogue,Monkey,6,25,25.04
+Book Catalogue,Monkey,6,30,26.88
+Book Catalogue,Monkey,6,35,27.18
+Book Catalogue,Monkey,6,40,27.33
+Book Catalogue,Monkey,6,45,27.73
+Book Catalogue,Monkey,6,50,27.85
+Book Catalogue,Monkey,6,55,27.12
+Book Catalogue,Monkey,6,60,29.7
+Book Catalogue,Monkey,7,0,0.0
+Book Catalogue,Monkey,7,5,22.92
+Book Catalogue,Monkey,7,10,41.34
+Book Catalogue,Monkey,7,15,42.84
+Book Catalogue,Monkey,7,20,46.33
+Book Catalogue,Monkey,7,25,51.64
+Book Catalogue,Monkey,7,30,48.62
+Book Catalogue,Monkey,7,35,52.04
+Book Catalogue,Monkey,7,40,55.97
+Book Catalogue,Monkey,7,45,50.63
+Book Catalogue,Monkey,7,50,50.09
+Book Catalogue,Monkey,7,55,50.87
+Book Catalogue,Monkey,7,60,54.5
+Book Catalogue,Monkey,8,0,1.69
+Book Catalogue,Monkey,8,5,21.46
+Book Catalogue,Monkey,8,10,35.45
+Book Catalogue,Monkey,8,15,43.21
+Book Catalogue,Monkey,8,20,47.48
+Book Catalogue,Monkey,8,25,46.45
+Book Catalogue,Monkey,8,30,44.47
+Book Catalogue,Monkey,8,35,47.3
+Book Catalogue,Monkey,8,40,48.22
+Book Catalogue,Monkey,8,45,48.66
+Book Catalogue,Monkey,8,50,48.87
+Book Catalogue,Monkey,8,55,50.88
+Book Catalogue,Monkey,8,60,51.14
+Book Catalogue,Monkey,9,0,0.0
+Book Catalogue,Monkey,9,5,23.07
+Book Catalogue,Monkey,9,10,33.72
+Book Catalogue,Monkey,9,15,39.73
+Book Catalogue,Monkey,9,20,44.53
+Book Catalogue,Monkey,9,25,45.22
+Book Catalogue,Monkey,9,30,49.27
+Book Catalogue,Monkey,9,35,44.61
+Book Catalogue,Monkey,9,40,46.32
+Book Catalogue,Monkey,9,45,47.08
+Book Catalogue,Monkey,9,50,48.02
+Book Catalogue,Monkey,9,55,49.32
+Book Catalogue,Monkey,9,60,47.41
+Book Catalogue,Monkey,10,0,0.0
+Book Catalogue,Monkey,10,5,22.7
+Book Catalogue,Monkey,10,10,34.34
+Book Catalogue,Monkey,10,15,36.75
+Book Catalogue,Monkey,10,20,43.2
+Book Catalogue,Monkey,10,25,42.77
+Book Catalogue,Monkey,10,30,45.22
+Book Catalogue,Monkey,10,35,45.45
+Book Catalogue,Monkey,10,40,48.34
+Book Catalogue,Monkey,10,45,47.48
+Book Catalogue,Monkey,10,50,45.47
+Book Catalogue,Monkey,10,55,48.78
+Book Catalogue,Monkey,10,60,45.33
+Book Catalogue,Dynodroid,1,0,0.5
+Book Catalogue,Dynodroid,1,5,14.63
+Book Catalogue,Dynodroid,1,10,25.93
+Book Catalogue,Dynodroid,1,15,34.35
+Book Catalogue,Dynodroid,1,20,39.15
+Book Catalogue,Dynodroid,1,25,43.58
+Book Catalogue,Dynodroid,1,30,43.59
+Book Catalogue,Dynodroid,1,35,45.62
+Book Catalogue,Dynodroid,1,40,45.46
+Book Catalogue,Dynodroid,1,45,47.04
+Book Catalogue,Dynodroid,1,50,47.86
+Book Catalogue,Dynodroid,1,55,47.34
+Book Catalogue,Dynodroid,1,60,44.98
+Book Catalogue,Dynodroid,2,0,0.5
+Book Catalogue,Dynodroid,2,5,13.66
+Book Catalogue,Dynodroid,2,10,20.88
+Book Catalogue,Dynodroid,2,15,25.86
+Book Catalogue,Dynodroid,2,20,33.95
+Book Catalogue,Dynodroid,2,25,35.12
+Book Catalogue,Dynodroid,2,30,35.82
+Book Catalogue,Dynodroid,2,35,35.65
+Book Catalogue,Dynodroid,2,40,36.92
+Book Catalogue,Dynodroid,2,45,40.64
+Book Catalogue,Dynodroid,2,50,39.25
+Book Catalogue,Dynodroid,2,55,38.46
+Book Catalogue,Dynodroid,2,60,40.21
+Book Catalogue,Dynodroid,3,0,0.0
+Book Catalogue,Dynodroid,3,5,18.38
+Book Catalogue,Dynodroid,3,10,28.96
+Book Catalogue,Dynodroid,3,15,33.48
+Book Catalogue,Dynodroid,3,20,38.09
+Book Catalogue,Dynodroid,3,25,38.36
+Book Catalogue,Dynodroid,3,30,42.25
+Book Catalogue,Dynodroid,3,35,43.93
+Book Catalogue,Dynodroid,3,40,47.12
+Book Catalogue,Dynodroid,3,45,47.08
+Book Catalogue,Dynodroid,3,50,46.0
+Book Catalogue,Dynodroid,3,55,47.89
+Book Catalogue,Dynodroid,3,60,49.27
+Book Catalogue,Dynodroid,4,0,0.79
+Book Catalogue,Dynodroid,4,5,10.94
+Book Catalogue,Dynodroid,4,10,22.84
+Book Catalogue,Dynodroid,4,15,27.16
+Book Catalogue,Dynodroid,4,20,34.74
+Book Catalogue,Dynodroid,4,25,37.35
+Book Catalogue,Dynodroid,4,30,36.69
+Book Catalogue,Dynodroid,4,35,38.14
+Book Catalogue,Dynodroid,4,40,39.43
+Book Catalogue,Dynodroid,4,45,37.31
+Book Catalogue,Dynodroid,4,50,41.57
+Book Catalogue,Dynodroid,4,55,40.91
+Book Catalogue,Dynodroid,4,60,42.94
+Book Catalogue,Dynodroid,5,0,0.0
+Book Catalogue,Dynodroid,5,5,17.99
+Book Catalogue,Dynodroid,5,10,29.33
+Book Catalogue,Dynodroid,5,15,38.58
+Book Catalogue,Dynodroid,5,20,44.01
+Book Catalogue,Dynodroid,5,25,51.1
+Book Catalogue,Dynodroid,5,30,51.12
+Book Catalogue,Dynodroid,5,35,54.07
+Book Catalogue,Dynodroid,5,40,54.46
+Book Catalogue,Dynodroid,5,45,53.9
+Book Catalogue,Dynodroid,5,50,56.07
+Book Catalogue,Dynodroid,5,55,57.56
+Book Catalogue,Dynodroid,5,60,55.09
+Book Catalogue,Dynodroid,6,0,1.21
+Book Catalogue,Dynodroid,6,5,14.16
+Book Catalogue,Dynodroid,6,10,25.06
+Book Catalogue,Dynodroid,6,15,33.51
+Book Catalogue,Dynodroid,6,20,36.37
+Book Catalogue,Dynodroid,6,25,40.54
+Book Catalogue,Dynodroid,6,30,42.1
+Book Catalogue,Dynodroid,6,35,44.17
+Book Catalogue,Dynodroid,6,40,41.34
+Book Catalogue,Dynodroid,6,45,42.8
+Book Catalogue,Dynodroid,6,50,46.89
+Book Catalogue,Dynodroid,6,55,47.8
+Book Catalogue,Dynodroid,6,60,45.07
+Book Catalogue,Dynodroid,7,0,0.0
+Book Catalogue,Dynodroid,7,5,13.77
+Book Catalogue,Dynodroid,7,10,23.31
+Book Catalogue,Dynodroid,7,15,25.22
+Book Catalogue,Dynodroid,7,20,30.95
+Book Catalogue,Dynodroid,7,25,34.47
+Book Catalogue,Dynodroid,7,30,37.83
+Book Catalogue,Dynodroid,7,35,41.73
+Book Catalogue,Dynodroid,7,40,38.45
+Book Catalogue,Dynodroid,7,45,37.22
+Book Catalogue,Dynodroid,7,50,40.3
+Book Catalogue,Dynodroid,7,55,41.92
+Book Catalogue,Dynodroid,7,60,40.27
+Book Catalogue,Dynodroid,8,0,0.0
+Book Catalogue,Dynodroid,8,5,16.33
+Book Catalogue,Dynodroid,8,10,25.87
+Book Catalogue,Dynodroid,8,15,30.03
+Book Catalogue,Dynodroid,8,20,36.63
+Book Catalogue,Dynodroid,8,25,40.56
+Book Catalogue,Dynodroid,8,30,42.85
+Book Catalogue,Dynodroid,8,35,42.33
+Book Catalogue,Dynodroid,8,40,42.8
+Book Catalogue,Dynodroid,8,45,45.79
+Book Catalogue,Dynodroid,8,50,42.54
+Book Catalogue,Dynodroid,8,55,45.28
+Book Catalogue,Dynodroid,8,60,42.75
+Book Catalogue,Dynodroid,9,0,1.6
+Book Catalogue,Dynodroid,9,5,16.78
+Book Catalogue,Dynodroid,9,10,30.58
+Book Catalogue,Dynodroid,9,15,37.13
+Book Catalogue,Dynodroid,9,20,39.73
+Book Catalogue,Dynodroid,9,25,47.17
+Book Catalogue,Dynodroid,9,30,49.68
+Book Catalogue,Dynodroid,9,35,50.24
+Book Catalogue,Dynodroid,9,40,48.81
+Book Catalogue,Dynodroid,9,45,50.2
+Book Catalogue,Dynodroid,9,50,51.34
+Book Catalogue,Dynodroid,9,55,50.39
+Book Catalogue,Dynodroid,9,60,54.19
+Book Catalogue,Dynodroid,10,0,0.22
+Book Catalogue,Dynodroid,10,5,10.09
+Book Catalogue,Dynodroid,10,10,24.13
+Book Catalogue,Dynodroid,10,15,29.46
+Book Catalogue,Dynodroid,10,20,34.13
+Book Catalogue,Dynodroid,10,25,36.54
+Book Catalogue,Dynodroid,10,30,40.22
+Book Catalogue,Dynodroid,10,35,41.97
+Book Catalogue,Dynodroid,10,40,41.58
+Book Catalogue,Dynodroid,10,45,41.22
+Book Catalogue,Dynodroid,10,50,42.05
+Book Catalogue,Dynodroid,10,55,42.4
+Book Catalogue,Dynodroid,10,60,41.34
+Book Catalogue,Ad-hoc,1,0,0.87
+Book Catalogue,Ad-hoc,1,5,10.81
+Book Catalogue,Ad-hoc,1,10,20.31
+Book Catalogue,Ad-hoc,1,15,26.02
+Book Catalogue,Ad-hoc,1,20,27.88
+Book Catalogue,Ad-hoc,1,25,33.87
+Book Catalogue,Ad-hoc,1,30,34.11
+Book Catalogue,Ad-hoc,1,35,38.84
+Book Catalogue,Ad-hoc,1,40,38.77
+Book Catalogue,Ad-hoc,1,45,39.38
+Book Catalogue,Ad-hoc,1,50,42.41
+Book Catalogue,Ad-hoc,1,55,38.8
+Book Catalogue,Ad-hoc,1,60,40.84
+Book Catalogue,Ad-hoc,2,0,0.0
+Book Catalogue,Ad-hoc,2,5,12.15
+Book Catalogue,Ad-hoc,2,10,20.84
+Book Catalogue,Ad-hoc,2,15,26.32
+Book Catalogue,Ad-hoc,2,20,33.14
+Book Catalogue,Ad-hoc,2,25,39.38
+Book Catalogue,Ad-hoc,2,30,43.11
+Book Catalogue,Ad-hoc,2,35,44.9
+Book Catalogue,Ad-hoc,2,40,48.75
+Book Catalogue,Ad-hoc,2,45,49.24
+Book Catalogue,Ad-hoc,2,50,48.79
+Book Catalogue,Ad-hoc,2,55,50.47
+Book Catalogue,Ad-hoc,2,60,49.56
+Book Catalogue,Ad-hoc,3,0,0.0
+Book Catalogue,Ad-hoc,3,5,13.7
+Book Catalogue,Ad-hoc,3,10,22.42
+Book Catalogue,Ad-hoc,3,15,30.8
+Book Catalogue,Ad-hoc,3,20,33.92
+Book Catalogue,Ad-hoc,3,25,40.82
+Book Catalogue,Ad-hoc,3,30,41.96
+Book Catalogue,Ad-hoc,3,35,47.14
+Book Catalogue,Ad-hoc,3,40,46.99
+Book Catalogue,Ad-hoc,3,45,49.71
+Book Catalogue,Ad-hoc,3,50,52.13
+Book Catalogue,Ad-hoc,3,55,50.61
+Book Catalogue,Ad-hoc,3,60,52.0
+Book Catalogue,Ad-hoc,4,0,1.93
+Book Catalogue,Ad-hoc,4,5,10.48
+Book Catalogue,Ad-hoc,4,10,17.02
+Book Catalogue,Ad-hoc,4,15,28.69
+Book Catalogue,Ad-hoc,4,20,29.82
+Book Catalogue,Ad-hoc,4,25,34.69
+Book Catalogue,Ad-hoc,4,30,39.25
+Book Catalogue,Ad-hoc,4,35,38.99
+Book Catalogue,Ad-hoc,4,40,40.24
+Book Catalogue,Ad-hoc,4,45,43.58
+Book Catalogue,Ad-hoc,4,50,41.64
+Book Catalogue,Ad-hoc,4,55,44.77
+Book Catalogue,Ad-hoc,4,60,46.25
+Book Catalogue,Ad-hoc,5,0,0.0
+Book Catalogue,Ad-hoc,5,5,8.43
+Book Catalogue,Ad-hoc,5,10,21.51
+Book Catalogue,Ad-hoc,5,15,25.79
+Book Catalogue,Ad-hoc,5,20,32.86
+Book Catalogue,Ad-hoc,5,25,34.27
+Book Catalogue,Ad-hoc,5,30,36.42
+Book Catalogue,Ad-hoc,5,35,40.54
+Book Catalogue,Ad-hoc,5,40,41.68
+Book Catalogue,Ad-hoc,5,45,41.69
+Book Catalogue,Ad-hoc,5,50,46.8
+Book Catalogue,Ad-hoc,5,55,44.54
+Book Catalogue,Ad-hoc,5,60,43.4
+Book Catalogue,Ad-hoc,6,0,1.99
+Book Catalogue,Ad-hoc,6,5,11.25
+Book Catalogue,Ad-hoc,6,10,20.45
+Book Catalogue,Ad-hoc,6,15,25.99
+Book Catalogue,Ad-hoc,6,20,36.92
+Book Catalogue,Ad-hoc,6,25,36.79
+Book Catalogue,Ad-hoc,6,30,42.26
+Book Catalogue,Ad-hoc,6,35,46.22
+Book Catalogue,Ad-hoc,6,40,47.57
+Book Catalogue,Ad-hoc,6,45,48.47
+Book Catalogue,Ad-hoc,6,50,47.27
+Book Catalogue,Ad-hoc,6,55,49.6
+Book Catalogue,Ad-hoc,6,60,51.86
+Book Catalogue,Ad-hoc,7,0,0.0
+Book Catalogue,Ad-hoc,7,5,9.3
+Book Catalogue,Ad-hoc,7,10,17.03
+Book Catalogue,Ad-hoc,7,15,22.9
+Book Catalogue,Ad-hoc,7,20,23.87
+Book Catalogue,Ad-hoc,7,25,32.31
+Book Catalogue,Ad-hoc,7,30,32.75
+Book Catalogue,Ad-hoc,7,35,33.6
+Book Catalogue,Ad-hoc,7,40,36.8
+Book Catalogue,Ad-hoc,7,45,39.93
+Book Catalogue,Ad-hoc,7,50,35.17
+Book Catalogue,Ad-hoc,7,55,37.73
+Book Catalogue,Ad-hoc,7,60,35.08
+Book Catalogue,Ad-hoc,8,0,0.29
+Book Catalogue,Ad-hoc,8,5,9.62
+Book Catalogue,Ad-hoc,8,10,16.07
+Book Catalogue,Ad-hoc,8,15,20.65
+Book Catalogue,Ad-hoc,8,20,22.84
+Book Catalogue,Ad-hoc,8,25,29.81
+Book Catalogue,Ad-hoc,8,30,34.03
+Book Catalogue,Ad-hoc,8,35,32.99
+Book Catalogue,Ad-hoc,8,40,36.11
+Book Catalogue,Ad-hoc,8,45,34.33
+Book Catalogue,Ad-hoc,8,50,38.32
+Book Catalogue,Ad-hoc,8,55,37.79
+Book Catalogue,Ad-hoc,8,60,37.82
+Book Catalogue,Ad-hoc,9,0,0.0
+Book Catalogue,Ad-hoc,9,5,9.71
+Book Catalogue,Ad-hoc,9,10,18.9
+Book Catalogue,Ad-hoc,9,15,22.61
+Book Catalogue,Ad-hoc,9,20,28.85
+Book Catalogue,Ad-hoc,9,25,33.17
+Book Catalogue,Ad-hoc,9,30,34.54
+Book Catalogue,Ad-hoc,9,35,41.18
+Book Catalogue,Ad-hoc,9,40,39.0
+Book Catalogue,Ad-hoc,9,45,40.67
+Book Catalogue,Ad-hoc,9,50,41.29
+Book Catalogue,Ad-hoc,9,55,46.3
+Book Catalogue,Ad-hoc,9,60,45.09
+Book Catalogue,Ad-hoc,10,0,0.0
+Book Catalogue,Ad-hoc,10,5,12.87
+Book Catalogue,Ad-hoc,10,10,20.24
+Book Catalogue,Ad-hoc,10,15,27.12
+Book Catalogue,Ad-hoc,10,20,31.51
+Book Catalogue,Ad-hoc,10,25,35.03
+Book Catalogue,Ad-hoc,10,30,39.87
+Book Catalogue,Ad-hoc,10,35,41.05
+Book Catalogue,Ad-hoc,10,40,46.54
+Book Catalogue,Ad-hoc,10,45,43.43
+Book Catalogue,Ad-hoc,10,50,48.81
+Book Catalogue,Ad-hoc,10,55,47.26
+Book Catalogue,Ad-hoc,10,60,48.6
+Book Catalogue,SMATA,1,0,1.25
+Book Catalogue,SMATA,1,5,17.36
+Book Catalogue,SMATA,1,10,33.16
+Book Catalogue,SMATA,1,15,37.85
+Book Catalogue,SMATA,1,20,48.28
+Book Catalogue,SMATA,1,25,53.48
+Book Catalogue,SMATA,1,30,57.07
+Book Catalogue,SMATA,1,35,61.66
+Book Catalogue,SMATA,1,40,64.8
+Book Catalogue,SMATA,1,45,66.94
+Book Catalogue,SMATA,1,50,67.47
+Book Catalogue,SMATA,1,55,67.03
+Book Catalogue,SMATA,1,60,69.25
+Book Catalogue,SMATA,2,0,0.19
+Book Catalogue,SMATA,2,5,21.58
+Book Catalogue,SMATA,2,10,36.29
+Book Catalogue,SMATA,2,15,46.24
+Book Catalogue,SMATA,2,20,53.06
+Book Catalogue,SMATA,2,25,59.5
+Book Catalogue,SMATA,2,30,64.16
+Book Catalogue,SMATA,2,35,67.84
+Book Catalogue,SMATA,2,40,71.19
+Book Catalogue,SMATA,2,45,73.69
+Book Catalogue,SMATA,2,50,73.9
+Book Catalogue,SMATA,2,55,75.0
+Book Catalogue,SMATA,2,60,75.94
+Book Catalogue,SMATA,3,0,0.0
+Book Catalogue,SMATA,3,5,17.8
+Book Catalogue,SMATA,3,10,30.76
+Book Catalogue,SMATA,3,15,42.88
+Book Catalogue,SMATA,3,20,52.44
+Book Catalogue,SMATA,3,25,56.45
+Book Catalogue,SMATA,3,30,61.43
+Book Catalogue,SMATA,3,35,65.66
+Book Catalogue,SMATA,3,40,68.09
+Book Catalogue,SMATA,3,45,67.43
+Book Catalogue,SMATA,3,50,71.83
+Book Catalogue,SMATA,3,55,72.98
+Book Catalogue,SMATA,3,60,70.3
+Book Catalogue,SMATA,4,0,0.0
+Book Catalogue,SMATA,4,5,19.34
+Book Catalogue,SMATA,4,10,30.33
+Book Catalogue,SMATA,4,15,36.85
+Book Catalogue,SMATA,4,20,45.22
+Book Catalogue,SMATA,4,25,52.23
+Book Catalogue,SMATA,4,30,54.77
+Book Catalogue,SMATA,4,35,58.8
+Book Catalogue,SMATA,4,40,61.62
+Book Catalogue,SMATA,4,45,65.35
+Book Catalogue,SMATA,4,50,63.9
+Book Catalogue,SMATA,4,55,66.82
+Book Catalogue,SMATA,4,60,68.0
+Book Catalogue,SMATA,5,0,2.15
+Book Catalogue,SMATA,5,5,18.2
+Book Catalogue,SMATA,5,10,28.0
+Book Catalogue,SMATA,5,15,41.39
+Book Catalogue,SMATA,5,20,49.5
+Book Catalogue,SMATA,5,25,53.16
+Book Catalogue,SMATA,5,30,59.86
+Book Catalogue,SMATA,5,35,61.47
+Book Catalogue,SMATA,5,40,63.21
+Book Catalogue,SMATA,5,45,65.6
+Book Catalogue,SMATA,5,50,65.67
+Book Catalogue,SMATA,5,55,62.31
+Book Catalogue,SMATA,5,60,65.96
+Book Catalogue,SMATA,6,0,1.8
+Book Catalogue,SMATA,6,5,14.98
+Book Catalogue,SMATA,6,10,27.86
+Book Catalogue,SMATA,6,15,35.51
+Book Catalogue,SMATA,6,20,46.34
+Book Catalogue,SMATA,6,25,51.06
+Book Catalogue,SMATA,6,30,50.83
+Book Catalogue,SMATA,6,35,55.05
+Book Catalogue,SMATA,6,40,55.79
+Book Catalogue,SMATA,6,45,59.2
+Book Catalogue,SMATA,6,50,60.13
+Book Catalogue,SMATA,6,55,61.39
+Book Catalogue,SMATA,6,60,61.27
+Book Catalogue,SMATA,7,0,4.4
+Book Catalogue,SMATA,7,5,16.24
+Book Catalogue,SMATA,7,10,28.38
+Book Catalogue,SMATA,7,15,40.11
+Book Catalogue,SMATA,7,20,45.58
+Book Catalogue,SMATA,7,25,51.05
+Book Catalogue,SMATA,7,30,55.75
+Book Catalogue,SMATA,7,35,58.81
+Book Catalogue,SMATA,7,40,60.94
+Book Catalogue,SMATA,7,45,64.76
+Book Catalogue,SMATA,7,50,64.42
+Book Catalogue,SMATA,7,55,65.79
+Book Catalogue,SMATA,7,60,68.06
+Book Catalogue,SMATA,8,0,0.0
+Book Catalogue,SMATA,8,5,16.95
+Book Catalogue,SMATA,8,10,30.74
+Book Catalogue,SMATA,8,15,36.79
+Book Catalogue,SMATA,8,20,43.18
+Book Catalogue,SMATA,8,25,52.5
+Book Catalogue,SMATA,8,30,56.59
+Book Catalogue,SMATA,8,35,61.81
+Book Catalogue,SMATA,8,40,61.08
+Book Catalogue,SMATA,8,45,63.64
+Book Catalogue,SMATA,8,50,63.29
+Book Catalogue,SMATA,8,55,64.89
+Book Catalogue,SMATA,8,60,67.58
+Book Catalogue,SMATA,9,0,0.0
+Book Catalogue,SMATA,9,5,18.94
+Book Catalogue,SMATA,9,10,35.1
+Book Catalogue,SMATA,9,15,42.38
+Book Catalogue,SMATA,9,20,51.88
+Book Catalogue,SMATA,9,25,53.98
+Book Catalogue,SMATA,9,30,58.97
+Book Catalogue,SMATA,9,35,62.09
+Book Catalogue,SMATA,9,40,60.96
+Book Catalogue,SMATA,9,45,64.2
+Book Catalogue,SMATA,9,50,65.53
+Book Catalogue,SMATA,9,55,69.33
+Book Catalogue,SMATA,9,60,70.08
+Book Catalogue,SMATA,10,0,0.49
+Book Catalogue,SMATA,10,5,17.71
+Book Catalogue,SMATA,10,10,28.44
+Book Catalogue,SMATA,10,15,39.53
+Book Catalogue,SMATA,10,20,44.44
+Book Catalogue,SMATA,10,25,49.47
+Book Catalogue,SMATA,10,30,52.66
+Book Catalogue,SMATA,10,35,56.81
+Book Catalogue,SMATA,10,40,57.17
+Book Catalogue,SMATA,10,45,60.76
+Book Catalogue,SMATA,10,50,58.71
+Book Catalogue,SMATA,10,55,59.58
+Book Catalogue,SMATA,10,60,62.86
+OpenSudoku,Monkey,1,0,0.0
+OpenSudoku,Monkey,1,5,19.86
+OpenSudoku,Monkey,1,10,33.14
+OpenSudoku,Monkey,1,15,37.08
+OpenSudoku,Monkey,1,20,41.09
+OpenSudoku,Monkey,1,25,45.35
+OpenSudoku,Monkey,1,30,46.58
+OpenSudoku,Monkey,1,35,47.2
+OpenSudoku,Monkey,1,40,44.72
+OpenSudoku,Monkey,1,45,47.16
+OpenSudoku,Monkey,1,50,43.98
+OpenSudoku,Monkey,1,55,44.1
+OpenSudoku,Monkey,1,60,41.96
+OpenSudoku,Monkey,2,0,2.51
+OpenSudoku,Monkey,2,5,23.4
+OpenSudoku,Monkey,2,10,38.06
+OpenSudoku,Monkey,2,15,44.33
+OpenSudoku,Monkey,2,20,50.82
+OpenSudoku,Monkey,2,25,51.45
+OpenSudoku,Monkey,2,30,51.29
+OpenSudoku,Monkey,2,35,54.58
+OpenSudoku,Monkey,2,40,52.14
+OpenSudoku,Monkey,2,45,53.24
+OpenSudoku,Monkey,2,50,51.44
+OpenSudoku,Monkey,2,55,52.53
+OpenSudoku,Monkey,2,60,54.97
+OpenSudoku,Monkey,3,0,0.0
+OpenSudoku,Monkey,3,5,15.74
+OpenSudoku,Monkey,3,10,27.82
+OpenSudoku,Monkey,3,15,32.41
+OpenSudoku,Monkey,3,20,39.19
+OpenSudoku,Monkey,3,25,40.58
+OpenSudoku,Monkey,3,30,37.42
+OpenSudoku,Monkey,3,35,40.05
+OpenSudoku,Monkey,3,40,40.61
+OpenSudoku,Monkey,3,45,38.73
+OpenSudoku,Monkey,3,50,37.47
+OpenSudoku,Monkey,3,55,39.74
+OpenSudoku,Monkey,3,60,39.52
+OpenSudoku,Monkey,4,0,0.0
+OpenSudoku,Monkey,4,5,20.72
+OpenSudoku,Monkey,4,10,29.94
+OpenSudoku,Monkey,4,15,35.37
+OpenSudoku,Monkey,4,20,40.58
+OpenSudoku,Monkey,4,25,42.82
+OpenSudoku,Monkey,4,30,41.47
+OpenSudoku,Monkey,4,35,45.18
+OpenSudoku,Monkey,4,40,41.43
+OpenSudoku,Monkey,4,45,43.38
+OpenSudoku,Monkey,4,50,43.95
+OpenSudoku,Monkey,4,55,43.44
+OpenSudoku,Monkey,4,60,43.57
+OpenSudoku,Monkey,5,0,2.81
+OpenSudoku,Monkey,5,5,19.97
+OpenSudoku,Monkey,5,10,36.56
+OpenSudoku,Monkey,5,15,39.95
+OpenSudoku,Monkey,5,20,42.95
+OpenSudoku,Monkey,5,25,45.45
+OpenSudoku,Monkey,5,30,49.59
+OpenSudoku,Monkey,5,35,44.88
+OpenSudoku,Monkey,5,40,45.01
+OpenSudoku,Monkey,5,45,45.74
+OpenSudoku,Monkey,5,50,47.01
+OpenSudoku,Monkey,5,55,44.43
+OpenSudoku,Monkey,5,60,47.08
+OpenSudoku,Monkey,6,0,2.54
+OpenSudoku,Monkey,6,5,16.99
+OpenSudoku,Monkey,6,10,25.52
+OpenSudoku,Monkey,6,15,30.08
+OpenSudoku,Monkey,6,20,35.13
+OpenSudoku,Monkey,6,25,34.06
+OpenSudoku,Monkey,6,30,38.9
+OpenSudoku,Monkey,6,35,39.49
+OpenSudoku,Monkey,6,40,37.23
+OpenSudoku,Monkey,6,45,36.96
+OpenSudoku,Monkey,6,50,38.6
+OpenSudoku,Monkey,6,55,38.74
+OpenSudoku,Monkey,6,60,35.91
+OpenSudoku,Monkey,7,0,0.0
+OpenSudoku,Monkey,7,5,17.35
+OpenSudoku,Monkey,7,10,30.55
+OpenSudoku,Monkey,7,15,36.76
+OpenSudoku,Monkey,7,20,36.93
+OpenSudoku,Monkey,7,25,40.02
+OpenSudoku,Monkey,7,30,39.65
+OpenSudoku,Monkey,7,35,40.85
+OpenSudoku,Monkey,7,40,43.31
+OpenSudoku,Monkey,7,45,41.55
+OpenSudoku,Monkey,7,50,42.28
+OpenSudoku,Monkey,7,55,40.34
+OpenSudoku,Monkey,7,60,43.09
+OpenSudoku,Monkey,8,0,0.0
+OpenSudoku,Monkey,8,5,17.36
+OpenSudoku,Monkey,8,10,28.3
+OpenSudoku,Monkey,8,15,34.42
+OpenSudoku,Monkey,8,20,35.98
+OpenSudoku,Monkey,8,25,36.66
+OpenSudoku,Monkey,8,30,42.5
+OpenSudoku,Monkey,8,35,39.35
+OpenSudoku,Monkey,8,40,40.43
+OpenSudoku,Monkey,8,45,42.24
+OpenSudoku,Monkey,8,50,46.1
+OpenSudoku,Monkey,8,55,38.99
+OpenSudoku,Monkey,8,60,41.55
+OpenSudoku,Monkey,9,0,0.0
+OpenSudoku,Monkey,9,5,18.0
+OpenSudoku,Monkey,9,10,28.05
+OpenSudoku,Monkey,9,15,33.11
+OpenSudoku,Monkey,9,20,37.85
+OpenSudoku,Monkey,9,25,37.4
+OpenSudoku,Monkey,9,30,41.97
+OpenSudoku,Monkey,9,35,41.15
+OpenSudoku,Monkey,9,40,41.98
+OpenSudoku,Monkey,9,45,40.8
+OpenSudoku,Monkey,9,50,41.04
+OpenSudoku,Monkey,9,55,42.06
+OpenSudoku,Monkey,9,60,39.91
+OpenSudoku,Monkey,10,0,0.0
+OpenSudoku,Monkey,10,5,13.95
+OpenSudoku,Monkey,10,10,22.26
+OpenSudoku,Monkey,10,15,25.02
+OpenSudoku,Monkey,10,20,32.72
+OpenSudoku,Monkey,10,25,31.06
+OpenSudoku,Monkey,10,30,34.59
+OpenSudoku,Monkey,10,35,34.87
+OpenSudoku,Monkey,10,40,31.56
+OpenSudoku,Monkey,10,45,31.98
+OpenSudoku,Monkey,10,50,37.53
+OpenSudoku,Monkey,10,55,36.35
+OpenSudoku,Monkey,10,60,33.7
+OpenSudoku,Dynodroid,1,0,0.39
+OpenSudoku,Dynodroid,1,5,15.01
+OpenSudoku,Dynodroid,1,10,27.3
+OpenSudoku,Dynodroid,1,15,32.75
+OpenSudoku,Dynodroid,1,20,35.58
+OpenSudoku,Dynodroid,1,25,39.87
+OpenSudoku,Dynodroid,1,30,44.04
+OpenSudoku,Dynodroid,1,35,43.76
+OpenSudoku,Dynodroid,1,40,46.33
+OpenSudoku,Dynodroid,1,45,45.47
+OpenSudoku,Dynodroid,1,50,46.34
+OpenSudoku,Dynodroid,1,55,49.09
+OpenSudoku,Dynodroid,1,60,48.37
+OpenSudoku,Dynodroid,2,0,0.0
+OpenSudoku,Dynodroid,2,5,18.52
+OpenSudoku,Dynodroid,2,10,29.45
+OpenSudoku,Dynodroid,2,15,38.63
+OpenSudoku,Dynodroid,2,20,40.96
+OpenSudoku,Dynodroid,2,25,44.47
+OpenSudoku,Dynodroid,2,30,45.49
+OpenSudoku,Dynodroid,2,35,48.36
+OpenSudoku,Dynodroid,2,40,51.5
+OpenSudoku,Dynodroid,2,45,52.7
+OpenSudoku,Dynodroid,2,50,52.66
+OpenSudoku,Dynodroid,2,55,48.85
+OpenSudoku,Dynodroid,2,60,53.38
+OpenSudoku,Dynodroid,3,0,0.0
+OpenSudoku,Dynodroid,3,5,21.06
+OpenSudoku,Dynodroid,3,10,32.37
+OpenSudoku,Dynodroid,3,15,42.84
+OpenSudoku,Dynodroid,3,20,45.72
+OpenSudoku,Dynodroid,3,25,53.46
+OpenSudoku,Dynodroid,3,30,52.17
+OpenSudoku,Dynodroid,3,35,55.15
+OpenSudoku,Dynodroid,3,40,55.86
+OpenSudoku,Dynodroid,3,45,55.52
+OpenSudoku,Dynodroid,3,50,58.84
+OpenSudoku,Dynodroid,3,55,61.77
+OpenSudoku,Dynodroid,3,60,63.3
+OpenSudoku,Dynodroid,4,0,0.15
+OpenSudoku,Dynodroid,4,5,20.09
+OpenSudoku,Dynodroid,4,10,31.11
+OpenSudoku,Dynodroid,4,15,39.78
+OpenSudoku,Dynodroid,4,20,44.07
+OpenSudoku,Dynodroid,4,25,48.59
+OpenSudoku,Dynodroid,4,30,51.6
+OpenSudoku,Dynodroid,4,35,51.6
+OpenSudoku,Dynodroid,4,40,53.47
+OpenSudoku,Dynodroid,4,45,54.25
+OpenSudoku,Dynodroid,4,50,56.08
+OpenSudoku,Dynodroid,4,55,53.58
+OpenSudoku,Dynodroid,4,60,55.32
+OpenSudoku,Dynodroid,5,0,2.87
+OpenSudoku,Dynodroid,5,5,23.31
+OpenSudoku,Dynodroid,5,10,38.04
+OpenSudoku,Dynodroid,5,15,45.74
+OpenSudoku,Dynodroid,5,20,52.68
+OpenSudoku,Dynodroid,5,25,58.05
+OpenSudoku,Dynodroid,5,30,61.81
+OpenSudoku,Dynodroid,5,35,58.5
+OpenSudoku,Dynodroid,5,40,60.76
+OpenSudoku,Dynodroid,5,45,65.58
+OpenSudoku,Dynodroid,5,50,63.79
+OpenSudoku,Dynodroid,5,55,63.59
+OpenSudoku,Dynodroid,5,60,62.98
+OpenSudoku,Dynodroid,6,0,0.0
+OpenSudoku,Dynodroid,6,5,11.77
+OpenSudoku,Dynodroid,6,10,26.3
+OpenSudoku,Dynodroid,6,15,29.37
+OpenSudoku,Dynodroid,6,20,33.49
+OpenSudoku,Dynodroid,6,25,37.26
+OpenSudoku,Dynodroid,6,30,39.7
+OpenSudoku,Dynodroid,6,35,40.93
+OpenSudoku,Dynodroid,6,40,41.97
+OpenSudoku,Dynodroid,6,45,39.97
+OpenSudoku,Dynodroid,6,50,40.85
+OpenSudoku,Dynodroid,6,55,42.71
+OpenSudoku,Dynodroid,6,60,40.93
+OpenSudoku,Dynodroid,7,0,0.0
+OpenSudoku,Dynodroid,7,5,18.79
+OpenSudoku,Dynodroid,7,10,31.56
+OpenSudoku,Dynodroid,7,15,35.89
+OpenSudoku,Dynodroid,7,20,45.1
+OpenSudoku,Dynodroid,7,25,47.35
+OpenSudoku,Dynodroid,7,30,51.23
+OpenSudoku,Dynodroid,7,35,52.98
+OpenSudoku,Dynodroid,7,40,55.33
+OpenSudoku,Dynodroid,7,45,55.69
+OpenSudoku,Dynodroid,7,50,56.18
+OpenSudoku,Dynodroid,7,55,56.66
+OpenSudoku,Dynodroid,7,60,55.15
+OpenSudoku,Dynodroid,8,0,0.05
+OpenSudoku,Dynodroid,8,5,17.68
+OpenSudoku,Dynodroid,8,10,28.44
+OpenSudoku,Dynodroid,8,15,34.24
+OpenSudoku,Dynodroid,8,20,40.24
+OpenSudoku,Dynodroid,8,25,42.89
+OpenSudoku,Dynodroid,8,30,43.87
+OpenSudoku,Dynodroid,8,35,48.58
+OpenSudoku,Dynodroid,8,40,47.72
+OpenSudoku,Dynodroid,8,45,51.38
+OpenSudoku,Dynodroid,8,50,46.31
+OpenSudoku,Dynodroid,8,55,48.22
+OpenSudoku,Dynodroid,8,60,49.3
+OpenSudoku,Dynodroid,9,0,1.71
+OpenSudoku,Dynodroid,9,5,22.26
+OpenSudoku,Dynodroid,9,10,36.64
+OpenSudoku,Dynodroid,9,15,44.22
+OpenSudoku,Dynodroid,9,20,50.7
+OpenSudoku,Dynodroid,9,25,57.29
+OpenSudoku,Dynodroid,9,30,57.69
+OpenSudoku,Dynodroid,9,35,60.91
+OpenSudoku,Dynodroid,9,40,63.77
+OpenSudoku,Dynodroid,9,45,62.43
+OpenSudoku,Dynodroid,9,50,66.9
+OpenSudoku,Dynodroid,9,55,66.73
+OpenSudoku,Dynodroid,9,60,62.8
+OpenSudoku,Dynodroid,10,0,0.0
+OpenSudoku,Dynodroid,10,5,10.33
+OpenSudoku,Dynodroid,10,10,21.81
+OpenSudoku,Dynodroid,10,15,30.32
+OpenSudoku,Dynodroid,10,20,32.69
+OpenSudoku,Dynodroid,10,25,36.78
+OpenSudoku,Dynodroid,10,30,35.67
+OpenSudoku,Dynodroid,10,35,40.4
+OpenSudoku,Dynodroid,10,40,39.21
+OpenSudoku,Dynodroid,10,45,40.62
+OpenSudoku,Dynodroid,10,50,40.84
+OpenSudoku,Dynodroid,10,55,39.32
+OpenSudoku,Dynodroid,10,60,39.67
+OpenSudoku,Ad-hoc,1,0,1.45
+OpenSudoku,Ad-hoc,1,5,10.91
+OpenSudoku,Ad-hoc,1,10,19.92
+OpenSudoku,Ad-hoc,1,15,25.09
+OpenSudoku,Ad-hoc,1,20,29.68
+OpenSudoku,Ad-hoc,1,25,30.67
+OpenSudoku,Ad-hoc,1,30,35.81
+OpenSudoku,Ad-hoc,1,35,38.48
+OpenSudoku,Ad-hoc,1,40,43.24
+OpenSudoku,Ad-hoc,1,45,42.74
+OpenSudoku,Ad-hoc,1,50,45.1
+OpenSudoku,Ad-hoc,1,55,44.54
+OpenSudoku,Ad-hoc,1,60,43.23
+OpenSudoku,Ad-hoc,2,0,0.18
+OpenSudoku,Ad-hoc,2,5,11.03
+OpenSudoku,Ad-hoc,2,10,17.58
+OpenSudoku,Ad-hoc,2,15,24.89
+OpenSudoku,Ad-hoc,2,20,30.2
+OpenSudoku,Ad-hoc,2,25,36.85
+OpenSudoku,Ad-hoc,2,30,34.38
+OpenSudoku,Ad-hoc,2,35,41.69
+OpenSudoku,Ad-hoc,2,40,40.33
+OpenSudoku,Ad-hoc,2,45,41.12
+OpenSudoku,Ad-hoc,2,50,46.08
+OpenSudoku,Ad-hoc,2,55,46.28
+OpenSudoku,Ad-hoc,2,60,47.75
+OpenSudoku,Ad-hoc,3,0,1.2
+OpenSudoku,Ad-hoc,3,5,11.45
+OpenSudoku,Ad-hoc,3,10,15.7
+OpenSudoku,Ad-hoc,3,15,19.7
+OpenSudoku,Ad-hoc,3,20,24.4
+OpenSudoku,Ad-hoc,3,25,28.82
+OpenSudoku,Ad-hoc,3,30,28.18
+OpenSudoku,Ad-hoc,3,35,30.24
+OpenSudoku,Ad-hoc,3,40,32.2
+OpenSudoku,Ad-hoc,3,45,30.64
+OpenSudoku,Ad-hoc,3,50,34.89
+OpenSudoku,Ad-hoc,3,55,32.54
+OpenSudoku,Ad-hoc,3,60,35.98
+OpenSudoku,Ad-hoc,4,0,1.3
+OpenSudoku,Ad-hoc,4,5,10.07
+OpenSudoku,Ad-hoc,4,10,21.71
+OpenSudoku,Ad-hoc,4,15,23.55
+OpenSudoku,Ad-hoc,4,20,32.62
+OpenSudoku,Ad-hoc,4,25,35.82
+OpenSudoku,Ad-hoc,4,30,35.32
+OpenSudoku,Ad-hoc,4,35,44.37
+OpenSudoku,Ad-hoc,4,40,42.08
+OpenSudoku,Ad-hoc,4,45,42.32
+OpenSudoku,Ad-hoc,4,50,42.67
+OpenSudoku,Ad-hoc,4,55,45.33
+OpenSudoku,Ad-hoc,4,60,46.16
+OpenSudoku,Ad-hoc,5,0,0.15
+OpenSudoku,Ad-hoc,5,5,9.99
+OpenSudoku,Ad-hoc,5,10,19.51
+OpenSudoku,Ad-hoc,5,15,24.31
+OpenSudoku,Ad-hoc,5,20,26.91
+OpenSudoku,Ad-hoc,5,25,33.43
+OpenSudoku,Ad-hoc,5,30,33.09
+OpenSudoku,Ad-hoc,5,35,39.5
+OpenSudoku,Ad-hoc,5,40,39.32
+OpenSudoku,Ad-hoc,5,45,42.44
+OpenSudoku,Ad-hoc,5,50,45.27
+OpenSudoku,Ad-hoc,5,55,42.73
+OpenSudoku,Ad-hoc,5,60,46.41
+OpenSudoku,Ad-hoc,6,0,0.0
+OpenSudoku,Ad-hoc,6,5,14.45
+OpenSudoku,Ad-hoc,6,10,20.48
+OpenSudoku,Ad-hoc,6,15,26.94
+OpenSudoku,Ad-hoc,6,20,34.81
+OpenSudoku,Ad-hoc,6,25,37.48
+OpenSudoku,Ad-hoc,6,30,40.25
+OpenSudoku,Ad-hoc,6,35,43.44
+OpenSudoku,Ad-hoc,6,40,46.14
+OpenSudoku,Ad-hoc,6,45,49.82
+OpenSudoku,Ad-hoc,6,50,46.15
+OpenSudoku,Ad-hoc,6,55,50.06
+OpenSudoku,Ad-hoc,6,60,51.72
+OpenSudoku,Ad-hoc,7,0,0.29
+OpenSudoku,Ad-hoc,7,5,14.08
+OpenSudoku,Ad-hoc,7,10,21.43
+OpenSudoku,Ad-hoc,7,15,28.61
+OpenSudoku,Ad-hoc,7,20,35.5
+OpenSudoku,Ad-hoc,7,25,39.21
+OpenSudoku,Ad-hoc,7,30,41.95
+OpenSudoku,Ad-hoc,7,35,46.01
+OpenSudoku,Ad-hoc,7,40,46.36
+OpenSudoku,Ad-hoc,7,45,48.06
+OpenSudoku,Ad-hoc,7,50,49.46
+OpenSudoku,Ad-hoc,7,55,53.28
+OpenSudoku,Ad-hoc,7,60,47.19
+OpenSudoku,Ad-hoc,8,0,0.59
+OpenSudoku,Ad-hoc,8,5,14.5
+OpenSudoku,Ad-hoc,8,10,23.18
+OpenSudoku,Ad-hoc,8,15,34.93
+OpenSudoku,Ad-hoc,8,20,42.0
+OpenSudoku,Ad-hoc,8,25,47.49
+OpenSudoku,Ad-hoc,8,30,46.77
+OpenSudoku,Ad-hoc,8,35,56.02
+OpenSudoku,Ad-hoc,8,40,55.37
+OpenSudoku,Ad-hoc,8,45,59.47
+OpenSudoku,Ad-hoc,8,50,61.07
+OpenSudoku,Ad-hoc,8,55,59.83
+OpenSudoku,Ad-hoc,8,60,63.06
+OpenSudoku,Ad-hoc,9,0,0.0
+OpenSudoku,Ad-hoc,9,5,9.93
+OpenSudoku,Ad-hoc,9,10,24.94
+OpenSudoku,Ad-hoc,9,15,29.94
+OpenSudoku,Ad-hoc,9,20,35.98
+OpenSudoku,Ad-hoc,9,25,41.45
+OpenSudoku,Ad-hoc,9,30,46.2
+OpenSudoku,Ad-hoc,9,35,48.61
+OpenSudoku,Ad-hoc,9,40,51.79
+OpenSudoku,Ad-hoc,9,45,50.72
+OpenSudoku,Ad-hoc,9,50,52.99
+OpenSudoku,Ad-hoc,9,55,55.0
+OpenSudoku,Ad-hoc,9,60,58.85
+OpenSudoku,Ad-hoc,10,0,0.0
+OpenSudoku,Ad-hoc,10,5,12.34
+OpenSudoku,Ad-hoc,10,10,19.11
+OpenSudoku,Ad-hoc,10,15,24.83
+OpenSudoku,Ad-hoc,10,20,30.24
+OpenSudoku,Ad-hoc,10,25,34.3
+OpenSudoku,Ad-hoc,10,30,38.53
+OpenSudoku,Ad-hoc,10,35,42.08
+OpenSudoku,Ad-hoc,10,40,42.42
+OpenSudoku,Ad-hoc,10,45,45.11
+OpenSudoku,Ad-hoc,10,50,43.01
+OpenSudoku,Ad-hoc,10,55,44.71
+OpenSudoku,Ad-hoc,10,60,44.93
+OpenSudoku,SMATA,1,0,0.47
+OpenSudoku,SMATA,1,5,16.04
+OpenSudoku,SMATA,1,10,29.96
+OpenSudoku,SMATA,1,15,36.57
+OpenSudoku,SMATA,1,20,44.77
+OpenSudoku,SMATA,1,25,50.73
+OpenSudoku,SMATA,1,30,50.3
+OpenSudoku,SMATA,1,35,59.32
+OpenSudoku,SMATA,1,40,57.74
+OpenSudoku,SMATA,1,45,56.63
+OpenSudoku,SMATA,1,50,61.02
+OpenSudoku,SMATA,1,55,61.66
+OpenSudoku,SMATA,1,60,62.1
+OpenSudoku,SMATA,2,0,1.49
+OpenSudoku,SMATA,2,5,19.6
+OpenSudoku,SMATA,2,10,32.61
+OpenSudoku,SMATA,2,15,42.98
+OpenSudoku,SMATA,2,20,49.66
+OpenSudoku,SMATA,2,25,58.05
+OpenSudoku,SMATA,2,30,57.29
+OpenSudoku,SMATA,2,35,62.77
+OpenSudoku,SMATA,2,40,64.92
+OpenSudoku,SMATA,2,45,67.72
+OpenSudoku,SMATA,2,50,66.47
+OpenSudoku,SMATA,2,55,66.05
+OpenSudoku,SMATA,2,60,69.58
+OpenSudoku,SMATA,3,0,0.42
+OpenSudoku,SMATA,3,5,18.24
+OpenSudoku,SMATA,3,10,25.95
+OpenSudoku,SMATA,3,15,38.37
+OpenSudoku,SMATA,3,20,46.7
+OpenSudoku,SMATA,3,25,47.4
+OpenSudoku,SMATA,3,30,49.6
+OpenSudoku,SMATA,3,35,53.57
+OpenSudoku,SMATA,3,40,56.16
+OpenSudoku,SMATA,3,45,58.44
+OpenSudoku,SMATA,3,50,57.78
+OpenSudoku,SMATA,3,55,61.8
+OpenSudoku,SMATA,3,60,58.38
+OpenSudoku,SMATA,4,0,0.0
+OpenSudoku,SMATA,4,5,21.97
+OpenSudoku,SMATA,4,10,31.94
+OpenSudoku,SMATA,4,15,46.19
+OpenSudoku,SMATA,4,20,59.43
+OpenSudoku,SMATA,4,25,60.85
+OpenSudoku,SMATA,4,30,63.72
+OpenSudoku,SMATA,4,35,68.67
+OpenSudoku,SMATA,4,40,71.17
+OpenSudoku,SMATA,4,45,73.33
+OpenSudoku,SMATA,4,50,75.44
+OpenSudoku,SMATA,4,55,73.9
+OpenSudoku,SMATA,4,60,78.74
+OpenSudoku,SMATA,5,0,0.37
+OpenSudoku,SMATA,5,5,20.51
+OpenSudoku,SMATA,5,10,32.86
+OpenSudoku,SMATA,5,15,46.39
+OpenSudoku,SMATA,5,20,51.97
+OpenSudoku,SMATA,5,25,58.62
+OpenSudoku,SMATA,5,30,61.14
+OpenSudoku,SMATA,5,35,64.25
+OpenSudoku,SMATA,5,40,69.16
+OpenSudoku,SMATA,5,45,69.22
+OpenSudoku,SMATA,5,50,69.91
+OpenSudoku,SMATA,5,55,71.19
+OpenSudoku,SMATA,5,60,73.92
+OpenSudoku,SMATA,6,0,0.0
+OpenSudoku,SMATA,6,5,16.99
+OpenSudoku,SMATA,6,10,29.9
+OpenSudoku,SMATA,6,15,36.43
+OpenSudoku,SMATA,6,20,44.08
+OpenSudoku,SMATA,6,25,51.96
+OpenSudoku,SMATA,6,30,54.18
+OpenSudoku,SMATA,6,35,59.7
+OpenSudoku,SMATA,6,40,61.67
+OpenSudoku,SMATA,6,45,62.86
+OpenSudoku,SMATA,6,50,65.66
+OpenSudoku,SMATA,6,55,63.66
+OpenSudoku,SMATA,6,60,65.39
+OpenSudoku,SMATA,7,0,0.0
+OpenSudoku,SMATA,7,5,19.14
+OpenSudoku,SMATA,7,10,29.9
+OpenSudoku,SMATA,7,15,35.43
+OpenSudoku,SMATA,7,20,42.28
+OpenSudoku,SMATA,7,25,48.39
+OpenSudoku,SMATA,7,30,49.59
+OpenSudoku,SMATA,7,35,51.38
+OpenSudoku,SMATA,7,40,55.57
+OpenSudoku,SMATA,7,45,55.78
+OpenSudoku,SMATA,7,50,56.97
+OpenSudoku,SMATA,7,55,56.22
+OpenSudoku,SMATA,7,60,55.46
+OpenSudoku,SMATA,8,0,0.35
+OpenSudoku,SMATA,8,5,21.01
+OpenSudoku,SMATA,8,10,33.87
+OpenSudoku,SMATA,8,15,47.15
+OpenSudoku,SMATA,8,20,51.93
+OpenSudoku,SMATA,8,25,57.33
+OpenSudoku,SMATA,8,30,63.19
+OpenSudoku,SMATA,8,35,66.42
+OpenSudoku,SMATA,8,40,70.11
+OpenSudoku,SMATA,8,45,69.57
+OpenSudoku,SMATA,8,50,74.11
+OpenSudoku,SMATA,8,55,75.98
+OpenSudoku,SMATA,8,60,73.7
+OpenSudoku,SMATA,9,0,1.87
+OpenSudoku,SMATA,9,5,16.07
+OpenSudoku,SMATA,9,10,32.34
+OpenSudoku,SMATA,9,15,41.98
+OpenSudoku,SMATA,9,20,48.88
+OpenSudoku,SMATA,9,25,52.88
+OpenSudoku,SMATA,9,30,52.41
+OpenSudoku,SMATA,9,35,58.8
+OpenSudoku,SMATA,9,40,60.98
+OpenSudoku,SMATA,9,45,62.06
+OpenSudoku,SMATA,9,50,64.89
+OpenSudoku,SMATA,9,55,64.96
+OpenSudoku,SMATA,9,60,65.0
+OpenSudoku,SMATA,10,0,0.0
+OpenSudoku,SMATA,10,5,18.42
+OpenSudoku,SMATA,10,10,35.62
+OpenSudoku,SMATA,10,15,43.65
+OpenSudoku,SMATA,10,20,51.79
+OpenSudoku,SMATA,10,25,57.75
+OpenSudoku,SMATA,10,30,63.29
+OpenSudoku,SMATA,10,35,66.69
+OpenSudoku,SMATA,10,40,63.83
+OpenSudoku,SMATA,10,45,71.7
+OpenSudoku,SMATA,10,50,73.63
+OpenSudoku,SMATA,10,55,70.87
+OpenSudoku,SMATA,10,60,71.71

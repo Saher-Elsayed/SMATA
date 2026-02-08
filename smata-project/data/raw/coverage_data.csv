@@ -1,0 +1,401 @@
+app,approach,run,coverage_pct,loc,complexity,has_auth
+AnyMemo,Monkey,1,46.11,12000,medium,False
+AnyMemo,Monkey,2,39.32,12000,medium,False
+AnyMemo,Monkey,3,47.73,12000,medium,False
+AnyMemo,Monkey,4,57.1,12000,medium,False
+AnyMemo,Monkey,5,38.29,12000,medium,False
+AnyMemo,Monkey,6,38.29,12000,medium,False
+AnyMemo,Monkey,7,57.7,12000,medium,False
+AnyMemo,Monkey,8,49.01,12000,medium,False
+AnyMemo,Monkey,9,35.78,12000,medium,False
+AnyMemo,Monkey,10,46.61,12000,medium,False
+AnyMemo,Dynodroid,1,43.84,12000,medium,False
+AnyMemo,Dynodroid,2,43.82,12000,medium,False
+AnyMemo,Dynodroid,3,50.47,12000,medium,False
+AnyMemo,Dynodroid,4,30.22,12000,medium,False
+AnyMemo,Dynodroid,5,31.99,12000,medium,False
+AnyMemo,Dynodroid,6,42.91,12000,medium,False
+AnyMemo,Dynodroid,7,38.68,12000,medium,False
+AnyMemo,Dynodroid,8,51.15,12000,medium,False
+AnyMemo,Dynodroid,9,39.66,12000,medium,False
+AnyMemo,Dynodroid,10,34.92,12000,medium,False
+AnyMemo,Ad-hoc,1,64.27,12000,medium,False
+AnyMemo,Ad-hoc,2,50.57,12000,medium,False
+AnyMemo,Ad-hoc,3,52.95,12000,medium,False
+AnyMemo,Ad-hoc,4,40.86,12000,medium,False
+AnyMemo,Ad-hoc,5,47.99,12000,medium,False
+AnyMemo,Ad-hoc,6,53.3,12000,medium,False
+AnyMemo,Ad-hoc,7,43.08,12000,medium,False
+AnyMemo,Ad-hoc,8,55.44,12000,medium,False
+AnyMemo,Ad-hoc,9,47.53,12000,medium,False
+AnyMemo,Ad-hoc,10,50.04,12000,medium,False
+AnyMemo,SMATA,1,64.97,12000,medium,False
+AnyMemo,SMATA,2,80.18,12000,medium,False
+AnyMemo,SMATA,3,68.62,12000,medium,False
+AnyMemo,SMATA,4,62.14,12000,medium,False
+AnyMemo,SMATA,5,73.8,12000,medium,False
+AnyMemo,SMATA,6,61.13,12000,medium,False
+AnyMemo,SMATA,7,69.99,12000,medium,False
+AnyMemo,SMATA,8,56.55,12000,medium,False
+AnyMemo,SMATA,9,60.47,12000,medium,False
+AnyMemo,SMATA,10,69.92,12000,medium,False
+K-9 Mail,Monkey,1,45.28,45000,high,True
+K-9 Mail,Monkey,2,38.0,45000,high,True
+K-9 Mail,Monkey,3,34.32,45000,high,True
+K-9 Mail,Monkey,4,31.93,45000,high,True
+K-9 Mail,Monkey,5,16.82,45000,high,True
+K-9 Mail,Monkey,6,26.56,45000,high,True
+K-9 Mail,Monkey,7,29.89,45000,high,True
+K-9 Mail,Monkey,8,49.37,45000,high,True
+K-9 Mail,Monkey,9,40.21,45000,high,True
+K-9 Mail,Monkey,10,13.16,45000,high,True
+K-9 Mail,Dynodroid,1,48.86,45000,high,True
+K-9 Mail,Dynodroid,2,40.86,45000,high,True
+K-9 Mail,Dynodroid,3,37.56,45000,high,True
+K-9 Mail,Dynodroid,4,52.1,45000,high,True
+K-9 Mail,Dynodroid,5,56.83,45000,high,True
+K-9 Mail,Dynodroid,6,55.7,45000,high,True
+K-9 Mail,Dynodroid,7,35.73,45000,high,True
+K-9 Mail,Dynodroid,8,41.71,45000,high,True
+K-9 Mail,Dynodroid,9,48.94,45000,high,True
+K-9 Mail,Dynodroid,10,56.2,45000,high,True
+K-9 Mail,Ad-hoc,1,45.74,45000,high,True
+K-9 Mail,Ad-hoc,2,48.6,45000,high,True
+K-9 Mail,Ad-hoc,3,39.65,45000,high,True
+K-9 Mail,Ad-hoc,4,38.77,45000,high,True
+K-9 Mail,Ad-hoc,5,58.3,45000,high,True
+K-9 Mail,Ad-hoc,6,63.58,45000,high,True
+K-9 Mail,Ad-hoc,7,49.7,45000,high,True
+K-9 Mail,Ad-hoc,8,60.15,45000,high,True
+K-9 Mail,Ad-hoc,9,53.92,45000,high,True
+K-9 Mail,Ad-hoc,10,44.13,45000,high,True
+K-9 Mail,SMATA,1,76.39,45000,high,True
+K-9 Mail,SMATA,2,85.14,45000,high,True
+K-9 Mail,SMATA,3,73.43,45000,high,True
+K-9 Mail,SMATA,4,85.34,45000,high,True
+K-9 Mail,SMATA,5,54.21,45000,high,True
+K-9 Mail,SMATA,6,79.81,45000,high,True
+K-9 Mail,SMATA,7,74.35,45000,high,True
+K-9 Mail,SMATA,8,71.48,45000,high,True
+K-9 Mail,SMATA,9,74.38,45000,high,True
+K-9 Mail,SMATA,10,58.91,45000,high,True
+WordPress,Monkey,1,32.98,38000,high,True
+WordPress,Monkey,2,40.39,38000,high,True
+WordPress,Monkey,3,54.78,38000,high,True
+WordPress,Monkey,4,29.15,38000,high,True
+WordPress,Monkey,5,25.42,38000,high,True
+WordPress,Monkey,6,29.36,38000,high,True
+WordPress,Monkey,7,47.55,38000,high,True
+WordPress,Monkey,8,40.02,38000,high,True
+WordPress,Monkey,9,29.0,38000,high,True
+WordPress,Monkey,10,42.39,38000,high,True
+WordPress,Dynodroid,1,46.3,38000,high,True
+WordPress,Dynodroid,2,56.13,38000,high,True
+WordPress,Dynodroid,3,37.28,38000,high,True
+WordPress,Dynodroid,4,41.5,38000,high,True
+WordPress,Dynodroid,5,40.78,38000,high,True
+WordPress,Dynodroid,6,28.69,38000,high,True
+WordPress,Dynodroid,7,48.54,38000,high,True
+WordPress,Dynodroid,8,48.14,38000,high,True
+WordPress,Dynodroid,9,45.26,38000,high,True
+WordPress,Dynodroid,10,42.55,38000,high,True
+WordPress,Ad-hoc,1,36.64,38000,high,True
+WordPress,Ad-hoc,2,46.31,38000,high,True
+WordPress,Ad-hoc,3,47.07,38000,high,True
+WordPress,Ad-hoc,4,42.6,38000,high,True
+WordPress,Ad-hoc,5,48.83,38000,high,True
+WordPress,Ad-hoc,6,54.33,38000,high,True
+WordPress,Ad-hoc,7,68.73,38000,high,True
+WordPress,Ad-hoc,8,52.1,38000,high,True
+WordPress,Ad-hoc,9,52.9,38000,high,True
+WordPress,Ad-hoc,10,49.68,38000,high,True
+WordPress,SMATA,1,59.42,38000,high,True
+WordPress,SMATA,2,73.5,38000,high,True
+WordPress,SMATA,3,74.15,38000,high,True
+WordPress,SMATA,4,92.03,38000,high,True
+WordPress,SMATA,5,72.27,38000,high,True
+WordPress,SMATA,6,75.94,38000,high,True
+WordPress,SMATA,7,73.44,38000,high,True
+WordPress,SMATA,8,65.01,38000,high,True
+WordPress,SMATA,9,82.2,38000,high,True
+WordPress,SMATA,10,79.29,38000,high,True
+Aard Dictionary,Monkey,1,47.99,5000,low,False
+Aard Dictionary,Monkey,2,32.53,5000,low,False
+Aard Dictionary,Monkey,3,53.56,5000,low,False
+Aard Dictionary,Monkey,4,28.05,5000,low,False
+Aard Dictionary,Monkey,5,46.14,5000,low,False
+Aard Dictionary,Monkey,6,60.72,5000,low,False
+Aard Dictionary,Monkey,7,31.79,5000,low,False
+Aard Dictionary,Monkey,8,35.65,5000,low,False
+Aard Dictionary,Monkey,9,41.71,5000,low,False
+Aard Dictionary,Monkey,10,36.22,5000,low,False
+Aard Dictionary,Dynodroid,1,35.81,5000,low,False
+Aard Dictionary,Dynodroid,2,48.75,5000,low,False
+Aard Dictionary,Dynodroid,3,39.71,5000,low,False
+Aard Dictionary,Dynodroid,4,51.98,5000,low,False
+Aard Dictionary,Dynodroid,5,40.85,5000,low,False
+Aard Dictionary,Dynodroid,6,60.58,5000,low,False
+Aard Dictionary,Dynodroid,7,41.94,5000,low,False
+Aard Dictionary,Dynodroid,8,45.63,5000,low,False
+Aard Dictionary,Dynodroid,9,54.7,5000,low,False
+Aard Dictionary,Dynodroid,10,38.37,5000,low,False
+Aard Dictionary,Ad-hoc,1,53.97,5000,low,False
+Aard Dictionary,Ad-hoc,2,61.4,5000,low,False
+Aard Dictionary,Ad-hoc,3,41.33,5000,low,False
+Aard Dictionary,Ad-hoc,4,53.67,5000,low,False
+Aard Dictionary,Ad-hoc,5,54.19,5000,low,False
+Aard Dictionary,Ad-hoc,6,57.78,5000,low,False
+Aard Dictionary,Ad-hoc,7,43.88,5000,low,False
+Aard Dictionary,Ad-hoc,8,43.31,5000,low,False
+Aard Dictionary,Ad-hoc,9,55.99,5000,low,False
+Aard Dictionary,Ad-hoc,10,54.44,5000,low,False
+Aard Dictionary,SMATA,1,70.02,5000,low,False
+Aard Dictionary,SMATA,2,70.53,5000,low,False
+Aard Dictionary,SMATA,3,65.12,5000,low,False
+Aard Dictionary,SMATA,4,69.92,5000,low,False
+Aard Dictionary,SMATA,5,70.24,5000,low,False
+Aard Dictionary,SMATA,6,64.94,5000,low,False
+Aard Dictionary,SMATA,7,78.53,5000,low,False
+Aard Dictionary,SMATA,8,71.2,5000,low,False
+Aard Dictionary,SMATA,9,62.42,5000,low,False
+Aard Dictionary,SMATA,10,72.16,5000,low,False
+ConnectBot,Monkey,1,25.37,18000,medium,True
+ConnectBot,Monkey,2,44.22,18000,medium,True
+ConnectBot,Monkey,3,48.2,18000,medium,True
+ConnectBot,Monkey,4,27.02,18000,medium,True
+ConnectBot,Monkey,5,46.11,18000,medium,True
+ConnectBot,Monkey,6,40.22,18000,medium,True
+ConnectBot,Monkey,7,44.6,18000,medium,True
+ConnectBot,Monkey,8,56.1,18000,medium,True
+ConnectBot,Monkey,9,33.17,18000,medium,True
+ConnectBot,Monkey,10,27.74,18000,medium,True
+ConnectBot,Dynodroid,1,36.84,18000,medium,True
+ConnectBot,Dynodroid,2,37.53,18000,medium,True
+ConnectBot,Dynodroid,3,44.48,18000,medium,True
+ConnectBot,Dynodroid,4,48.41,18000,medium,True
+ConnectBot,Dynodroid,5,47.8,18000,medium,True
+ConnectBot,Dynodroid,6,52.98,18000,medium,True
+ConnectBot,Dynodroid,7,45.32,18000,medium,True
+ConnectBot,Dynodroid,8,58.86,18000,medium,True
+ConnectBot,Dynodroid,9,42.71,18000,medium,True
+ConnectBot,Dynodroid,10,70.77,18000,medium,True
+ConnectBot,Ad-hoc,1,55.47,18000,medium,True
+ConnectBot,Ad-hoc,2,43.46,18000,medium,True
+ConnectBot,Ad-hoc,3,41.73,18000,medium,True
+ConnectBot,Ad-hoc,4,54.31,18000,medium,True
+ConnectBot,Ad-hoc,5,48.59,18000,medium,True
+ConnectBot,Ad-hoc,6,56.18,18000,medium,True
+ConnectBot,Ad-hoc,7,54.23,18000,medium,True
+ConnectBot,Ad-hoc,8,49.81,18000,medium,True
+ConnectBot,Ad-hoc,9,43.54,18000,medium,True
+ConnectBot,Ad-hoc,10,38.13,18000,medium,True
+ConnectBot,SMATA,1,70.93,18000,medium,True
+ConnectBot,SMATA,2,79.01,18000,medium,True
+ConnectBot,SMATA,3,75.03,18000,medium,True
+ConnectBot,SMATA,4,65.98,18000,medium,True
+ConnectBot,SMATA,5,74.77,18000,medium,True
+ConnectBot,SMATA,6,76.09,18000,medium,True
+ConnectBot,SMATA,7,68.22,18000,medium,True
+ConnectBot,SMATA,8,74.65,18000,medium,True
+ConnectBot,SMATA,9,74.06,18000,medium,True
+ConnectBot,SMATA,10,66.61,18000,medium,True
+Tomdroid,Monkey,1,44.05,8000,low,False
+Tomdroid,Monkey,2,45.9,8000,low,False
+Tomdroid,Monkey,3,50.65,8000,low,False
+Tomdroid,Monkey,4,50.38,8000,low,False
+Tomdroid,Monkey,5,28.27,8000,low,False
+Tomdroid,Monkey,6,32.27,8000,low,False
+Tomdroid,Monkey,7,45.48,8000,low,False
+Tomdroid,Monkey,8,45.47,8000,low,False
+Tomdroid,Monkey,9,45.48,8000,low,False
+Tomdroid,Monkey,10,75.84,8000,low,False
+Tomdroid,Dynodroid,1,52.76,8000,low,False
+Tomdroid,Dynodroid,2,57.27,8000,low,False
+Tomdroid,Dynodroid,3,55.82,8000,low,False
+Tomdroid,Dynodroid,4,53.4,8000,low,False
+Tomdroid,Dynodroid,5,45.68,8000,low,False
+Tomdroid,Dynodroid,6,54.26,8000,low,False
+Tomdroid,Dynodroid,7,42.03,8000,low,False
+Tomdroid,Dynodroid,8,46.31,8000,low,False
+Tomdroid,Dynodroid,9,44.32,8000,low,False
+Tomdroid,Dynodroid,10,48.85,8000,low,False
+Tomdroid,Ad-hoc,1,68.34,8000,low,False
+Tomdroid,Ad-hoc,2,39.54,8000,low,False
+Tomdroid,Ad-hoc,3,57.12,8000,low,False
+Tomdroid,Ad-hoc,4,41.3,8000,low,False
+Tomdroid,Ad-hoc,5,49.15,8000,low,False
+Tomdroid,Ad-hoc,6,59.9,8000,low,False
+Tomdroid,Ad-hoc,7,52.84,8000,low,False
+Tomdroid,Ad-hoc,8,44.98,8000,low,False
+Tomdroid,Ad-hoc,9,47.48,8000,low,False
+Tomdroid,Ad-hoc,10,57.08,8000,low,False
+Tomdroid,SMATA,1,64.85,8000,low,False
+Tomdroid,SMATA,2,69.84,8000,low,False
+Tomdroid,SMATA,3,68.94,8000,low,False
+Tomdroid,SMATA,4,65.27,8000,low,False
+Tomdroid,SMATA,5,80.0,8000,low,False
+Tomdroid,SMATA,6,72.04,8000,low,False
+Tomdroid,SMATA,7,58.03,8000,low,False
+Tomdroid,SMATA,8,69.68,8000,low,False
+Tomdroid,SMATA,9,65.21,8000,low,False
+Tomdroid,SMATA,10,73.19,8000,low,False
+OI Notepad,Monkey,1,33.59,6000,low,False
+OI Notepad,Monkey,2,39.76,6000,low,False
+OI Notepad,Monkey,3,45.39,6000,low,False
+OI Notepad,Monkey,4,48.67,6000,low,False
+OI Notepad,Monkey,5,29.88,6000,low,False
+OI Notepad,Monkey,6,37.76,6000,low,False
+OI Notepad,Monkey,7,36.48,6000,low,False
+OI Notepad,Monkey,8,34.86,6000,low,False
+OI Notepad,Monkey,9,56.86,6000,low,False
+OI Notepad,Monkey,10,44.48,6000,low,False
+OI Notepad,Dynodroid,1,38.13,6000,low,False
+OI Notepad,Dynodroid,2,55.53,6000,low,False
+OI Notepad,Dynodroid,3,65.16,6000,low,False
+OI Notepad,Dynodroid,4,56.45,6000,low,False
+OI Notepad,Dynodroid,5,36.06,6000,low,False
+OI Notepad,Dynodroid,6,44.33,6000,low,False
+OI Notepad,Dynodroid,7,58.32,6000,low,False
+OI Notepad,Dynodroid,8,42.55,6000,low,False
+OI Notepad,Dynodroid,9,51.75,6000,low,False
+OI Notepad,Dynodroid,10,54.39,6000,low,False
+OI Notepad,Ad-hoc,1,46.02,6000,low,False
+OI Notepad,Ad-hoc,2,51.99,6000,low,False
+OI Notepad,Ad-hoc,3,30.08,6000,low,False
+OI Notepad,Ad-hoc,4,45.35,6000,low,False
+OI Notepad,Ad-hoc,5,50.66,6000,low,False
+OI Notepad,Ad-hoc,6,43.81,6000,low,False
+OI Notepad,Ad-hoc,7,63.64,6000,low,False
+OI Notepad,Ad-hoc,8,42.55,6000,low,False
+OI Notepad,Ad-hoc,9,49.37,6000,low,False
+OI Notepad,Ad-hoc,10,53.3,6000,low,False
+OI Notepad,SMATA,1,76.3,6000,low,False
+OI Notepad,SMATA,2,61.13,6000,low,False
+OI Notepad,SMATA,3,74.83,6000,low,False
+OI Notepad,SMATA,4,68.75,6000,low,False
+OI Notepad,SMATA,5,63.53,6000,low,False
+OI Notepad,SMATA,6,71.14,6000,low,False
+OI Notepad,SMATA,7,69.75,6000,low,False
+OI Notepad,SMATA,8,65.54,6000,low,False
+OI Notepad,SMATA,9,69.07,6000,low,False
+OI Notepad,SMATA,10,66.67,6000,low,False
+Tippy Tipper,Monkey,1,41.83,2000,low,False
+Tippy Tipper,Monkey,2,46.82,2000,low,False
+Tippy Tipper,Monkey,3,55.22,2000,low,False
+Tippy Tipper,Monkey,4,29.54,2000,low,False
+Tippy Tipper,Monkey,5,60.2,2000,low,False
+Tippy Tipper,Monkey,6,23.05,2000,low,False
+Tippy Tipper,Monkey,7,39.42,2000,low,False
+Tippy Tipper,Monkey,8,46.15,2000,low,False
+Tippy Tipper,Monkey,9,43.36,2000,low,False
+Tippy Tipper,Monkey,10,35.14,2000,low,False
+Tippy Tipper,Dynodroid,1,46.54,2000,low,False
+Tippy Tipper,Dynodroid,2,44.26,2000,low,False
+Tippy Tipper,Dynodroid,3,43.49,2000,low,False
+Tippy Tipper,Dynodroid,4,54.99,2000,low,False
+Tippy Tipper,Dynodroid,5,51.05,2000,low,False
+Tippy Tipper,Dynodroid,6,42.66,2000,low,False
+Tippy Tipper,Dynodroid,7,55.39,2000,low,False
+Tippy Tipper,Dynodroid,8,50.66,2000,low,False
+Tippy Tipper,Dynodroid,9,54.69,2000,low,False
+Tippy Tipper,Dynodroid,10,53.23,2000,low,False
+Tippy Tipper,Ad-hoc,1,46.69,2000,low,False
+Tippy Tipper,Ad-hoc,2,48.54,2000,low,False
+Tippy Tipper,Ad-hoc,3,57.55,2000,low,False
+Tippy Tipper,Ad-hoc,4,56.6,2000,low,False
+Tippy Tipper,Ad-hoc,5,52.26,2000,low,False
+Tippy Tipper,Ad-hoc,6,53.21,2000,low,False
+Tippy Tipper,Ad-hoc,7,61.2,2000,low,False
+Tippy Tipper,Ad-hoc,8,48.33,2000,low,False
+Tippy Tipper,Ad-hoc,9,56.17,2000,low,False
+Tippy Tipper,Ad-hoc,10,51.01,2000,low,False
+Tippy Tipper,SMATA,1,67.55,2000,low,False
+Tippy Tipper,SMATA,2,74.49,2000,low,False
+Tippy Tipper,SMATA,3,73.05,2000,low,False
+Tippy Tipper,SMATA,4,72.99,2000,low,False
+Tippy Tipper,SMATA,5,75.58,2000,low,False
+Tippy Tipper,SMATA,6,68.81,2000,low,False
+Tippy Tipper,SMATA,7,72.29,2000,low,False
+Tippy Tipper,SMATA,8,67.06,2000,low,False
+Tippy Tipper,SMATA,9,70.41,2000,low,False
+Tippy Tipper,SMATA,10,68.01,2000,low,False
+Book Catalogue,Monkey,1,41.84,15000,medium,False
+Book Catalogue,Monkey,2,47.17,15000,medium,False
+Book Catalogue,Monkey,3,32.05,15000,medium,False
+Book Catalogue,Monkey,4,63.19,15000,medium,False
+Book Catalogue,Monkey,5,30.04,15000,medium,False
+Book Catalogue,Monkey,6,27.81,15000,medium,False
+Book Catalogue,Monkey,7,53.19,15000,medium,False
+Book Catalogue,Monkey,8,49.27,15000,medium,False
+Book Catalogue,Monkey,9,47.48,15000,medium,False
+Book Catalogue,Monkey,10,47.52,15000,medium,False
+Book Catalogue,Dynodroid,1,48.08,15000,medium,False
+Book Catalogue,Dynodroid,2,39.77,15000,medium,False
+Book Catalogue,Dynodroid,3,48.91,15000,medium,False
+Book Catalogue,Dynodroid,4,41.83,15000,medium,False
+Book Catalogue,Dynodroid,5,57.37,15000,medium,False
+Book Catalogue,Dynodroid,6,46.82,15000,medium,False
+Book Catalogue,Dynodroid,7,40.44,15000,medium,False
+Book Catalogue,Dynodroid,8,45.18,15000,medium,False
+Book Catalogue,Dynodroid,9,52.08,15000,medium,False
+Book Catalogue,Dynodroid,10,42.9,15000,medium,False
+Book Catalogue,Ad-hoc,1,45.74,15000,medium,False
+Book Catalogue,Ad-hoc,2,54.37,15000,medium,False
+Book Catalogue,Ad-hoc,3,54.38,15000,medium,False
+Book Catalogue,Ad-hoc,4,48.29,15000,medium,False
+Book Catalogue,Ad-hoc,5,48.58,15000,medium,False
+Book Catalogue,Ad-hoc,6,54.28,15000,medium,False
+Book Catalogue,Ad-hoc,7,40.67,15000,medium,False
+Book Catalogue,Ad-hoc,8,41.0,15000,medium,False
+Book Catalogue,Ad-hoc,9,46.58,15000,medium,False
+Book Catalogue,Ad-hoc,10,50.67,15000,medium,False
+Book Catalogue,SMATA,1,70.63,15000,medium,False
+Book Catalogue,SMATA,2,77.85,15000,medium,False
+Book Catalogue,SMATA,3,74.02,15000,medium,False
+Book Catalogue,SMATA,4,67.71,15000,medium,False
+Book Catalogue,SMATA,5,68.58,15000,medium,False
+Book Catalogue,SMATA,6,62.48,15000,medium,False
+Book Catalogue,SMATA,7,68.59,15000,medium,False
+Book Catalogue,SMATA,8,66.91,15000,medium,False
+Book Catalogue,SMATA,9,70.7,15000,medium,False
+Book Catalogue,SMATA,10,63.57,15000,medium,False
+OpenSudoku,Monkey,1,45.52,7000,low,False
+OpenSudoku,Monkey,2,54.74,7000,low,False
+OpenSudoku,Monkey,3,39.81,7000,low,False
+OpenSudoku,Monkey,4,44.45,7000,low,False
+OpenSudoku,Monkey,5,47.08,7000,low,False
+OpenSudoku,Monkey,6,37.15,7000,low,False
+OpenSudoku,Monkey,7,42.84,7000,low,False
+OpenSudoku,Monkey,8,40.91,7000,low,False
+OpenSudoku,Monkey,9,41.69,7000,low,False
+OpenSudoku,Monkey,10,33.77,7000,low,False
+OpenSudoku,Dynodroid,1,48.4,7000,low,False
+OpenSudoku,Dynodroid,2,52.18,7000,low,False
+OpenSudoku,Dynodroid,3,59.79,7000,low,False
+OpenSudoku,Dynodroid,4,55.86,7000,low,False
+OpenSudoku,Dynodroid,5,65.4,7000,low,False
+OpenSudoku,Dynodroid,6,42.07,7000,low,False
+OpenSudoku,Dynodroid,7,55.17,7000,low,False
+OpenSudoku,Dynodroid,8,49.66,7000,low,False
+OpenSudoku,Dynodroid,9,65.7,7000,low,False
+OpenSudoku,Dynodroid,10,41.74,7000,low,False
+OpenSudoku,Ad-hoc,1,46.62,7000,low,False
+OpenSudoku,Ad-hoc,2,48.27,7000,low,False
+OpenSudoku,Ad-hoc,3,37.78,7000,low,False
+OpenSudoku,Ad-hoc,4,48.78,7000,low,False
+OpenSudoku,Ad-hoc,5,47.17,7000,low,False
+OpenSudoku,Ad-hoc,6,53.44,7000,low,False
+OpenSudoku,Ad-hoc,7,54.75,7000,low,False
+OpenSudoku,Ad-hoc,8,65.32,7000,low,False
+OpenSudoku,Ad-hoc,9,58.94,7000,low,False
+OpenSudoku,Ad-hoc,10,48.43,7000,low,False
+OpenSudoku,SMATA,1,63.97,7000,low,False
+OpenSudoku,SMATA,2,71.29,7000,low,False
+OpenSudoku,SMATA,3,61.74,7000,low,False
+OpenSudoku,SMATA,4,78.35,7000,low,False
+OpenSudoku,SMATA,5,74.92,7000,low,False
+OpenSudoku,SMATA,6,66.23,7000,low,False
+OpenSudoku,SMATA,7,59.67,7000,low,False
+OpenSudoku,SMATA,8,75.83,7000,low,False
+OpenSudoku,SMATA,9,68.1,7000,low,False
+OpenSudoku,SMATA,10,75.22,7000,low,False

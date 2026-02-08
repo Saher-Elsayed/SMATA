@@ -1,0 +1,344 @@
+{
+  "coverage": {
+    "metric": "Code Coverage (%)",
+    "normality": [
+      {
+        "group": "Ad-hoc",
+        "W_statistic": 0.9923,
+        "p_value": 0.8402,
+        "normal": "True"
+      },
+      {
+        "group": "Dynodroid",
+        "W_statistic": 0.9892,
+        "p_value": 0.6,
+        "normal": "True"
+      },
+      {
+        "group": "Monkey",
+        "W_statistic": 0.987,
+        "p_value": 0.4405,
+        "normal": "True"
+      },
+      {
+        "group": "SMATA",
+        "W_statistic": 0.9899,
+        "p_value": 0.6561,
+        "normal": "True"
+      }
+    ],
+    "mann_whitney": [
+      {
+        "comparison": "SMATA vs Ad-hoc",
+        "U_statistic": 9798.0,
+        "p_value": 9.811912262165748e-32,
+        "p_value_str": "9.81e-32",
+        "bonferroni_alpha": 0.016666666666666666,
+        "significant": "True",
+        "cliffs_delta": 0.96,
+        "effect_size": "large",
+        "smata_mean": 70.39,
+        "baseline_mean": 50.33
+      },
+      {
+        "comparison": "SMATA vs Dynodroid",
+        "U_statistic": 9839.0,
+        "p_value": 2.991945617251333e-32,
+        "p_value_str": "2.99e-32",
+        "bonferroni_alpha": 0.016666666666666666,
+        "significant": "True",
+        "cliffs_delta": 0.968,
+        "effect_size": "large",
+        "smata_mean": 70.39,
+        "baseline_mean": 47.61
+      },
+      {
+        "comparison": "SMATA vs Monkey",
+        "U_statistic": 9880.0,
+        "p_value": 9.031418792290307e-33,
+        "p_value_str": "9.03e-33",
+        "bonferroni_alpha": 0.016666666666666666,
+        "significant": "True",
+        "cliffs_delta": 0.976,
+        "effect_size": "large",
+        "smata_mean": 70.39,
+        "baseline_mean": 41.19
+      }
+    ]
+  },
+  "detection": {
+    "metric": "Fault Detection Rate (%)",
+    "normality": [
+      {
+        "group": "Ad-hoc",
+        "W_statistic": 0.9893,
+        "p_value": 0.606,
+        "normal": "True"
+      },
+      {
+        "group": "Dynodroid",
+        "W_statistic": 0.9921,
+        "p_value": 0.831,
+        "normal": "True"
+      },
+      {
+        "group": "Monkey",
+        "W_statistic": 0.9931,
+        "p_value": 0.8969,
+        "normal": "True"
+      },
+      {
+        "group": "SMATA",
+        "W_statistic": 0.989,
+        "p_value": 0.5871,
+        "normal": "True"
+      }
+    ],
+    "mann_whitney": [
+      {
+        "comparison": "SMATA vs Ad-hoc",
+        "U_statistic": 9846.5,
+        "p_value": 2.4049420214011874e-32,
+        "p_value_str": "2.40e-32",
+        "bonferroni_alpha": 0.016666666666666666,
+        "significant": "True",
+        "cliffs_delta": 0.969,
+        "effect_size": "large",
+        "smata_mean": 67.86,
+        "baseline_mean": 52.58
+      },
+      {
+        "comparison": "SMATA vs Dynodroid",
+        "U_statistic": 9939.0,
+        "p_value": 1.5836073347273686e-33,
+        "p_value_str": "1.58e-33",
+        "bonferroni_alpha": 0.016666666666666666,
+        "significant": "True",
+        "cliffs_delta": 0.988,
+        "effect_size": "large",
+        "smata_mean": 67.86,
+        "baseline_mean": 47.72
+      },
+      {
+        "comparison": "SMATA vs Monkey",
+        "U_statistic": 10000.0,
+        "p_value": 2.5618550313305253e-34,
+        "p_value_str": "2.56e-34",
+        "bonferroni_alpha": 0.016666666666666666,
+        "significant": "True",
+        "cliffs_delta": 1.0,
+        "effect_size": "large",
+        "smata_mean": 67.86,
+        "baseline_mean": 35.37
+      }
+    ]
+  },
+  "reproducibility": {
+    "metric": "Bug Reproducibility (%)",
+    "normality": [
+      {
+        "group": "Ad-hoc",
+        "W_statistic": 0.9822,
+        "p_value": 0.1972,
+        "normal": "True"
+      },
+      {
+        "group": "Dynodroid",
+        "W_statistic": 0.992,
+        "p_value": 0.8177,
+        "normal": "True"
+      },
+      {
+        "group": "Monkey",
+        "W_statistic": 0.9835,
+        "p_value": 0.2463,
+        "normal": "True"
+      },
+      {
+        "group": "SMATA",
+        "W_statistic": 0.9699,
+        "p_value": 0.0218,
+        "normal": "False"
+      }
+    ],
+    "mann_whitney": [
+      {
+        "comparison": "SMATA vs Ad-hoc",
+        "U_statistic": 9934.0,
+        "p_value": 1.8369444403675408e-33,
+        "p_value_str": "1.84e-33",
+        "bonferroni_alpha": 0.016666666666666666,
+        "significant": "True",
+        "cliffs_delta": 0.987,
+        "effect_size": "large",
+        "smata_mean": 90.73,
+        "baseline_mean": 57.09
+      },
+      {
+        "comparison": "SMATA vs Dynodroid",
+        "U_statistic": 10000.0,
+        "p_value": 2.5612778506218747e-34,
+        "p_value_str": "2.56e-34",
+        "bonferroni_alpha": 0.016666666666666666,
+        "significant": "True",
+        "cliffs_delta": 1.0,
+        "effect_size": "large",
+        "smata_mean": 90.73,
+        "baseline_mean": 37.25
+      },
+      {
+        "comparison": "SMATA vs Monkey",
+        "U_statistic": 10000.0,
+        "p_value": 2.561422133930514e-34,
+        "p_value_str": "2.56e-34",
+        "bonferroni_alpha": 0.016666666666666666,
+        "significant": "True",
+        "cliffs_delta": 1.0,
+        "effect_size": "large",
+        "smata_mean": 90.73,
+        "baseline_mean": 23.78
+      }
+    ]
+  },
+  "debug_time": {
+    "metric": "Debug Time (min/bug)",
+    "normality": [
+      {
+        "group": "Ad-hoc",
+        "W_statistic": 0.9909,
+        "p_value": 0.7355,
+        "normal": "True"
+      },
+      {
+        "group": "Dynodroid",
+        "W_statistic": 0.9941,
+        "p_value": 0.9465,
+        "normal": "True"
+      },
+      {
+        "group": "Monkey",
+        "W_statistic": 0.9926,
+        "p_value": 0.8646,
+        "normal": "True"
+      },
+      {
+        "group": "SMATA",
+        "W_statistic": 0.9919,
+        "p_value": 0.8104,
+        "normal": "True"
+      }
+    ],
+    "mann_whitney": [
+      {
+        "comparison": "SMATA vs Ad-hoc",
+        "U_statistic": 1401.5,
+        "p_value": 1.475963861475135e-18,
+        "p_value_str": "1.48e-18",
+        "bonferroni_alpha": 0.016666666666666666,
+        "significant": "True",
+        "cliffs_delta": -0.72,
+        "effect_size": "large",
+        "smata_mean": 27.39,
+        "baseline_mean": 47.02
+      },
+      {
+        "comparison": "SMATA vs Dynodroid",
+        "U_statistic": 234.0,
+        "p_value": 2.4588910133973094e-31,
+        "p_value_str": "2.46e-31",
+        "bonferroni_alpha": 0.016666666666666666,
+        "significant": "True",
+        "cliffs_delta": -0.953,
+        "effect_size": "large",
+        "smata_mean": 27.39,
+        "baseline_mean": 66.78
+      },
+      {
+        "comparison": "SMATA vs Monkey",
+        "U_statistic": 264.0,
+        "p_value": 5.794399817899597e-31,
+        "p_value_str": "5.79e-31",
+        "bonferroni_alpha": 0.016666666666666666,
+        "significant": "True",
+        "cliffs_delta": -0.947,
+        "effect_size": "large",
+        "smata_mean": 27.39,
+        "baseline_mean": 78.41
+      }
+    ]
+  },
+  "setup_time": {
+    "metric": "Setup Time (hours)",
+    "normality": [
+      {
+        "group": "Ad-hoc",
+        "W_statistic": 0.9866,
+        "p_value": 0.4094,
+        "normal": "True"
+      },
+      {
+        "group": "Dynodroid",
+        "W_statistic": 0.9773,
+        "p_value": 0.0818,
+        "normal": "True"
+      },
+      {
+        "group": "Monkey",
+        "W_statistic": 0.9867,
+        "p_value": 0.4148,
+        "normal": "True"
+      },
+      {
+        "group": "SMATA",
+        "W_statistic": 0.992,
+        "p_value": 0.8223,
+        "normal": "True"
+      }
+    ],
+    "mann_whitney": [
+      {
+        "comparison": "SMATA vs Ad-hoc",
+        "U_statistic": 44.0,
+        "p_value": 9.549434814040035e-34,
+        "p_value_str": "9.55e-34",
+        "bonferroni_alpha": 0.016666666666666666,
+        "significant": "True",
+        "cliffs_delta": -0.991,
+        "effect_size": "large",
+        "smata_mean": 5.23,
+        "baseline_mean": 18.58
+      },
+      {
+        "comparison": "SMATA vs Dynodroid",
+        "U_statistic": 6346.5,
+        "p_value": 0.001006017517716914,
+        "p_value_str": "0.0010",
+        "bonferroni_alpha": 0.016666666666666666,
+        "significant": "True",
+        "cliffs_delta": 0.269,
+        "effect_size": "small",
+        "smata_mean": 5.23,
+        "baseline_mean": 4.44
+      },
+      {
+        "comparison": "SMATA vs Monkey",
+        "U_statistic": 9832.5,
+        "p_value": 3.5983097819725885e-32,
+        "p_value_str": "3.60e-32",
+        "bonferroni_alpha": 0.016666666666666666,
+        "significant": "True",
+        "cliffs_delta": 0.967,
+        "effect_size": "large",
+        "smata_mean": 5.23,
+        "baseline_mean": 1.1
+      }
+    ]
+  },
+  "smata_reuse_vs_adhoc": {
+    "U_statistic": 0.0,
+    "p_value": 2.5560889174133048e-34,
+    "cliffs_delta": -1.0,
+    "effect_size": "large",
+    "reduction_percent": 88.6
+  }
+}

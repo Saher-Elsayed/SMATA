@@ -1,0 +1,401 @@
+app,approach,run,debug_time_min
+AnyMemo,Monkey,1,44.1
+AnyMemo,Monkey,2,56.9
+AnyMemo,Monkey,3,56.3
+AnyMemo,Monkey,4,93.8
+AnyMemo,Monkey,5,66.2
+AnyMemo,Monkey,6,101.9
+AnyMemo,Monkey,7,57.4
+AnyMemo,Monkey,8,79.5
+AnyMemo,Monkey,9,53.6
+AnyMemo,Monkey,10,122.8
+AnyMemo,Dynodroid,1,39.9
+AnyMemo,Dynodroid,2,71.5
+AnyMemo,Dynodroid,3,78.4
+AnyMemo,Dynodroid,4,73.7
+AnyMemo,Dynodroid,5,61.1
+AnyMemo,Dynodroid,6,62.3
+AnyMemo,Dynodroid,7,65.9
+AnyMemo,Dynodroid,8,61.9
+AnyMemo,Dynodroid,9,85.3
+AnyMemo,Dynodroid,10,111.6
+AnyMemo,Ad-hoc,1,37.5
+AnyMemo,Ad-hoc,2,23.7
+AnyMemo,Ad-hoc,3,45.5
+AnyMemo,Ad-hoc,4,90.9
+AnyMemo,Ad-hoc,5,33.3
+AnyMemo,Ad-hoc,6,74.9
+AnyMemo,Ad-hoc,7,75.5
+AnyMemo,Ad-hoc,8,37.6
+AnyMemo,Ad-hoc,9,56.7
+AnyMemo,Ad-hoc,10,74.7
+AnyMemo,SMATA,1,25.5
+AnyMemo,SMATA,2,26.8
+AnyMemo,SMATA,3,23.9
+AnyMemo,SMATA,4,20.6
+AnyMemo,SMATA,5,23.4
+AnyMemo,SMATA,6,19.0
+AnyMemo,SMATA,7,28.7
+AnyMemo,SMATA,8,22.5
+AnyMemo,SMATA,9,30.2
+AnyMemo,SMATA,10,16.4
+K-9 Mail,Monkey,1,80.7
+K-9 Mail,Monkey,2,92.3
+K-9 Mail,Monkey,3,26.7
+K-9 Mail,Monkey,4,81.7
+K-9 Mail,Monkey,5,101.5
+K-9 Mail,Monkey,6,44.9
+K-9 Mail,Monkey,7,111.8
+K-9 Mail,Monkey,8,82.7
+K-9 Mail,Monkey,9,56.6
+K-9 Mail,Monkey,10,71.7
+K-9 Mail,Dynodroid,1,76.8
+K-9 Mail,Dynodroid,2,66.6
+K-9 Mail,Dynodroid,3,76.4
+K-9 Mail,Dynodroid,4,45.6
+K-9 Mail,Dynodroid,5,68.6
+K-9 Mail,Dynodroid,6,35.2
+K-9 Mail,Dynodroid,7,62.7
+K-9 Mail,Dynodroid,8,45.9
+K-9 Mail,Dynodroid,9,49.5
+K-9 Mail,Dynodroid,10,91.1
+K-9 Mail,Ad-hoc,1,65.6
+K-9 Mail,Ad-hoc,2,57.4
+K-9 Mail,Ad-hoc,3,28.4
+K-9 Mail,Ad-hoc,4,41.6
+K-9 Mail,Ad-hoc,5,67.6
+K-9 Mail,Ad-hoc,6,49.4
+K-9 Mail,Ad-hoc,7,86.4
+K-9 Mail,Ad-hoc,8,53.7
+K-9 Mail,Ad-hoc,9,50.3
+K-9 Mail,Ad-hoc,10,41.7
+K-9 Mail,SMATA,1,29.4
+K-9 Mail,SMATA,2,27.2
+K-9 Mail,SMATA,3,33.9
+K-9 Mail,SMATA,4,35.8
+K-9 Mail,SMATA,5,22.3
+K-9 Mail,SMATA,6,18.1
+K-9 Mail,SMATA,7,14.3
+K-9 Mail,SMATA,8,32.3
+K-9 Mail,SMATA,9,19.9
+K-9 Mail,SMATA,10,11.8
+WordPress,Monkey,1,82.0
+WordPress,Monkey,2,130.8
+WordPress,Monkey,3,72.9
+WordPress,Monkey,4,92.5
+WordPress,Monkey,5,74.9
+WordPress,Monkey,6,70.7
+WordPress,Monkey,7,94.3
+WordPress,Monkey,8,66.3
+WordPress,Monkey,9,79.2
+WordPress,Monkey,10,80.5
+WordPress,Dynodroid,1,50.9
+WordPress,Dynodroid,2,85.9
+WordPress,Dynodroid,3,61.3
+WordPress,Dynodroid,4,49.1
+WordPress,Dynodroid,5,76.3
+WordPress,Dynodroid,6,46.0
+WordPress,Dynodroid,7,65.6
+WordPress,Dynodroid,8,64.8
+WordPress,Dynodroid,9,87.9
+WordPress,Dynodroid,10,75.0
+WordPress,Ad-hoc,1,46.6
+WordPress,Ad-hoc,2,60.9
+WordPress,Ad-hoc,3,70.6
+WordPress,Ad-hoc,4,56.5
+WordPress,Ad-hoc,5,47.2
+WordPress,Ad-hoc,6,24.7
+WordPress,Ad-hoc,7,28.9
+WordPress,Ad-hoc,8,41.8
+WordPress,Ad-hoc,9,36.6
+WordPress,Ad-hoc,10,43.8
+WordPress,SMATA,1,28.8
+WordPress,SMATA,2,32.5
+WordPress,SMATA,3,27.9
+WordPress,SMATA,4,32.1
+WordPress,SMATA,5,28.9
+WordPress,SMATA,6,13.2
+WordPress,SMATA,7,21.2
+WordPress,SMATA,8,27.3
+WordPress,SMATA,9,19.1
+WordPress,SMATA,10,33.0
+Aard Dictionary,Monkey,1,108.5
+Aard Dictionary,Monkey,2,101.3
+Aard Dictionary,Monkey,3,68.0
+Aard Dictionary,Monkey,4,107.6
+Aard Dictionary,Monkey,5,76.4
+Aard Dictionary,Monkey,6,65.2
+Aard Dictionary,Monkey,7,58.8
+Aard Dictionary,Monkey,8,66.0
+Aard Dictionary,Monkey,9,64.0
+Aard Dictionary,Monkey,10,77.0
+Aard Dictionary,Dynodroid,1,68.4
+Aard Dictionary,Dynodroid,2,65.1
+Aard Dictionary,Dynodroid,3,74.2
+Aard Dictionary,Dynodroid,4,90.1
+Aard Dictionary,Dynodroid,5,85.0
+Aard Dictionary,Dynodroid,6,33.7
+Aard Dictionary,Dynodroid,7,11.1
+Aard Dictionary,Dynodroid,8,84.7
+Aard Dictionary,Dynodroid,9,36.2
+Aard Dictionary,Dynodroid,10,60.3
+Aard Dictionary,Ad-hoc,1,27.1
+Aard Dictionary,Ad-hoc,2,16.4
+Aard Dictionary,Ad-hoc,3,56.2
+Aard Dictionary,Ad-hoc,4,59.9
+Aard Dictionary,Ad-hoc,5,37.2
+Aard Dictionary,Ad-hoc,6,5.0
+Aard Dictionary,Ad-hoc,7,37.7
+Aard Dictionary,Ad-hoc,8,53.7
+Aard Dictionary,Ad-hoc,9,21.9
+Aard Dictionary,Ad-hoc,10,50.1
+Aard Dictionary,SMATA,1,28.3
+Aard Dictionary,SMATA,2,32.9
+Aard Dictionary,SMATA,3,29.3
+Aard Dictionary,SMATA,4,20.9
+Aard Dictionary,SMATA,5,37.6
+Aard Dictionary,SMATA,6,27.2
+Aard Dictionary,SMATA,7,28.2
+Aard Dictionary,SMATA,8,21.2
+Aard Dictionary,SMATA,9,25.0
+Aard Dictionary,SMATA,10,21.6
+ConnectBot,Monkey,1,69.0
+ConnectBot,Monkey,2,112.7
+ConnectBot,Monkey,3,41.2
+ConnectBot,Monkey,4,35.6
+ConnectBot,Monkey,5,107.1
+ConnectBot,Monkey,6,68.1
+ConnectBot,Monkey,7,57.5
+ConnectBot,Monkey,8,97.1
+ConnectBot,Monkey,9,58.9
+ConnectBot,Monkey,10,115.4
+ConnectBot,Dynodroid,1,79.3
+ConnectBot,Dynodroid,2,54.7
+ConnectBot,Dynodroid,3,110.5
+ConnectBot,Dynodroid,4,52.2
+ConnectBot,Dynodroid,5,80.7
+ConnectBot,Dynodroid,6,71.3
+ConnectBot,Dynodroid,7,92.5
+ConnectBot,Dynodroid,8,97.9
+ConnectBot,Dynodroid,9,65.7
+ConnectBot,Dynodroid,10,49.1
+ConnectBot,Ad-hoc,1,54.8
+ConnectBot,Ad-hoc,2,35.5
+ConnectBot,Ad-hoc,3,81.2
+ConnectBot,Ad-hoc,4,49.3
+ConnectBot,Ad-hoc,5,40.8
+ConnectBot,Ad-hoc,6,50.1
+ConnectBot,Ad-hoc,7,24.1
+ConnectBot,Ad-hoc,8,30.5
+ConnectBot,Ad-hoc,9,67.4
+ConnectBot,Ad-hoc,10,35.8
+ConnectBot,SMATA,1,20.3
+ConnectBot,SMATA,2,32.5
+ConnectBot,SMATA,3,37.5
+ConnectBot,SMATA,4,33.9
+ConnectBot,SMATA,5,36.1
+ConnectBot,SMATA,6,22.6
+ConnectBot,SMATA,7,17.5
+ConnectBot,SMATA,8,40.0
+ConnectBot,SMATA,9,25.9
+ConnectBot,SMATA,10,26.5
+Tomdroid,Monkey,1,103.8
+Tomdroid,Monkey,2,85.9
+Tomdroid,Monkey,3,83.6
+Tomdroid,Monkey,4,123.2
+Tomdroid,Monkey,5,58.1
+Tomdroid,Monkey,6,94.5
+Tomdroid,Monkey,7,74.3
+Tomdroid,Monkey,8,79.2
+Tomdroid,Monkey,9,108.5
+Tomdroid,Monkey,10,84.8
+Tomdroid,Dynodroid,1,76.4
+Tomdroid,Dynodroid,2,87.6
+Tomdroid,Dynodroid,3,57.3
+Tomdroid,Dynodroid,4,47.3
+Tomdroid,Dynodroid,5,43.0
+Tomdroid,Dynodroid,6,23.5
+Tomdroid,Dynodroid,7,108.4
+Tomdroid,Dynodroid,8,41.7
+Tomdroid,Dynodroid,9,60.3
+Tomdroid,Dynodroid,10,59.2
+Tomdroid,Ad-hoc,1,52.2
+Tomdroid,Ad-hoc,2,60.9
+Tomdroid,Ad-hoc,3,61.6
+Tomdroid,Ad-hoc,4,37.1
+Tomdroid,Ad-hoc,5,44.2
+Tomdroid,Ad-hoc,6,51.8
+Tomdroid,Ad-hoc,7,42.8
+Tomdroid,Ad-hoc,8,74.3
+Tomdroid,Ad-hoc,9,55.3
+Tomdroid,Ad-hoc,10,59.5
+Tomdroid,SMATA,1,33.5
+Tomdroid,SMATA,2,37.4
+Tomdroid,SMATA,3,29.8
+Tomdroid,SMATA,4,18.4
+Tomdroid,SMATA,5,31.5
+Tomdroid,SMATA,6,23.4
+Tomdroid,SMATA,7,24.3
+Tomdroid,SMATA,8,32.9
+Tomdroid,SMATA,9,37.9
+Tomdroid,SMATA,10,28.6
+OI Notepad,Monkey,1,80.2
+OI Notepad,Monkey,2,112.5
+OI Notepad,Monkey,3,78.6
+OI Notepad,Monkey,4,133.4
+OI Notepad,Monkey,5,86.1
+OI Notepad,Monkey,6,32.2
+OI Notepad,Monkey,7,90.5
+OI Notepad,Monkey,8,81.8
+OI Notepad,Monkey,9,102.9
+OI Notepad,Monkey,10,88.6
+OI Notepad,Dynodroid,1,62.1
+OI Notepad,Dynodroid,2,39.2
+OI Notepad,Dynodroid,3,60.6
+OI Notepad,Dynodroid,4,47.1
+OI Notepad,Dynodroid,5,52.8
+OI Notepad,Dynodroid,6,77.4
+OI Notepad,Dynodroid,7,100.2
+OI Notepad,Dynodroid,8,73.3
+OI Notepad,Dynodroid,9,39.8
+OI Notepad,Dynodroid,10,74.4
+OI Notepad,Ad-hoc,1,67.3
+OI Notepad,Ad-hoc,2,36.6
+OI Notepad,Ad-hoc,3,44.7
+OI Notepad,Ad-hoc,4,47.2
+OI Notepad,Ad-hoc,5,33.7
+OI Notepad,Ad-hoc,6,58.0
+OI Notepad,Ad-hoc,7,44.9
+OI Notepad,Ad-hoc,8,54.1
+OI Notepad,Ad-hoc,9,31.9
+OI Notepad,Ad-hoc,10,39.6
+OI Notepad,SMATA,1,34.0
+OI Notepad,SMATA,2,25.5
+OI Notepad,SMATA,3,41.7
+OI Notepad,SMATA,4,25.3
+OI Notepad,SMATA,5,30.1
+OI Notepad,SMATA,6,35.6
+OI Notepad,SMATA,7,17.5
+OI Notepad,SMATA,8,14.8
+OI Notepad,SMATA,9,16.7
+OI Notepad,SMATA,10,38.1
+Tippy Tipper,Monkey,1,60.2
+Tippy Tipper,Monkey,2,132.4
+Tippy Tipper,Monkey,3,59.9
+Tippy Tipper,Monkey,4,77.3
+Tippy Tipper,Monkey,5,108.8
+Tippy Tipper,Monkey,6,119.5
+Tippy Tipper,Monkey,7,120.8
+Tippy Tipper,Monkey,8,101.0
+Tippy Tipper,Monkey,9,96.8
+Tippy Tipper,Monkey,10,86.7
+Tippy Tipper,Dynodroid,1,81.4
+Tippy Tipper,Dynodroid,2,53.4
+Tippy Tipper,Dynodroid,3,47.7
+Tippy Tipper,Dynodroid,4,64.9
+Tippy Tipper,Dynodroid,5,61.4
+Tippy Tipper,Dynodroid,6,55.4
+Tippy Tipper,Dynodroid,7,79.7
+Tippy Tipper,Dynodroid,8,85.2
+Tippy Tipper,Dynodroid,9,66.9
+Tippy Tipper,Dynodroid,10,96.2
+Tippy Tipper,Ad-hoc,1,27.6
+Tippy Tipper,Ad-hoc,2,43.7
+Tippy Tipper,Ad-hoc,3,34.8
+Tippy Tipper,Ad-hoc,4,15.3
+Tippy Tipper,Ad-hoc,5,45.6
+Tippy Tipper,Ad-hoc,6,44.9
+Tippy Tipper,Ad-hoc,7,72.7
+Tippy Tipper,Ad-hoc,8,57.7
+Tippy Tipper,Ad-hoc,9,29.6
+Tippy Tipper,Ad-hoc,10,78.5
+Tippy Tipper,SMATA,1,37.8
+Tippy Tipper,SMATA,2,32.9
+Tippy Tipper,SMATA,3,26.7
+Tippy Tipper,SMATA,4,21.0
+Tippy Tipper,SMATA,5,25.5
+Tippy Tipper,SMATA,6,36.8
+Tippy Tipper,SMATA,7,42.9
+Tippy Tipper,SMATA,8,40.3
+Tippy Tipper,SMATA,9,24.6
+Tippy Tipper,SMATA,10,19.8
+Book Catalogue,Monkey,1,76.3
+Book Catalogue,Monkey,2,32.0
+Book Catalogue,Monkey,3,80.5
+Book Catalogue,Monkey,4,69.6
+Book Catalogue,Monkey,5,62.2
+Book Catalogue,Monkey,6,36.0
+Book Catalogue,Monkey,7,84.9
+Book Catalogue,Monkey,8,60.6
+Book Catalogue,Monkey,9,45.9
+Book Catalogue,Monkey,10,6.4
+Book Catalogue,Dynodroid,1,64.4
+Book Catalogue,Dynodroid,2,102.4
+Book Catalogue,Dynodroid,3,100.1
+Book Catalogue,Dynodroid,4,55.4
+Book Catalogue,Dynodroid,5,52.3
+Book Catalogue,Dynodroid,6,74.9
+Book Catalogue,Dynodroid,7,43.9
+Book Catalogue,Dynodroid,8,71.4
+Book Catalogue,Dynodroid,9,81.2
+Book Catalogue,Dynodroid,10,90.9
+Book Catalogue,Ad-hoc,1,45.3
+Book Catalogue,Ad-hoc,2,43.5
+Book Catalogue,Ad-hoc,3,32.1
+Book Catalogue,Ad-hoc,4,32.9
+Book Catalogue,Ad-hoc,5,43.1
+Book Catalogue,Ad-hoc,6,53.2
+Book Catalogue,Ad-hoc,7,62.5
+Book Catalogue,Ad-hoc,8,33.3
+Book Catalogue,Ad-hoc,9,72.4
+Book Catalogue,Ad-hoc,10,42.4
+Book Catalogue,SMATA,1,28.2
+Book Catalogue,SMATA,2,22.6
+Book Catalogue,SMATA,3,9.7
+Book Catalogue,SMATA,4,35.2
+Book Catalogue,SMATA,5,34.1
+Book Catalogue,SMATA,6,26.2
+Book Catalogue,SMATA,7,28.9
+Book Catalogue,SMATA,8,32.4
+Book Catalogue,SMATA,9,16.4
+Book Catalogue,SMATA,10,24.3
+OpenSudoku,Monkey,1,91.4
+OpenSudoku,Monkey,2,43.9
+OpenSudoku,Monkey,3,79.8
+OpenSudoku,Monkey,4,41.5
+OpenSudoku,Monkey,5,83.8
+OpenSudoku,Monkey,6,72.2
+OpenSudoku,Monkey,7,35.5
+OpenSudoku,Monkey,8,100.0
+OpenSudoku,Monkey,9,56.0
+OpenSudoku,Monkey,10,54.2
+OpenSudoku,Dynodroid,1,69.2
+OpenSudoku,Dynodroid,2,89.2
+OpenSudoku,Dynodroid,3,43.6
+OpenSudoku,Dynodroid,4,66.3
+OpenSudoku,Dynodroid,5,74.0
+OpenSudoku,Dynodroid,6,79.6
+OpenSudoku,Dynodroid,7,68.7
+OpenSudoku,Dynodroid,8,57.3
+OpenSudoku,Dynodroid,9,47.5
+OpenSudoku,Dynodroid,10,66.8
+OpenSudoku,Ad-hoc,1,28.8
+OpenSudoku,Ad-hoc,2,5.0
+OpenSudoku,Ad-hoc,3,54.4
+OpenSudoku,Ad-hoc,4,62.4
+OpenSudoku,Ad-hoc,5,6.8
+OpenSudoku,Ad-hoc,6,29.8
+OpenSudoku,Ad-hoc,7,57.5
+OpenSudoku,Ad-hoc,8,82.0
+OpenSudoku,Ad-hoc,9,47.4
+OpenSudoku,Ad-hoc,10,34.6
+OpenSudoku,SMATA,1,27.0
+OpenSudoku,SMATA,2,39.0
+OpenSudoku,SMATA,3,23.4
+OpenSudoku,SMATA,4,22.2
+OpenSudoku,SMATA,5,24.7
+OpenSudoku,SMATA,6,21.1
+OpenSudoku,SMATA,7,29.3
+OpenSudoku,SMATA,8,40.9
+OpenSudoku,SMATA,9,30.9
+OpenSudoku,SMATA,10,26.5
