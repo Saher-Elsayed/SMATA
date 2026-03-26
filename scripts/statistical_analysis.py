@@ -1,212 +1,334 @@
-#!/usr/bin/env python3
 """
-Statistical Analysis for SMATA Evaluation
+SMATA Statistical Analysis
+===========================
+Full statistical analysis of SMATA vs. baseline experimental results.
+Implements Mann-Whitney U tests, Cohen's d effect sizes, 95% bootstrap
+confidence intervals, and Bonferroni correction.
 
-Performs all statistical tests reported in the paper:
-- Shapiro-Wilk normality tests
-- Mann-Whitney U tests (non-parametric pairwise comparisons)
-- Bonferroni correction for multiple comparisons
-- Cliff's delta effect size
-- Descriptive statistics
+Reproduces all statistical results reported in the paper.
 
-Usage: python scripts/statistical_analysis.py
+Author: Saher Elsayed
 """
 
-import numpy as np
-import pandas as pd
-from scipy import stats
 import json
-import os
+import numpy as np
+from scipy import stats
+from scipy.stats import mannwhitneyu
+from typing import Dict, List, Tuple, Optional
+from pathlib import Path
 import warnings
-warnings.filterwarnings('ignore')
+warnings.filterwarnings("ignore")
 
 
-def cliffs_delta(x, y):
+# ──────────────────────────────────────────────────────────────────
+# Statistical Functions
+# ──────────────────────────────────────────────────────────────────
+
+def cohens_d(a: np.ndarray, b: np.ndarray) -> float:
+    """Compute Cohen's d effect size between two groups."""
+    pooled_std = np.sqrt((np.std(a, ddof=1)**2 + np.std(b, ddof=1)**2) / 2)
+    if pooled_std == 0:
+        return 0.0
+    return (np.mean(a) - np.mean(b)) / pooled_std
+
+
+def bootstrap_ci(a: np.ndarray, b: np.ndarray,
+                 n_bootstrap: int = 2000,
+                 ci: float = 0.95,
+                 seed: int = 42) -> Tuple[float, float]:
     """
-    Calculate Cliff's delta effect size (non-parametric).
-
-    Interpretation:
-      |d| < 0.147: negligible
-      0.147 <= |d| < 0.33: small
-      0.33 <= |d| < 0.474: medium
-      |d| >= 0.474: large
+    Compute bootstrap confidence interval for the difference in means (a - b).
+    Returns (lower, upper) bounds.
     """
-    n_x, n_y = len(x), len(y)
-    more = sum(1 for xi in x for yi in y if xi > yi)
-    less = sum(1 for xi in x for yi in y if xi < yi)
-    d = (more - less) / (n_x * n_y)
-    return d
+    rng = np.random.default_rng(seed)
+    diffs = []
+    n_a, n_b = len(a), len(b)
+    for _ in range(n_bootstrap):
+        sample_a = rng.choice(a, size=n_a, replace=True)
+        sample_b = rng.choice(b, size=n_b, replace=True)
+        diffs.append(np.mean(sample_a) - np.mean(sample_b))
+
+    alpha = 1 - ci
+    lo = np.percentile(diffs, 100 * alpha / 2)
+    hi = np.percentile(diffs, 100 * (1 - alpha / 2))
+    return float(lo), float(hi)
 
 
-def interpret_cliffs_delta(d):
-    """Interpret Cliff's delta magnitude."""
-    ad = abs(d)
-    if ad < 0.147:
+def rank_biserial(u_stat: float, n1: int, n2: int) -> float:
+    """Compute rank-biserial correlation from Mann-Whitney U statistic."""
+    return 1 - (2 * u_stat) / (n1 * n2)
+
+
+def effect_size_label(d: float) -> str:
+    """Classify Cohen's d into small/medium/large/very large."""
+    d = abs(d)
+    if d < 0.2:
         return "negligible"
-    elif ad < 0.33:
+    elif d < 0.5:
         return "small"
-    elif ad < 0.474:
+    elif d < 0.8:
         return "medium"
-    else:
+    elif d < 1.2:
         return "large"
-
-
-def mannwhitney_with_bonferroni(groups, alpha=0.05):
-    """
-    Perform Mann-Whitney U tests between SMATA and all baselines
-    with Bonferroni correction.
-    """
-    results = []
-    smata_data = groups["SMATA"]
-    baselines = [k for k in groups.keys() if k != "SMATA"]
-    n_comparisons = len(baselines)
-    corrected_alpha = alpha / n_comparisons
-
-    for baseline in baselines:
-        baseline_data = groups[baseline]
-        u_stat, p_value = stats.mannwhitneyu(
-            smata_data, baseline_data, alternative='two-sided'
-        )
-        d = cliffs_delta(smata_data.values, baseline_data.values)
-
-        results.append({
-            "comparison": f"SMATA vs {baseline}",
-            "U_statistic": round(u_stat, 1),
-            "p_value": p_value,
-            "p_value_str": f"{p_value:.2e}" if p_value < 0.001 else f"{p_value:.4f}",
-            "bonferroni_alpha": corrected_alpha,
-            "significant": p_value < corrected_alpha,
-            "cliffs_delta": round(d, 3),
-            "effect_size": interpret_cliffs_delta(d),
-            "smata_mean": round(smata_data.mean(), 2),
-            "baseline_mean": round(baseline_data.mean(), 2),
-        })
-
-    return results
-
-
-def normality_tests(groups):
-    """Run Shapiro-Wilk normality tests for each group."""
-    results = []
-    for name, data in groups.items():
-        if len(data) >= 3:
-            w_stat, p_value = stats.shapiro(data)
-            results.append({
-                "group": name,
-                "W_statistic": round(w_stat, 4),
-                "p_value": round(p_value, 4),
-                "normal": p_value > 0.05
-            })
-    return results
-
-
-def analyze_metric(df, metric_col, metric_name):
-    """Full analysis pipeline for one metric."""
-    print(f"\n{'='*60}")
-    print(f"  {metric_name}")
-    print(f"{'='*60}")
-
-    # Descriptive stats
-    desc = df.groupby("approach")[metric_col].agg(["mean", "std", "median", "min", "max"])
-    print(f"\nDescriptive Statistics:")
-    print(desc.round(2).to_string())
-
-    # Normality tests
-    groups = {name: group[metric_col] for name, group in df.groupby("approach")}
-    norm = normality_tests(groups)
-    print(f"\nShapiro-Wilk Normality Tests:")
-    for r in norm:
-        status = "NORMAL" if r["normal"] else "NON-NORMAL"
-        print(f"  {r['group']:12s}: W={r['W_statistic']:.4f}, p={r['p_value']:.4f} [{status}]")
-
-    # Mann-Whitney U with Bonferroni
-    if "SMATA" in groups:
-        mw_results = mannwhitney_with_bonferroni(groups)
-        print(f"\nMann-Whitney U Tests (Bonferroni corrected, alpha/3 = {0.05/3:.4f}):")
-        for r in mw_results:
-            sig = "***" if r["significant"] else "n.s."
-            print(f"  {r['comparison']:25s}: U={r['U_statistic']:8.1f}, "
-                  f"p={r['p_value_str']:10s}, d={r['cliffs_delta']:+.3f} "
-                  f"({r['effect_size']}) {sig}")
     else:
-        mw_results = []
+        return "very large"
+
+
+def bonferroni_threshold(alpha: float, n_comparisons: int) -> float:
+    return alpha / n_comparisons
+
+
+# ──────────────────────────────────────────────────────────────────
+# Pairwise Comparison
+# ──────────────────────────────────────────────────────────────────
+
+def compare_pair(smata: np.ndarray, baseline: np.ndarray,
+                 baseline_name: str,
+                 metric_name: str,
+                 higher_is_better: bool = True,
+                 alpha: float = 0.05,
+                 bonferroni_n: int = 3) -> Dict:
+    """
+    Perform a full pairwise comparison between SMATA and a baseline.
+
+    Returns a dictionary with all statistical measures.
+    """
+    if higher_is_better:
+        u_stat, p_value = mannwhitneyu(smata, baseline, alternative="greater")
+        d = cohens_d(smata, baseline)
+    else:
+        # For metrics where lower is better (e.g., debug time)
+        u_stat, p_value = mannwhitneyu(baseline, smata, alternative="greater")
+        d = cohens_d(baseline, smata)
+
+    corrected_alpha = bonferroni_threshold(alpha, bonferroni_n)
+    significant = p_value < corrected_alpha
+
+    d_abs = abs(d)
+    r_rb = rank_biserial(u_stat, len(smata), len(baseline))
+    ci_lo, ci_hi = bootstrap_ci(smata, baseline)
+
+    if higher_is_better:
+        improvement_pct = (np.mean(smata) - np.mean(baseline)) / max(0.001, np.mean(baseline)) * 100
+        improvement_abs = np.mean(smata) - np.mean(baseline)
+    else:
+        improvement_pct = (np.mean(baseline) - np.mean(smata)) / max(0.001, np.mean(baseline)) * 100
+        improvement_abs = np.mean(baseline) - np.mean(smata)
 
     return {
         "metric": metric_name,
-        "descriptive": desc.round(2).to_dict(),
-        "normality": norm,
-        "mann_whitney": mw_results
+        "baseline": baseline_name,
+        "smata_mean": round(float(np.mean(smata)), 2),
+        "smata_std": round(float(np.std(smata, ddof=1)), 2),
+        "baseline_mean": round(float(np.mean(baseline)), 2),
+        "baseline_std": round(float(np.std(baseline, ddof=1)), 2),
+        "improvement_abs": round(improvement_abs, 2),
+        "improvement_pct": round(improvement_pct, 1),
+        "u_statistic": float(u_stat),
+        "p_value": float(p_value),
+        "p_value_corrected_alpha": corrected_alpha,
+        "significant": significant,
+        "cohens_d": round(d_abs, 3),
+        "effect_size_label": effect_size_label(d_abs),
+        "rank_biserial_r": round(r_rb, 3),
+        "ci_95_lo": round(ci_lo, 2),
+        "ci_95_hi": round(ci_hi, 2),
     }
 
 
-def run_analysis():
-    """Run complete statistical analysis."""
-    print("=" * 60)
+# ──────────────────────────────────────────────────────────────────
+# Full Analysis Pipeline
+# ──────────────────────────────────────────────────────────────────
+
+def run_full_analysis(data_path: str = "data/experiment_data.json",
+                      output_path: str = "data/processed/statistical_results.json") -> Dict:
+    """
+    Run the complete statistical analysis pipeline on experimental data.
+
+    Computes all pairwise comparisons for all metrics with full
+    statistical reporting.
+    """
+    print("=" * 70)
     print("SMATA Statistical Analysis")
-    print("=" * 60)
+    print("=" * 70)
 
-    # Load data
-    df_cov = pd.read_csv("data/raw/coverage_data.csv")
-    df_det = pd.read_csv("data/raw/detection_data.csv")
-    df_repro = pd.read_csv("data/raw/reproducibility_data.csv")
-    df_debug = pd.read_csv("data/raw/debug_time_data.csv")
-    df_setup = pd.read_csv("data/raw/setup_time_data.csv")
+    with open(data_path) as f:
+        data = json.load(f)
 
-    # Filter setup to main 4 approaches
-    df_setup_main = df_setup[df_setup["approach"].isin(
-        ["Monkey", "Dynodroid", "Ad-hoc", "SMATA"]
-    )]
+    results = {}
+    BONFERRONI_N = 3  # 3 comparisons per metric (vs Monkey, Dynodroid, Ad-hoc)
+    ALPHA = 0.05
 
-    all_results = {}
+    # ── Coverage Analysis ────────────────────────────────────────
+    print("\n[RQ1] Code Coverage Analysis")
+    print("-" * 50)
 
-    # Analyze each metric
-    all_results["coverage"] = analyze_metric(df_cov, "coverage_pct", "Code Coverage (%)")
-    all_results["detection"] = analyze_metric(df_det, "detection_pct", "Fault Detection Rate (%)")
-    all_results["reproducibility"] = analyze_metric(df_repro, "reproducibility_pct", "Bug Reproducibility (%)")
-    all_results["debug_time"] = analyze_metric(df_debug, "debug_time_min", "Debug Time (min/bug)")
-    all_results["setup_time"] = analyze_metric(df_setup_main, "setup_time_hours", "Setup Time (hours)")
+    coverage = data["coverage"]
+    smata_cov = np.array(coverage["smata"])
+    monkey_cov = np.array(coverage["monkey"])
+    dynodroid_cov = np.array(coverage["dynodroid"])
+    adhoc_cov = np.array(coverage["adhoc"])
 
-    # SMATA-Reuse vs Ad-hoc comparison
-    print(f"\n{'='*60}")
-    print(f"  SMATA-Reuse vs Ad-hoc Setup Time")
-    print(f"{'='*60}")
-    smata_reuse = df_setup[df_setup["approach"] == "SMATA-Reuse"]["setup_time_hours"]
-    adhoc_setup = df_setup[df_setup["approach"] == "Ad-hoc"]["setup_time_hours"]
-    u, p = stats.mannwhitneyu(smata_reuse, adhoc_setup, alternative='two-sided')
-    d = cliffs_delta(smata_reuse.values, adhoc_setup.values)
-    reduction = (1 - smata_reuse.mean() / adhoc_setup.mean()) * 100
-    print(f"  SMATA-Reuse mean: {smata_reuse.mean():.2f} hours")
-    print(f"  Ad-hoc mean:      {adhoc_setup.mean():.2f} hours")
-    print(f"  Reduction:        {reduction:.1f}%")
-    print(f"  U={u:.1f}, p={p:.2e}, Cliff's d={d:.3f} ({interpret_cliffs_delta(d)})")
+    cov_results = []
+    for baseline_name, baseline_arr in [
+        ("Monkey", monkey_cov),
+        ("Dynodroid", dynodroid_cov),
+        ("Ad-hoc", adhoc_cov),
+    ]:
+        r = compare_pair(smata_cov, baseline_arr, baseline_name,
+                        "Coverage (%)", higher_is_better=True,
+                        bonferroni_n=BONFERRONI_N)
+        cov_results.append(r)
+        sig_marker = "***" if r["p_value"] < 0.001 else "**" if r["p_value"] < 0.01 else "*" if r["significant"] else "ns"
+        print(f"  SMATA vs {baseline_name:12s}: "
+              f"mean_diff={r['improvement_abs']:+.1f}pp | "
+              f"p={r['p_value']:.2e} {sig_marker} | "
+              f"d={r['cohens_d']:.2f} ({r['effect_size_label']}) | "
+              f"95%CI=[{r['ci_95_lo']:.1f},{r['ci_95_hi']:.1f}]")
+    results["coverage"] = cov_results
 
-    # Save full results
-    os.makedirs("data/processed", exist_ok=True)
+    print(f"\n  SMATA: {np.mean(smata_cov):.1f}% +/- {np.std(smata_cov, ddof=1):.1f}%")
+    print(f"  Monkey: {np.mean(monkey_cov):.1f}%, Dynodroid: {np.mean(dynodroid_cov):.1f}%, "
+          f"Ad-hoc: {np.mean(adhoc_cov):.1f}%")
 
-    # Convert results to JSON-serializable format
-    json_results = {}
-    for key, val in all_results.items():
-        json_results[key] = {
-            "metric": val["metric"],
-            "normality": val["normality"],
-            "mann_whitney": val["mann_whitney"]
-        }
+    # ── Fault Detection Analysis ──────────────────────────────────
+    print("\n[RQ2a] Fault Detection Rate Analysis")
+    print("-" * 50)
 
-    json_results["smata_reuse_vs_adhoc"] = {
-        "U_statistic": round(u, 1),
-        "p_value": float(p),
-        "cliffs_delta": round(d, 3),
-        "effect_size": interpret_cliffs_delta(d),
-        "reduction_percent": round(reduction, 1)
+    fd = data["fault_detection"]
+    smata_fd = np.array(fd["smata"]) * 100
+    monkey_fd = np.array(fd["monkey"]) * 100
+    dynodroid_fd = np.array(fd["dynodroid"]) * 100
+    adhoc_fd = np.array(fd["adhoc"]) * 100
+
+    fd_results = []
+    for baseline_name, baseline_arr in [
+        ("Monkey", monkey_fd),
+        ("Dynodroid", dynodroid_fd),
+        ("Ad-hoc", adhoc_fd),
+    ]:
+        r = compare_pair(smata_fd, baseline_arr, baseline_name,
+                        "Fault Detection (%)", bonferroni_n=BONFERRONI_N)
+        fd_results.append(r)
+        sig_marker = "***" if r["p_value"] < 0.001 else "**" if r["p_value"] < 0.01 else "*" if r["significant"] else "ns"
+        print(f"  SMATA vs {baseline_name:12s}: "
+              f"mean_diff={r['improvement_abs']:+.1f}pp | "
+              f"p={r['p_value']:.2e} {sig_marker} | "
+              f"d={r['cohens_d']:.2f} ({r['effect_size_label']})")
+    results["fault_detection"] = fd_results
+
+    # ── Reproducibility Analysis ──────────────────────────────────
+    print("\n[RQ2b] Bug Reproducibility Analysis")
+    print("-" * 50)
+
+    rp = data["reproducibility"]
+    smata_rp = np.array(rp["smata"]) * 100
+    monkey_rp = np.array(rp["monkey"]) * 100
+    dynodroid_rp = np.array(rp["dynodroid"]) * 100
+    adhoc_rp = np.array(rp["adhoc"]) * 100
+
+    rp_results = []
+    for baseline_name, baseline_arr in [
+        ("Monkey", monkey_rp),
+        ("Dynodroid", dynodroid_rp),
+        ("Ad-hoc", adhoc_rp),
+    ]:
+        r = compare_pair(smata_rp, baseline_arr, baseline_name,
+                        "Reproducibility (%)", bonferroni_n=BONFERRONI_N)
+        rp_results.append(r)
+        improvement_x = np.mean(smata_rp) / max(0.001, np.mean(baseline_arr))
+        sig_marker = "***" if r["p_value"] < 0.001 else "**" if r["p_value"] < 0.01 else "*" if r["significant"] else "ns"
+        print(f"  SMATA vs {baseline_name:12s}: "
+              f"{improvement_x:.2f}x improvement | "
+              f"p={r['p_value']:.2e} {sig_marker} | "
+              f"d={r['cohens_d']:.2f} ({r['effect_size_label']})")
+    results["reproducibility"] = rp_results
+
+    # ── Debug Time Analysis ───────────────────────────────────────
+    print("\n[RQ2c] Debugging Time Analysis")
+    print("-" * 50)
+
+    dt = data["debug_time_min"]
+    smata_dt = np.array(dt["smata"])
+    monkey_dt = np.array(dt["monkey"])
+    dynodroid_dt = np.array(dt["dynodroid"])
+    adhoc_dt = np.array(dt["adhoc"])
+
+    dt_results = []
+    for baseline_name, baseline_arr in [
+        ("Monkey", monkey_dt),
+        ("Dynodroid", dynodroid_dt),
+        ("Ad-hoc", adhoc_dt),
+    ]:
+        r = compare_pair(smata_dt, baseline_arr, baseline_name,
+                        "Debug Time (min/bug)", higher_is_better=False,
+                        bonferroni_n=BONFERRONI_N)
+        dt_results.append(r)
+        reduction_pct = r["improvement_pct"]
+        sig_marker = "***" if r["p_value"] < 0.001 else "**" if r["p_value"] < 0.01 else "*" if r["significant"] else "ns"
+        print(f"  SMATA vs {baseline_name:12s}: "
+              f"{reduction_pct:.1f}% reduction | "
+              f"p={r['p_value']:.2e} {sig_marker} | "
+              f"d={r['cohens_d']:.2f} ({r['effect_size_label']})")
+    results["debug_time"] = dt_results
+
+    # ── Setup Time Analysis ───────────────────────────────────────
+    print("\n[RQ3] Setup Time Analysis")
+    print("-" * 50)
+
+    st = data["setup_time_hr"]
+    smata_st_reuse = np.array(st["smata_reuse"])
+    adhoc_st = np.array(st["adhoc"])
+
+    reduction_pct = (np.mean(adhoc_st) - np.mean(smata_st_reuse)) / np.mean(adhoc_st) * 100
+    _, p_setup = mannwhitneyu(adhoc_st, smata_st_reuse, alternative="greater")
+    d_setup = cohens_d(adhoc_st, smata_st_reuse)
+
+    print(f"  SMATA-Reuse vs Ad-hoc: {reduction_pct:.1f}% reduction | "
+          f"p={p_setup:.2e} | d={d_setup:.2f}")
+    print(f"  Ad-hoc: {np.mean(adhoc_st):.1f}h +/- {np.std(adhoc_st, ddof=1):.1f}h")
+    print(f"  SMATA-Reuse: {np.mean(smata_st_reuse):.1f}h +/- {np.std(smata_st_reuse, ddof=1):.1f}h")
+
+    results["setup_time"] = {
+        "smata_reuse_mean": round(float(np.mean(smata_st_reuse)), 2),
+        "adhoc_mean": round(float(np.mean(adhoc_st)), 2),
+        "reduction_pct": round(reduction_pct, 1),
+        "p_value": float(p_setup),
+        "cohens_d": round(d_setup, 2),
     }
 
-    with open("data/processed/statistical_results.json", "w") as f:
-        json.dump(json_results, f, indent=2, default=str)
+    # ── Summary ───────────────────────────────────────────────────
+    print("\n" + "=" * 70)
+    print("SUMMARY TABLE")
+    print("=" * 70)
+    print(f"{'Metric':<20} {'Monkey':>12} {'Dynodroid':>12} {'Ad-hoc':>12} {'SMATA':>12}")
+    print("-" * 70)
 
-    print(f"\n{'='*60}")
-    print("Analysis complete. Results saved to data/processed/statistical_results.json")
-    print(f"{'='*60}")
+    metrics_data = [
+        ("Coverage (%)",    monkey_cov, dynodroid_cov, adhoc_cov, smata_cov),
+        ("Fault Det. (%)",  monkey_fd,  dynodroid_fd,  adhoc_fd,  smata_fd),
+        ("Reprod. (%)",     monkey_rp,  dynodroid_rp,  adhoc_rp,  smata_rp),
+        ("Debug (min/bug)", monkey_dt,  dynodroid_dt,  adhoc_dt,  smata_dt),
+    ]
+
+    for name, m, d, a, s in metrics_data:
+        print(f"{name:<20} "
+              f"{np.mean(m):>7.1f}+/-{np.std(m,ddof=1):<4.1f} "
+              f"{np.mean(d):>7.1f}+/-{np.std(d,ddof=1):<4.1f} "
+              f"{np.mean(a):>7.1f}+/-{np.std(a,ddof=1):<4.1f} "
+              f"{np.mean(s):>7.1f}+/-{np.std(s,ddof=1):<4.1f}")
+
+    # Save results
+    Path(output_path).parent.mkdir(parents=True, exist_ok=True)
+    with open(output_path, "w") as f:
+        json.dump(results, f, indent=2)
+    print(f"\nResults saved to {output_path}")
+
+    return results
 
 
 if __name__ == "__main__":
-    run_analysis()
+    import sys
+    data_path = sys.argv[1] if len(sys.argv) > 1 else "data/experiment_data.json"
+    output_path = sys.argv[2] if len(sys.argv) > 2 else "data/processed/statistical_results.json"
+    run_full_analysis(data_path, output_path)

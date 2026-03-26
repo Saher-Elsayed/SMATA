@@ -1,0 +1,41 @@
+[
+  {
+    "name": "k9mail_login",
+    "description": "Login to K-9 Mail with IMAP credentials",
+    "state_patterns": ["AccountSetup|WelcomeMessage|Login|setup"],
+    "platform": "android",
+    "app_package": "com.fsck.k9",
+    "priority": 10,
+    "tags": ["login", "email", "imap"],
+    "actions": [
+      {"action": "tap", "target": "com.fsck.k9:id/next", "description": "Tap Next on welcome", "optional": true},
+      {"action": "tap", "target": "com.fsck.k9:id/account_email", "description": "Tap email field"},
+      {"action": "type_text", "value": "test@example.com", "description": "Enter email"},
+      {"action": "tap", "target": "com.fsck.k9:id/account_password", "description": "Tap password field"},
+      {"action": "type_text", "value": "testpassword", "description": "Enter password"},
+      {"action": "tap", "target": "com.fsck.k9:id/next", "description": "Tap Next"},
+      {"action": "wait", "value": "3000", "description": "Wait for server check"},
+      {"action": "tap", "target": "com.fsck.k9:id/done", "description": "Tap Done", "optional": true}
+    ],
+    "expected_final_state": "MessageList|Inbox"
+  },
+  {
+    "name": "wordpress_login",
+    "description": "Login to WordPress app",
+    "state_patterns": ["SignIn|Login|Prologue|welcome"],
+    "platform": "android",
+    "app_package": "org.wordpress.android",
+    "priority": 10,
+    "tags": ["login", "wordpress", "oauth"],
+    "actions": [
+      {"action": "tap", "target": "org.wordpress.android:id/login_button", "description": "Tap Log In"},
+      {"action": "tap", "target": "org.wordpress.android:id/login_email_row", "description": "Tap email"},
+      {"action": "type_text", "value": "test@example.com", "description": "Enter email"},
+      {"action": "tap", "target": "org.wordpress.android:id/login_continue_button", "description": "Continue"},
+      {"action": "wait", "value": "2000"},
+      {"action": "type_text", "value": "testpassword", "description": "Enter password"},
+      {"action": "tap", "target": "org.wordpress.android:id/login_continue_button", "description": "Login"},
+      {"action": "wait", "value": "3000", "description": "Wait for dashboard"}
+    ]
+  }
+]
