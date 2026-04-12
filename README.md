@@ -8,7 +8,7 @@
 >
 > **Author:** Saher Elsayed, University of Pennsylvania (selsayed@seas.upenn.edu)
 >
-> **Status:** Under review at Software Quality Journal (Springer)
+> **Status:** Under review at IEEE ACCESS
 
 ---
 
