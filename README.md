@@ -183,11 +183,11 @@ Full 50-app table in `docs/app_table.tex` and `data/experiment_data.json`.
 
 ```bibtex
 @article{elsayed2026smata,
-  author  = {Elsayed, Saher},
+  author  = {Elsayed, Saher; Aziz, Khairi Azhar},
   title   = {{SMATA: A Structured Mobile Application Testing Architecture}},
   journal = {IEEE ACCESS,
   year    = {2026},
-  note    = {Under review},
+  note    = {ACCEPTED},
   url     = {https://github.com/Saher-Elsayed/SMATA}
 }
 ```
